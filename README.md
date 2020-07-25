@@ -10,6 +10,6 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 - Web Developer (JavaScript, TypeScript, NodeJS, React, VueJS)
 - Backend Developer (NodeJS, NestJS, ExpressJs, MongoDB, Golang)
-- IOS developer (prospective) (SwiftUI, React Native)
+- iOS Developer (prospective) (SwiftUI, React Native)
 
 更多介绍前往：[自述 -- 静之森](https://innei.ren/about)
