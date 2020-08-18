@@ -9,7 +9,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 在互联网领域，他常常在 GitHub 中活跃，并且向往于成为自由独立开发者。他具备以下技能：
 
 - Web Developer (JavaScript, TypeScript, NodeJS, React, VueJS)
-- Backend Developer (NodeJS, NestJS, ExpressJs, MongoDB, Golang)
+- Backend Developer (NodeJS, NestJS, Express, MongoDB, Golang)
 - iOS Developer (prospective) (SwiftUI, React Native)
 
 更多介绍前往：[自述 -- 静之森](https://innei.ren/about)
