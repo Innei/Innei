@@ -1,7 +1,5 @@
 ### Innei 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Innei.readme)
 
-![](https://github-readme-stats.vercel.app/api?username=innei&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
-
 Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段为在读学生，坐标温州。
 
 生活中，他是一个不擅长与人交流和表达内心真实想法的人（自闭）。常常杞人忧天，并放眼于未来的人。同时又感到不安和忧郁。
@@ -13,3 +11,6 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 - iOS Developer (prospective) (SwiftUI, React Native)
 
 更多介绍前往：[自述 -- 静之森](https://innei.ren/about)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Innei&layout=compact)](#)
+[![](https://github-readme-stats.vercel.app/api?username=innei&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)](#)
