@@ -12,6 +12,9 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 更多介绍前往：[自述 -- 静之森](https://innei.ren/about)
 
+<!--
 我正在寻找 22 届暑期实习机会，--> [Résumé](https://resume.innei.ren)
 
 ![](https://github-readme-stats.vercel.app/api?username=innei&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
+
+-->
