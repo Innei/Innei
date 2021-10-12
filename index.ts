@@ -183,7 +183,7 @@ ${topStar5}
       m`
     <p align="center">此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！
     </br>
-    刷信于：${now.toLocaleString(undefined, {
+    刷新于：${now.toLocaleString(undefined, {
       timeStyle: 'short',
       dateStyle: 'short',
       timeZone,
