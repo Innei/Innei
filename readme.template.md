@@ -62,19 +62,19 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **开源在...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>📚 Forks</b></td><td><b>🛎 Issues</b></td><td><b>📬 Pull requests</b></td></tr></thead><tbody><tr><td><a href=https://github.com/mx-space/kami><b>mx-space/kami</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mx-space/kami?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mx-space/kami?style=flat-square&labelColor=343b41"></td><td><img alt=Issues src="https://img.shields.io/github/issues/mx-space/kami?style=flat-square&labelColor=343b41"></td><td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mx-space/kami?style=flat-square&labelColor=343b41"></td></tr><tr><td><a href=https://github.com/mx-space/server-next><b>mx-space/server-next</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mx-space/server-next?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mx-space/server-next?style=flat-square&labelColor=343b41"></td><td><img alt=Issues src="https://img.shields.io/github/issues/mx-space/server-next?style=flat-square&labelColor=343b41"></td><td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mx-space/server-next?style=flat-square&labelColor=343b41"></td></tr><tr><td><a href=https://github.com/mx-space/admin-next><b>mx-space/admin-next</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mx-space/admin-next?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mx-space/admin-next?style=flat-square&labelColor=343b41"></td><td><img alt=Issues src="https://img.shields.io/github/issues/mx-space/admin-next?style=flat-square&labelColor=343b41"></td><td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mx-space/admin-next?style=flat-square&labelColor=343b41"></td></tr></tbody></table>
+<!-- opensource_dashboard:active -->
 
 **最近写了...**
 
-<ul><li><span style="display: flex; justify-content: space-between;"><a href=https://innei.ren/posts/website/host-an-entire-Mix-Space-using-Docker>终于可以使用 Docker 托管整个 Mix Space 了</a><time>10/2/21</time></span><p>终于可以使用 Docker 托管整个 Mix Space 了。好耶！ヾ(✿ﾟ▽ﾟ)ノ</p></li><li><span style="display: flex; justify-content: space-between;"><a href=https://innei.ren/posts/technology/docker-node-ncc>再遇 Docker，容器化 Node 应用</a><time>9/23/21</time></span></li><li><span style="display: flex; justify-content: space-between;"><a href=https://innei.ren/posts/technology/github-ci-cd>使用 GitHub CI 云构建和自动部署</a><time>9/11/21</time></span></li><li><span style="display: flex; justify-content: space-between;"><a href=https://innei.ren/posts/programming/pageproxy-spa-inject>pageproxy，为 spa 提供初始数据注入</a><time>8/14/21</time></span></li><li><span style="display: flex; justify-content: space-between;"><a href=https://innei.ren/posts/programming/mx-space-vue-3>曲折的 Vue 3 重构后台之路</a><time>6/21/21</time></span></li></ul>
+<!-- recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/nartc/mapper>nartc/mapper</a><p>🔥 An Object-Object AutoMapper for TypeScript 🔥</p></li><li><a href=https://github.com/WorkerLivesMatter/WorkerLivesMatter>WorkerLivesMatter/WorkerLivesMatter</a></li><li><a href=https://github.com/wtchnm/Vitamin>wtchnm/Vitamin</a><p>Opinionated Vite starter template.</p></li><li><a href=https://github.com/ant-design/pro-components>ant-design/pro-components</a><p>🏆 Use Ant Design like a Pro!</p></li><li><a href=https://github.com/felixhageloh/uebersicht>felixhageloh/uebersicht</a><p>ˈyːbɐˌzɪçt</p></li></ul>
+<!-- recent_star_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/WorkerLivesMatter/WorkerLivesMatter>WorkerLivesMatter/WorkerLivesMatter</a></li><li><a href=https://github.com/nartc/mapper>nartc/mapper</a><p>🔥 An Object-Object AutoMapper for TypeScript 🔥</p></li><li><a href=https://github.com/ant-design/pro-components>ant-design/pro-components</a><p>🏆 Use Ant Design like a Pro!</p></li><li><a href=https://github.com/felixhageloh/uebersicht>felixhageloh/uebersicht</a><p>ˈyːbɐˌzɪçt</p></li><li><a href=https://github.com/wtchnm/Vitamin>wtchnm/Vitamin</a><p>Opinionated Vite starter template.</p></li></ul>
+<!-- random_github_stars_inject -->
 
 **捉迷藏**
 
@@ -82,4 +82,4 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 ------------
 
-<p align=center>此文件<i>README</i><b>间隔 3 小时</b>自动刷新生成！<br>下一次刷新：10/13/21, 12:10 AM</p>
+<!-- footer_inject -->
