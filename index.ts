@@ -155,7 +155,11 @@ ${topStar5}
 
   {
     const posts = await axios
-      .get(mxSpace.api + '/posts?size=5', {
+      .get(mxSpace.api + '/posts', {
+        params: {
+          size: 5,
+          select: '-text',
+        },
         timeout: 10 * 1000,
       })
       .then((data) => data.data)
