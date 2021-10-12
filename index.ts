@@ -7,6 +7,10 @@ import { github, mxSpace, opensource } from './config'
 import { COMMNETS } from './constants'
 const githubAPIEndPoint = 'https://api.github.com'
 
+const userAgent =
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36'
+
+axios.defaults.headers.common['User-Agent'] = userAgent
 const gh = axios.create({
   baseURL: githubAPIEndPoint,
   timeout: 4000,
