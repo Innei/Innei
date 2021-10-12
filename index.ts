@@ -3,9 +3,21 @@ import dayjs from 'dayjs'
 import { readFile, rm, writeFile } from 'fs/promises'
 import { minify } from 'html-minifier'
 import { shuffle } from 'lodash'
+import rax from 'retry-axios'
 import { github, mxSpace, opensource } from './config'
 import { COMMNETS } from './constants'
 const githubAPIEndPoint = 'https://api.github.com'
+
+rax.attach()
+axios.defaults.raxConfig = {
+  retry: 5,
+  retryDelay: 4000,
+  onRetryAttempt: (err) => {
+    const cfg = rax.getConfig(err)
+    console.log('request: \n', err.request)
+    console.log(`Retry attempt #${cfg.currentRetryAttempt}`)
+  },
+}
 
 const userAgent =
   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36'
@@ -142,7 +154,9 @@ ${topStar5}
 
   {
     const posts = await axios
-      .get(mxSpace.api + '/posts?size=5')
+      .get(mxSpace.api + '/posts?size=5', {
+        timeout: 10 * 1000,
+      })
       .then((data) => data.data)
       .then(({ data }: any) =>
         data.reduce((s, d) => s + generatePostItemHTML(d), ''),
