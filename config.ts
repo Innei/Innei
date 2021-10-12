@@ -10,3 +10,5 @@ export const mxSpace = {
   url: 'https://innei.ren',
   api: 'https://api.innei.ren/v2',
 }
+
+export const timeZone = 'Asia/Shanghai'

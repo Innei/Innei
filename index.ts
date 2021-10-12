@@ -4,7 +4,7 @@ import { readFile, rm, writeFile } from 'fs/promises'
 import { minify } from 'html-minifier'
 import { shuffle } from 'lodash'
 import rax from 'retry-axios'
-import { github, mxSpace, opensource } from './config'
+import { github, mxSpace, opensource, timeZone } from './config'
 import { COMMNETS } from './constants'
 const githubAPIEndPoint = 'https://api.github.com'
 
@@ -95,6 +95,7 @@ function generateRepoHTML<T extends GHItem>(item: T) {
 function generatePostItemHTML<T extends PostItem>(item: T) {
   return m`<li><span>${new Date(item.created).toLocaleDateString(undefined, {
     dateStyle: 'short',
+    timeZone,
   })} -  <a href="${
     mxSpace.url + '/posts/' + item.category.slug + '/' + item.slug
   }">${item.title}</a></span>${
@@ -185,11 +186,13 @@ ${topStar5}
     刷信于：${now.toLocaleString(undefined, {
       timeStyle: 'short',
       dateStyle: 'short',
+      timeZone,
     })}
     <br/>
     下一次刷新：${next.toLocaleString(undefined, {
       timeStyle: 'short',
       dateStyle: 'short',
+      timeZone,
     })}</p>
     `,
     )
