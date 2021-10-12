@@ -139,7 +139,7 @@ ${topStar5}
     )
 
     // 曾经点过的 Star
-    const random = shuffle(star.slice().splice(0, 5))
+    const random = shuffle(star.slice(5))
       .slice(0, 5)
       .reduce((str, cur) => str + generateRepoHTML(cur), '')
 
