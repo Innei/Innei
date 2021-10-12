@@ -67,7 +67,7 @@ function generateOpenSourceSectionHtml<T extends GHItem>(list: T[]) {
 }
 
 /**
- *
+ * 生成 Repo  HTML 结构
  */
 
 function generateRepoHTML<T extends GHItem>(item: T) {
@@ -77,14 +77,13 @@ function generateRepoHTML<T extends GHItem>(item: T) {
 }
 
 function generatePostItemHTML<T extends PostItem>(item: T) {
-  return m`<li><span style="display: flex; justify-content: space-between;"><a href="${
+  return m`<li><span>${new Date(item.created).toLocaleDateString(undefined, {
+    dateStyle: 'short',
+  })} -  <a href="${
     mxSpace.url + '/posts/' + item.category.slug + '/' + item.slug
-  }">${item.title}</a><time>${new Date(item.created).toLocaleDateString(
-    undefined,
-    {
-      dateStyle: 'short',
-    },
-  )}</time> </span>${item.summary ? `<p>${item.summary}</p>` : ''}</li>`
+  }">${item.title}</a></span>${
+    item.summary ? `<p>${item.summary}</p>` : ''
+  }</li>`
 }
 
 async function main() {
@@ -163,10 +162,17 @@ ${topStar5}
     newContent = newContent.replace(
       gc('FOOTER'),
       m`
-    <p align="center">此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！</br>下一次刷新：${next.toLocaleString(
-      undefined,
-      { timeStyle: 'short', dateStyle: 'short' },
-    )}</p>
+    <p align="center">此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！
+    </br>
+    刷信于：${now.toLocaleString(undefined, {
+      timeStyle: 'short',
+      dateStyle: 'short',
+    })}
+    <br/>
+    下一次刷新：${next.toLocaleString(undefined, {
+      timeStyle: 'short',
+      dateStyle: 'short',
+    })}</p>
     `,
     )
   }
@@ -185,7 +191,6 @@ function m(html: TemplateStringsArray, ...args: any[]) {
     removeAttributeQuotes: true,
     removeEmptyAttributes: true,
     removeTagWhitespace: true,
-    collapseInlineTagWhitespace: true,
     collapseWhitespace: true,
   }).trim()
 }
