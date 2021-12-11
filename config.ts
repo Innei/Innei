@@ -1,5 +1,16 @@
 export const opensource = {
-  active: ['mx-space/kami', 'mx-space/server-next', 'mx-space/admin-next'],
+  active: [
+    'mx-space/kami',
+    'mx-space/server-next',
+    'mx-space/admin-next',
+    // 'mx-space/api-client',
+  ],
+  toys: [
+    'Innei/react-typewriter',
+    'Innei/simple-clock',
+    'Innei/shuffle-article',
+    'Innei/bump-version',
+  ],
 }
 
 export const github = {

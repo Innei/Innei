@@ -6,6 +6,11 @@ import { shuffle } from 'lodash'
 import rax from 'retry-axios'
 import { github, mxSpace, opensource, timeZone } from './config'
 import { COMMNETS } from './constants'
+import { GRepo } from './types'
+import MarkdownIt from 'markdown-it'
+const md = new MarkdownIt({
+  html: true,
+})
 const githubAPIEndPoint = 'https://api.github.com'
 
 rax.attach()
@@ -26,6 +31,11 @@ axios.defaults.headers.common['User-Agent'] = userAgent
 const gh = axios.create({
   baseURL: githubAPIEndPoint,
   timeout: 4000,
+})
+
+gh.interceptors.response.use(undefined, (err) => {
+  console.log(err.message)
+  return Promise.reject(err.message)
 })
 
 type GHItem = {
@@ -83,6 +93,41 @@ function generateOpenSourceSectionHtml<T extends GHItem>(list: T[]) {
 }
 
 /**
+ * 生成 `写过的玩具` 结构
+ */
+
+function generateToysHTML(list: GRepo[]) {
+  const tbody = list.reduce(
+    (str, cur) =>
+      str +
+      ` <tr>
+  <td><a href="${cur.html_url}" target="_blank"><b>
+  ${cur.full_name}</b></a> ${
+        cur.homepage ? `<a href="${cur.homepage}" target="_blank">🔗</a>` : ''
+      }</td>
+  <td><img alt="Stars" src="https://img.shields.io/github/stars/${
+    cur.full_name
+  }?style=flat-square&labelColor=343b41"/></td>
+  <td>${new Date(cur.created_at).toLocaleDateString()}</td>
+  <td>${new Date(cur.pushed_at).toLocaleDateString()}</td>
+</tr>`,
+    ``,
+  )
+  return m`<table>
+  <thead align="center">
+  <tr border: none;>
+    <td><b>🎁 Projects</b></td>
+    <td><b>⭐ Stars</b></td>
+    <td><b>🕐 Create At</b></td>
+    <td><b>📅 Last Active At</b></td>
+  </tr>
+</thead><tbody>
+${tbody}
+</tbody>
+</table>`
+}
+
+/**
  * 生成 Repo  HTML 结构
  */
 
@@ -107,16 +152,25 @@ async function main() {
   const template = await readFile('./readme.template.md', { encoding: 'utf-8' })
   let newContent = template
   // 获取活跃的开源项目详情
-  const activeOpenSourceDetail = await Promise.all(
+  const activeOpenSourceDetail: GRepo[] = await Promise.all(
     opensource.active.map((name) => {
       return gh.get('/repos/' + name).then((data) => data.data)
     }),
   )
 
-  newContent = newContent.replace(
-    gc('OPENSOURCE_DASHBOARD_ACTIVE'),
-    generateOpenSourceSectionHtml(activeOpenSourceDetail),
+  // 获取写过的玩具开源项目详情
+  const toysProjectDetail: GRepo[] = await Promise.all(
+    opensource.toys.map((name) => {
+      return gh.get('/repos/' + name).then((data) => data.data)
+    }),
   )
+
+  newContent = newContent
+    .replace(
+      gc('OPENSOURCE_DASHBOARD_ACTIVE'),
+      generateOpenSourceSectionHtml(activeOpenSourceDetail),
+    )
+    .replace(gc('OPENSOURCE_TOYS'), generateToysHTML(toysProjectDetail))
 
   // 获取 Star
   const star: any[] = await gh
@@ -204,6 +258,9 @@ ${topStar5}
 
   await rm('./readme.md', { force: true })
   await writeFile('./readme.md', newContent, { encoding: 'utf-8' })
+
+  const result = md.render(newContent)
+  await writeFile('./index.html', result, { encoding: 'utf-8' })
 }
 
 function gc(token: keyof typeof COMMNETS) {
