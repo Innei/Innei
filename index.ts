@@ -4,10 +4,11 @@ import { readFile, rm, writeFile } from 'fs/promises'
 import { minify } from 'html-minifier'
 import { shuffle } from 'lodash'
 import rax from 'retry-axios'
-import { github, mxSpace, opensource, timeZone } from './config'
+import { github, motto, mxSpace, opensource, timeZone } from './config'
 import { COMMNETS } from './constants'
 import { GRepo } from './types'
 import MarkdownIt from 'markdown-it'
+import { config } from 'process'
 const md = new MarkdownIt({
   html: true,
 })
@@ -256,6 +257,7 @@ ${topStar5}
     )
   }
 
+  newContent = newContent.replace(gc('MOTTO'), motto)
   await rm('./readme.md', { force: true })
   await writeFile('./readme.md', newContent, { encoding: 'utf-8' })
 
