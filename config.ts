@@ -12,7 +12,7 @@ export const opensource = {
     'Innei/bump-version',
   ],
 }
-
+export const motto = `<p align=center><strong>今天也是充满七万的一天</strong></p>`
 export const github = {
   name: 'Innei',
 }
