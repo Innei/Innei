@@ -5,12 +5,19 @@ export const opensource = {
     'mx-space/admin-next',
     // 'mx-space/api-client',
   ],
-  toys: [
-    'Innei/react-typewriter',
-    'Innei/simple-clock',
-    'Innei/shuffle-article',
-    'Innei/bump-version',
-  ],
+  toys: {
+    limit: 3,
+    random: true,
+    repos: [
+      'Innei/react-typewriter',
+      'Innei/simple-clock',
+      'Innei/shuffle-article',
+      'Innei/bump-version',
+      'Innei/candy',
+      'Innei/pageproxy',
+      'Innei/animate-uri',
+    ],
+  },
 }
 export const motto = `<p align=center><strong>今天也是充满七万的一天</strong></p>`
 export const github = {
