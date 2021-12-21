@@ -3,12 +3,11 @@ import dayjs from 'dayjs'
 import { readFile, rm, writeFile } from 'fs/promises'
 import { minify } from 'html-minifier'
 import { shuffle } from 'lodash'
+import MarkdownIt from 'markdown-it'
 import rax from 'retry-axios'
 import { github, motto, mxSpace, opensource, timeZone } from './config'
 import { COMMNETS } from './constants'
 import { GRepo } from './types'
-import MarkdownIt from 'markdown-it'
-import { config } from 'process'
 const md = new MarkdownIt({
   html: true,
 })
@@ -160,8 +159,12 @@ async function main() {
   )
 
   // 获取写过的玩具开源项目详情
+  const limit = opensource.toys.limit
+  const toys = opensource.toys.random
+    ? shuffle(opensource.toys.repos).slice(0, limit)
+    : opensource.toys.repos.slice(0, limit)
   const toysProjectDetail: GRepo[] = await Promise.all(
-    opensource.toys.map((name) => {
+    toys.map((name) => {
       return gh.get('/repos/' + name).then((data) => data.data)
     }),
   )
