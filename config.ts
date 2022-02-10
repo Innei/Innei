@@ -1,9 +1,9 @@
 export const opensource = {
   active: [
     'mx-space/kami',
-    'mx-space/server-next',
-    'mx-space/admin-next',
-    // 'mx-space/api-client',
+    'mx-space/mx-server',
+    'mx-space/mx-admin',
+    'mx-space/api-client',
   ],
   toys: {
     limit: 3,
@@ -19,7 +19,7 @@ export const opensource = {
     ],
   },
 }
-export const motto = `<p align=center><strong>今天也是充满七万的一天</strong></p>`
+export const motto = `<p align=center><strong>お可愛いこと。</strong></p>`
 export const github = {
   name: 'Innei',
 }
