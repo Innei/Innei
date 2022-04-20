@@ -69,6 +69,15 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
   <img alt="nvim" src="https://img.shields.io/badge/NeoVim-649047?style=flat-square&logo=neovim&logoColor=ffffff" />
 </p>
 
+<!-- <p align="center">
+  <a href="https://github.com/surmon-china/README.md/tree/main/templates/github-top-languages#gh-dark-mode-only">
+    <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=innei&props.theme=dark&props.background=transparent&props.count=12&props.columns=4&props.columnGap=66&props.legendSize=6&svg.width=846&svg.height=188">
+  </a>
+  <a href="https://github.com/surmon-china/README.md/tree/main/templates/github-top-languages#gh-light-mode-only">
+    <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=innei&props.background=transparent&props.count=12&props.columns=4&props.columnGap=66&props.legendSize=6&svg.width=846&svg.height=188">
+  </a>
+</p> -->
+
 **开源在...**
 
 <!-- opensource_dashboard:active -->
