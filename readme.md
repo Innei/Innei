@@ -84,7 +84,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>5/27/2021</td></tr><tr><td><a href=https://github.com/Innei/react-typewriter target=_blank><b>Innei/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>5/4/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>5/27/2021</td></tr><tr><td><a href=https://github.com/Innei/bump-version target=_blank><b>Innei/bump-version</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/bump-version?style=flat-square&labelColor=343b41"></td><td>10/2/2021</td><td>2/18/2022</td></tr><tr><td><a href=https://github.com/Innei/react-typewriter target=_blank><b>Innei/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>5/4/2022</td></tr></tbody></table>
 
 **最近写了...**
 
@@ -96,7 +96,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/vadimdemedes/tailwind-rn>vadimdemedes/tailwind-rn</a><p>🦎 Use Tailwind CSS in React Native projects</p></li><li><a href=https://github.com/R-r-riddikulus/riddikulus-shanghai-2022>R-r-riddikulus/riddikulus-shanghai-2022</a><p>上海2022封城实录</p></li><li><a href=https://github.com/Lakr233/MoneyProgress>Lakr233/MoneyProgress</a><p>借一个上班的进度条。</p></li><li><a href=https://github.com/VirgilClyne/iRingo>VirgilClyne/iRingo</a><p>解锁完整的 Apple功能和集成服务</p></li><li><a href=https://github.com/Hagb/docker-easyconnect>Hagb/docker-easyconnect</a><p>使深信服（Sangfor）开发的非自由的代理软件 EasyConnect 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务</p></li></ul>
+<ul><li><a href=https://github.com/wangdicoder/tiny-ui>wangdicoder/tiny-ui</a><p>⚛️ A friendly UI component set for React.js</p></li><li><a href=https://github.com/tj/n>tj/n</a><p>Node version management</p></li><li><a href=https://github.com/vadimdemedes/tailwind-rn>vadimdemedes/tailwind-rn</a><p>🦎 Use Tailwind CSS in React Native projects</p></li><li><a href=https://github.com/bloomberg/memray>bloomberg/memray</a><p>Memray is a memory profiler for Python</p></li><li><a href=https://github.com/antfu/vue-starport>antfu/vue-starport</a><p>🛰 Shared component across routes with animations</p></li></ul>
 
 **你能找到我吗**
 
@@ -105,4 +105,4 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/6/22, 5:08 AM<br>下一次刷新：5/6/22, 8:08 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/6/22, 8:29 AM<br>下一次刷新：5/6/22, 11:29 AM</p>
