@@ -16,6 +16,7 @@ export const opensource = {
       'Innei/candy',
       'Innei/pageproxy',
       'Innei/animate-uri',
+      'Innei/vue-react-wrapper' 
     ],
   },
 }
