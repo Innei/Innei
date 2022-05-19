@@ -84,7 +84,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>5/16/2022</td></tr><tr><td><a href=https://github.com/Innei/bump-version target=_blank><b>Innei/bump-version</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/bump-version?style=flat-square&labelColor=343b41"></td><td>10/2/2021</td><td>2/18/2022</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>1/2/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>5/15/2022</td></tr><tr><td><a href=https://github.com/Innei/bump-version target=_blank><b>Innei/bump-version</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/bump-version?style=flat-square&labelColor=343b41"></td><td>10/2/2021</td><td>2/18/2022</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>1/2/2022</td></tr></tbody></table>
 
 **最近写了...**
 
@@ -96,7 +96,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/CodeEditApp/CodeEdit>CodeEditApp/CodeEdit</a><p>CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.</p></li><li><a href=https://github.com/R-r-riddikulus/riddikulus-shanghai-2022>R-r-riddikulus/riddikulus-shanghai-2022</a><p>上海2022封城实录</p></li><li><a href=https://github.com/wangdicoder/tiny-ui>wangdicoder/tiny-ui</a><p>⚛️ A friendly UI component set for React.js</p></li><li><a href=https://github.com/antfu/vscode-file-nesting-config>antfu/vscode-file-nesting-config</a><p>Config of File Nesting for VS Code</p></li><li><a href=https://github.com/antfu/vue-starport>antfu/vue-starport</a><p>🛰 Shared component across routes with animations</p></li></ul>
+<ul><li><a href=https://github.com/schrodinger/fixed-data-table-2>schrodinger/fixed-data-table-2</a><p>A React table component designed to allow presenting millions of rows of data.</p></li><li><a href=https://github.com/jscottsmith/react-scroll-parallax>jscottsmith/react-scroll-parallax</a><p>🔮 React hooks and components to create parallax scroll effects for banners, images or any other DOM elements.</p></li><li><a href=https://github.com/R-r-riddikulus/riddikulus-shanghai-2022>R-r-riddikulus/riddikulus-shanghai-2022</a><p>上海2022封城实录</p></li><li><a href=https://github.com/antfu/vue-starport>antfu/vue-starport</a><p>🛰 Shared component across routes with animations</p></li><li><a href=https://github.com/httpie/httpie>httpie/httpie</a><p>As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie</p></li></ul>
 
 **你能找到我吗**
 
@@ -105,4 +105,4 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/19/22, 11:46 AM<br>下一次刷新：5/19/22, 2:46 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/19/22, 2:08 PM<br>下一次刷新：5/19/22, 5:08 PM</p>
