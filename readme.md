@@ -88,7 +88,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>5/27/2021</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>5/15/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>5/15/2022</td></tr><tr><td><a href=https://github.com/Innei/react-typewriter target=_blank><b>Innei/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>5/16/2022</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr></tbody></table>
 
 **最近写了...**
 
@@ -100,7 +100,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/codex-team/editor.js>codex-team/editor.js</a><p>A block-styled editor with clean JSON output</p></li><li><a href=https://github.com/shikijs/shiki>shikijs/shiki</a><p>A beautiful Syntax Highlighter.</p></li><li><a href=https://github.com/antfu/export-size>antfu/export-size</a><p>Analysis bundle cost for each export of a package</p></li><li><a href=https://github.com/wangdicoder/tiny-ui>wangdicoder/tiny-ui</a><p>⚛️ A friendly UI component set for React.js</p></li><li><a href=https://github.com/antfu/vue-minesweeper>antfu/vue-minesweeper</a><p>A tiny minesweeper clone in Vue 3</p></li></ul>
+<ul><li><a href=https://github.com/schrodinger/fixed-data-table-2>schrodinger/fixed-data-table-2</a><p>A React table component designed to allow presenting millions of rows of data.</p></li><li><a href=https://github.com/CodeEditApp/CodeEdit>CodeEditApp/CodeEdit</a><p>CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.</p></li><li><a href=https://github.com/antfu/export-size>antfu/export-size</a><p>Analysis bundle cost for each export of a package</p></li><li><a href=https://github.com/nektos/act>nektos/act</a><p>Run your GitHub Actions locally 🚀</p></li><li><a href=https://github.com/impressivewebs/frontend-feeds>impressivewebs/frontend-feeds</a><p>An up to date list of RSS feeds for front-end developers.</p></li></ul>
 
 **你能找到我吗**
 
@@ -109,4 +109,4 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/23/22, 11:46 AM<br>下一次刷新：5/23/22, 2:46 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/23/22, 5:06 PM<br>下一次刷新：5/23/22, 8:06 PM</p>
