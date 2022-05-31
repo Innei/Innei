@@ -10,6 +10,7 @@ export const opensource = {
     random: true,
     repos: [
       'Innei/react-typewriter',
+      'Innei/react-shortcut-guide',
       'Innei/simple-clock',
       'Innei/shuffle-article',
       'Innei/bump-version',
