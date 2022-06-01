@@ -8,6 +8,22 @@ import rax from 'retry-axios'
 import { github, motto, mxSpace, opensource, timeZone } from './config'
 import { COMMNETS } from './constants'
 import { GRepo } from './types'
+import {
+  AggregateController,
+  createClient,
+  NoteModel,
+  PostModel,
+} from '@mx-space/api-client'
+import { axiosAdaptor } from '@mx-space/api-client/lib/adaptors/axios'
+
+const mxClient = createClient(axiosAdaptor)(mxSpace.api, {
+  controllers: [AggregateController],
+})
+
+axiosAdaptor.default.interceptors.request.use((req) => {
+  req.headers && (req.headers['User-Agent'] = 'Innei profile')
+  return req
+})
 
 const md = new MarkdownIt({
   html: true,
@@ -140,7 +156,7 @@ function generateRepoHTML<T extends GHItem>(item: T) {
   }</li>`
 }
 
-function generatePostItemHTML<T extends PostItem>(item: T) {
+function generatePostItemHTML<T extends Partial<PostModel>>(item: T) {
   return m`<li><span>${new Date(item.created).toLocaleDateString(undefined, {
     dateStyle: 'short',
     timeZone,
@@ -149,6 +165,15 @@ function generatePostItemHTML<T extends PostItem>(item: T) {
   }">${item.title}</a></span>${
     item.summary ? `<p>${item.summary}</p>` : ''
   }</li>`
+}
+
+function generateNoteItemHTML<T extends Partial<NoteModel>>(item: T) {
+  return m`<li><span>${new Date(item.created).toLocaleDateString(undefined, {
+    dateStyle: 'short',
+    timeZone,
+  })} -  <a href="${mxSpace.url + '/notes/' + item.nid}">${
+    item.title
+  }</a></span></li>`
 }
 
 async function main() {
@@ -215,18 +240,24 @@ ${topStar5}
   }
 
   {
-    const posts = await axios
-      .get(mxSpace.api + '/posts', {
-        params: {
-          size: 5,
-          select: '-text',
-        },
-        timeout: 10 * 1000,
-      })
+    const posts = await mxClient.aggregate
+      .getTimeline()
       .then((data) => data.data)
-      .then(({ data }: any) =>
-        data.reduce((s, d) => s + generatePostItemHTML(d), ''),
-      )
+      .then((data) => {
+        const posts = data.posts
+        const notes = data.notes
+        const sorted = [
+          ...posts.map((i) => ({ ...i, type: 'Post' as const })),
+          ...notes.map((i) => ({ ...i, type: 'Note' as const })),
+        ].sort((b, a) => +new Date(a.created) - +new Date(b.created))
+        return sorted.slice(0, 5).reduce((acc, cur) => {
+          if (cur.type === 'Note') {
+            return acc.concat(generateNoteItemHTML(cur))
+          } else {
+            return acc.concat(generatePostItemHTML(cur))
+          }
+        }, '')
+      })
 
     newContent = newContent.replace(
       gc('RECENT_POSTS'),

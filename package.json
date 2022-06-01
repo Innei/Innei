@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Innei/Innei#readme",
   "dependencies": {
+    "@mx-space/api-client": "0.10.6",
     "@types/html-minifier": "4.0.1",
     "@types/node": "16.10.3",
     "axios": "0.22.0",
