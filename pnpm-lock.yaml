@@ -1,4 +1,4 @@
-lockfileVersion: 5.3
+lockfileVersion: 5.4
 
 specifiers:
   '@types/html-minifier': 4.0.1
@@ -21,7 +21,7 @@ dependencies:
   html-minifier: 4.0.0
   lodash: 4.17.21
   retry-axios: 2.6.0_axios@0.22.0
-  ts-node: 10.3.0_8304ecd715830f7c190b4d1dea90b100
+  ts-node: 10.3.0_qmcozvyvqmhxygiljuo6vefraa
   typescript: 4.4.3
 
 devDependencies:
@@ -257,7 +257,7 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: false
 
-  /ts-node/10.3.0_8304ecd715830f7c190b4d1dea90b100:
+  /ts-node/10.3.0_qmcozvyvqmhxygiljuo6vefraa:
     resolution: {integrity: sha512-RYIy3i8IgpFH45AX4fQHExrT8BxDeKTdC83QFJkNzkvt8uFB6QJ8XMyhynYiKMLxt9a7yuXaDBZNOYS3XjDcYw==}
     hasBin: true
     peerDependencies:
