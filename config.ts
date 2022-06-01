@@ -9,7 +9,8 @@ export const opensource = {
     limit: 3,
     random: true,
     repos: [
-      'Innei/react-typewriter',
+      'reactify-component/react-typewriter',
+      'reactify-component/react-message',
       'Innei/react-shortcut-guide',
       'Innei/simple-clock',
       'Innei/shuffle-article',
