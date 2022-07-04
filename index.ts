@@ -272,7 +272,7 @@ ${topStar5}
   // 注入 FOOTER
   {
     const now = new Date()
-    const next = dayjs().add(3, 'h').toDate()
+    const next = dayjs().add(24, 'h').toDate()
 
     newContent = newContent.replace(
       gc('FOOTER'),
