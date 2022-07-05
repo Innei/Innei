@@ -88,7 +88,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>5/31/2022</td></tr><tr><td><a href=https://github.com/reactify-component/react-message target=_blank><b>reactify-component/react-message</b></a> <a href=https://react-message.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-message?style=flat-square&labelColor=343b41"></td><td>1/13/2022</td><td>6/26/2022</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>6/23/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>5/22/2022</td></tr><tr><td><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank><b>reactify-component/react-shortcut-guide</b></a> <a href=https://react-shortcut-guide-7ukzlytvm-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-shortcut-guide?style=flat-square&labelColor=343b41"></td><td>5/29/2022</td><td>7/3/2022</td></tr></tbody></table>
 
 **最近写了...**
 
@@ -100,7 +100,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/EnixCoda/Gitako>EnixCoda/Gitako</a><p>🐙 File tree extension for GitHub on Chrome & Firefox & Edge</p></li><li><a href=https://github.com/forrestbao/Run>forrestbao/Run</a><p>CS教授的靠譜潤學</p></li><li><a href=https://github.com/stuyam/pressure>stuyam/pressure</a><p>:point_down::boom: JavaScript library for handling Force Touch, 3D Touch, and Pointer Pressure.</p></li><li><a href=https://github.com/Houfeng/safeify>Houfeng/safeify</a><p>📦 Safe sandbox that can be used to execute untrusted code.</p></li><li><a href=https://github.com/LittleSound/slimeform>LittleSound/slimeform</a><p>Form state management and validation for Vue3</p></li></ul>
+<ul><li><a href=https://github.com/Houfeng/safeify>Houfeng/safeify</a><p>📦 Safe sandbox that can be used to execute untrusted code.</p></li><li><a href=https://github.com/LittleSound/my-swipeable-card-stack>LittleSound/my-swipeable-card-stack</a></li><li><a href=https://github.com/stuyam/pressure>stuyam/pressure</a><p>:point_down::boom: JavaScript library for handling Force Touch, 3D Touch, and Pointer Pressure.</p></li><li><a href=https://github.com/mysticatea/npm-run-all>mysticatea/npm-run-all</a><p>A CLI tool to run multiple npm-scripts in parallel or sequential.</p></li><li><a href=https://github.com/missive/emoji-mart>missive/emoji-mart</a><p>🏪 One component to pick them all</p></li></ul>
 
 **你能找到我吗**
 
@@ -109,4 +109,4 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/4/22, 5:08 PM<br>下一次刷新：7/5/22, 5:08 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/5/22, 8:33 AM<br>下一次刷新：7/6/22, 8:33 AM</p>
