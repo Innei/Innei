@@ -88,7 +88,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>6/26/2022</td></tr><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>6/23/2022</td></tr><tr><td><a href=https://github.com/reactify-component/react-message target=_blank><b>reactify-component/react-message</b></a> <a href=https://react-message.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-message?style=flat-square&labelColor=343b41"></td><td>1/13/2022</td><td>6/26/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>6/23/2022</td></tr><tr><td><a href=https://github.com/Innei/bump-version target=_blank><b>Innei/bump-version</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/bump-version?style=flat-square&labelColor=343b41"></td><td>10/2/2021</td><td>6/19/2022</td></tr><tr><td><a href=https://github.com/reactify-component/react-message target=_blank><b>reactify-component/react-message</b></a> <a href=https://react-message.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-message?style=flat-square&labelColor=343b41"></td><td>1/13/2022</td><td>6/26/2022</td></tr></tbody></table>
 
 **最近写了...**
 
@@ -100,7 +100,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a><p>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</p></li><li><a href=https://github.com/felixrieseberg/windows95>felixrieseberg/windows95</a><p>💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.</p></li><li><a href=https://github.com/AlexGilleran/jsx-control-statements>AlexGilleran/jsx-control-statements</a><p>Neater If and For for React JSX</p></li><li><a href=https://github.com/LittleSound/my-swipeable-card-stack>LittleSound/my-swipeable-card-stack</a></li><li><a href=https://github.com/mysticatea/npm-run-all>mysticatea/npm-run-all</a><p>A CLI tool to run multiple npm-scripts in parallel or sequential.</p></li></ul>
+<ul><li><a href=https://github.com/zijie0/HumanSystemOptimization>zijie0/HumanSystemOptimization</a><p>健康学习到150岁 - 人体系统调优不完全指南</p></li><li><a href=https://github.com/AlexGilleran/jsx-control-statements>AlexGilleran/jsx-control-statements</a><p>Neater If and For for React JSX</p></li><li><a href=https://github.com/stuyam/pressure>stuyam/pressure</a><p>:point_down::boom: JavaScript library for handling Force Touch, 3D Touch, and Pointer Pressure.</p></li><li><a href=https://github.com/vercel/pkg>vercel/pkg</a><p>Package your Node.js project into an executable</p></li><li><a href=https://github.com/DevCloudFE/vue-devui>DevCloudFE/vue-devui</a><p>UI components based on Vue3 and DevUI Design</p></li></ul>
 
 **你能找到我吗**
 
@@ -109,4 +109,4 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/11/22, 8:38 AM<br>下一次刷新：7/12/22, 8:38 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/12/22, 8:36 AM<br>下一次刷新：7/13/22, 8:36 AM</p>
