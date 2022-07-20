@@ -1,10 +1,10 @@
 # Innei 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Innei.readme) [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
 
-Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段为在读学生，坐标温州。
+Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段为初入职场的社畜，坐标上海。
 
-在互联网领域，他常常在 GitHub 中活跃，并且向往于成为自由独立开发者。
+在开发者领域，常在 GitHub 中活跃，并且向往于成为自由独立开发者。
 
-> 嘿，我正在考虑寻找一份新工作（小而美的远程机会优先），简历在[这里](https://resume.innei.ren/)，欢迎来撩我！
+> 嘿，我正在考虑寻找远程工作机会，简历在[这里](https://resume.innei.ren/)，欢迎来撩我！
 
 他具备以下技能：
 
