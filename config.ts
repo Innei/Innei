@@ -3,7 +3,7 @@ export const opensource = {
     'mx-space/kami',
     'mx-space/mx-server',
     'mx-space/mx-admin',
-    'mx-space/api-client',
+    'mx-space/api-client', 'Innei/bump-version',
   ],
   toys: {
     limit: 3,
@@ -14,7 +14,6 @@ export const opensource = {
       'Innei/react-shortcut-guide',
       'Innei/simple-clock',
       'Innei/shuffle-article',
-      'Innei/bump-version',
       'Innei/candy',
       'Innei/pageproxy',
       'Innei/animate-uri',
