@@ -88,11 +88,11 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>5/31/2022</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>7/9/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>7/9/2022</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>8/30/2022</td></tr></tbody></table>
 
 **最近写了...**
 
-<ul><li><span>9/18/22 - <a href=https://innei.ren/posts/programming/write-a-nodejs-library-in-2022>在 2022 年，写一个库有多难</a></span></li><li><span>9/8/22 - <a href=https://innei.ren/notes/131>游 - 迪士尼</a></span></li><li><span>8/23/22 - <a href=https://innei.ren/notes/130>记一次面基</a></span></li><li><span>8/22/22 - <a href=https://innei.ren/notes/129>夏天的最后</a></span></li><li><span>8/4/22 - <a href=https://innei.ren/notes/127>欢迎回到夏天</a></span></li></ul>
+<ul><li><span>10/7/22 - <a href=https://innei.ren/notes/133>成为社畜后的第一个小长假</a></span></li><li><span>9/18/22 - <a href=https://innei.ren/posts/programming/write-a-nodejs-library-in-2022>在 2022 年，写一个库有多难</a></span></li><li><span>9/8/22 - <a href=https://innei.ren/notes/131>游 - 迪士尼</a></span></li><li><span>8/23/22 - <a href=https://innei.ren/notes/130>记一次面基</a></span></li><li><span>8/22/22 - <a href=https://innei.ren/notes/129>夏天的最后</a></span></li></ul>
 
 **最近赞了...**
 
@@ -100,7 +100,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/pacocoursey/cmdk>pacocoursey/cmdk</a><p>Fast, unstyled command menu React component.</p></li><li><a href=https://github.com/LionC/nest.nvim>LionC/nest.nvim</a></li><li><a href=https://github.com/framer/motion>framer/motion</a><p>Open source, production-ready animation and gesture library for React</p></li><li><a href=https://github.com/Lakr233/ActionBee>Lakr233/ActionBee</a><p>A programmable pasteboard action trigger</p></li><li><a href=https://github.com/max397574/better-escape.nvim>max397574/better-escape.nvim</a><p>Escape from insert mode without delay when typing</p></li></ul>
+<ul><li><a href=https://github.com/withastro/astro>withastro/astro</a><p>Build faster websites with Astro's next-gen island architecture 🏝✨</p></li><li><a href=https://github.com/lewis6991/gitsigns.nvim>lewis6991/gitsigns.nvim</a><p>Git integration for buffers</p></li><li><a href=https://github.com/pacocoursey/cmdk>pacocoursey/cmdk</a><p>Fast, unstyled command menu React component.</p></li><li><a href=https://github.com/framer/motion>framer/motion</a><p>Open source, production-ready animation and gesture library for React</p></li><li><a href=https://github.com/fastify/fastify-dx>fastify/fastify-dx</a><p>A Full Stack Framework based on Fastify and Vite. Built for great developer experience without compromising on performance and stability.</p></li></ul>
 
 **你能找到我吗**
 
@@ -109,4 +109,4 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/7/22, 8:58 AM<br>下一次刷新：10/8/22, 8:58 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/8/22, 8:42 AM<br>下一次刷新：10/9/22, 8:42 AM</p>
