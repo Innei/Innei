@@ -88,7 +88,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-message target=_blank><b>reactify-component/react-message</b></a> <a href=https://react-message.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-message?style=flat-square&labelColor=343b41"></td><td>1/13/2022</td><td>10/2/2022</td></tr><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>9/25/2022</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>9/25/2022</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>9/25/2022</td></tr><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>5/31/2022</td></tr></tbody></table>
 
 **最近写了...**
 
@@ -100,7 +100,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Lakr233/SwiftCourse>Lakr233/SwiftCourse</a><p>A repository to store PPTs for my students learning Swift.</p></li><li><a href=https://github.com/remirror/remirror>remirror/remirror</a><p>ProseMirror toolkit for React 🎉</p></li><li><a href=https://github.com/any86/any-scroll>any86/any-scroll</a><p>:rocket: 模拟scrollview, 支持pc/移动端, 让实现Tab/Slider等组件轻而易举.</p></li><li><a href=https://github.com/ayamir/nvimdots>ayamir/nvimdots</a><p>A well configured and structured Neovim.</p></li><li><a href=https://github.com/dandavison/delta>dandavison/delta</a><p>A syntax-highlighting pager for git, diff, and grep output</p></li></ul>
+<ul><li><a href=https://github.com/nadeesha/ts-prune>nadeesha/ts-prune</a><p>Find unused exports in a typescript project. 🛀</p></li><li><a href=https://github.com/remirror/remirror>remirror/remirror</a><p>ProseMirror toolkit for React 🎉</p></li><li><a href=https://github.com/ayamir/nvimdots>ayamir/nvimdots</a><p>A well configured and structured Neovim.</p></li><li><a href=https://github.com/any86/any-scroll>any86/any-scroll</a><p>:rocket: 模拟scrollview, 支持pc/移动端, 让实现Tab/Slider等组件轻而易举.</p></li><li><a href=https://github.com/pacocoursey/cmdk>pacocoursey/cmdk</a><p>Fast, unstyled command menu React component.</p></li></ul>
 
 **你能找到我吗**
 
@@ -109,4 +109,4 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/11/22, 8:44 AM<br>下一次刷新：10/12/22, 8:44 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/12/22, 8:57 AM<br>下一次刷新：10/13/22, 8:57 AM</p>
