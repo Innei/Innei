@@ -88,7 +88,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>6/26/2022</td></tr><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>9/25/2022</td></tr><tr><td><a href=https://github.com/reactify-component/react-message target=_blank><b>reactify-component/react-message</b></a> <a href=https://react-message.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-message?style=flat-square&labelColor=343b41"></td><td>1/13/2022</td><td>10/2/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank><b>reactify-component/react-shortcut-guide</b></a> <a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-shortcut-guide?style=flat-square&labelColor=343b41"></td><td>5/29/2022</td><td>9/20/2022</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>6/26/2022</td></tr></tbody></table>
 
 **最近写了...**
 
@@ -100,7 +100,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/folke/todo-comments.nvim>folke/todo-comments.nvim</a><p>✅ Highlight, list and search todo comments in your projects</p></li><li><a href=https://github.com/ray-x/lsp_signature.nvim>ray-x/lsp_signature.nvim</a><p>LSP signature hint as you type</p></li><li><a href=https://github.com/any86/any-scroll>any86/any-scroll</a><p>:rocket: 模拟scrollview, 支持pc/移动端, 让实现Tab/Slider等组件轻而易举.</p></li><li><a href=https://github.com/nvim-telescope/telescope.nvim>nvim-telescope/telescope.nvim</a><p>Find, Filter, Preview, Pick. All lua, all the time.</p></li><li><a href=https://github.com/LionC/nest.nvim>LionC/nest.nvim</a></li></ul>
+<ul><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a><p>A nice code font</p></li><li><a href=https://github.com/ecosse3/nvim>ecosse3/nvim</a><p>A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js</p></li><li><a href=https://github.com/remirror/remirror>remirror/remirror</a><p>ProseMirror toolkit for React 🎉</p></li><li><a href=https://github.com/LionC/nest.nvim>LionC/nest.nvim</a></li><li><a href=https://github.com/ray-x/lsp_signature.nvim>ray-x/lsp_signature.nvim</a><p>LSP signature hint as you type</p></li></ul>
 
 **你能找到我吗**
 
@@ -109,4 +109,4 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/6/22, 8:38 AM<br>下一次刷新：11/7/22, 8:38 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/8/22, 8:36 AM<br>下一次刷新：11/9/22, 8:36 AM</p>
