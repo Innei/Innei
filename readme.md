@@ -88,7 +88,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>11/20/2022</td></tr><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>11/23/2022</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>7/9/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr><tr><td><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank><b>reactify-component/react-shortcut-guide</b></a> <a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-shortcut-guide?style=flat-square&labelColor=343b41"></td><td>5/29/2022</td><td>9/20/2022</td></tr><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>11/20/2022</td></tr></tbody></table>
 
 **最近写了...**
 
@@ -100,7 +100,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/any86/any-scroll>any86/any-scroll</a><p>:rocket: 模拟scrollview, 支持pc/移动端, 让实现Tab/Slider等组件轻而易举.</p></li><li><a href=https://github.com/ecosse3/nvim>ecosse3/nvim</a><p>A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js</p></li><li><a href=https://github.com/Jack-Works/ts-esm-migrate>Jack-Works/ts-esm-migrate</a><p>Migrate code to NodeNext module resolution by add .js extension</p></li><li><a href=https://github.com/folke/todo-comments.nvim>folke/todo-comments.nvim</a><p>✅ Highlight, list and search todo comments in your projects</p></li><li><a href=https://github.com/RRethy/vim-illuminate>RRethy/vim-illuminate</a><p>illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.</p></li></ul>
+<ul><li><a href=https://github.com/maaslalani/slides>maaslalani/slides</a><p>Terminal based presentation tool</p></li><li><a href=https://github.com/max397574/better-escape.nvim>max397574/better-escape.nvim</a><p>Escape from insert mode without delay when typing</p></li><li><a href=https://github.com/blueedgetechno/win11React>blueedgetechno/win11React</a><p>Windows 11 in React 💻🌈⚡</p></li><li><a href=https://github.com/net4people/bbs>net4people/bbs</a><p>Forum for discussing Internet censorship circumvention</p></li><li><a href=https://github.com/any86/any-scroll>any86/any-scroll</a><p>:rocket: 模拟scrollview, 支持pc/移动端, 让实现Tab/Slider等组件轻而易举.</p></li></ul>
 
 **你能找到我吗**
 
@@ -109,4 +109,4 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/24/22, 8:37 AM<br>下一次刷新：11/25/22, 8:37 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/25/22, 8:34 AM<br>下一次刷新：11/26/22, 8:34 AM</p>
