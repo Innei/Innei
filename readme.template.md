@@ -1,12 +1,14 @@
 # Innei 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Innei.readme) [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
 
-Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段为初入职场的社畜，坐标上海。
+Innei is a cai-niao(aka. 菜鸟) who is passionate about exploring new things in full-stack development. Currently, he is a newcomer to the workforce and is located in Shanghai.
 
-在开发者领域，常在 GitHub 中活跃，并且向往于成为自由独立开发者。
+In the developer field, he often actively participates in GitHub and aspires to become a freelancer.
 
+> Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume.innei.ren/), feel free to hit me up!
+> 
 > 嘿，我正在考虑寻找远程工作机会，简历在[这里](https://resume.innei.ren/)，欢迎来撩我！
 
-他具备以下技能：
+He has the following skills:
 
 **Web Developer**
 
@@ -82,27 +84,27 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
   </a>
 </p> -->
 
-**开源在...**
+**Open Source...**
 
 <!-- opensource_dashboard:active -->
 
-**写过的玩具..**
+**Toys...**
 
 <!-- opensource_toys -->
 
-**最近写了...**
+**Recently Working on...**
 
 <!-- recent_posts_inject -->
 
-**最近赞了...**
+**Recent Star...**
 
 <!-- recent_star_inject -->
 
-**曾经看了...**
+**Review Stared...**
 
 <!-- random_github_stars_inject -->
 
-**你能找到我吗**
+**Can you find me?**
 
 <p><a href="https://github.com/innei" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/__oQuery" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> <a href="https://innei.ren" target="_blank"><img alt="Innei" src='https://img.shields.io/badge/mx%20space-blue.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iNzkiIHZpZXdCb3g9IjAgMCA4MCA3OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC43NTcpIiBmaWxsLXJ1bGU9Im5vbnplcm8iPjxwYXRoIGQ9Ik0zOS4xNyAwQzE3LjUzNiAwIDAgMTcuNTM3IDAgMzkuMTdjMCAyMS42MzIgMTcuNTM3IDM5LjE2OSAzOS4xNyAzOS4xNjkgMjEuNjMyIDAgMzkuMTY5LTE3LjUzNyAzOS4xNjktMzkuMTdDNzguMzM5IDE3LjUzNyA2MC44MDIgMCAzOS4xNjkgMHptMCA3My45ODZjLTE5LjIzIDAtMzQuODE4LTE1LjU4OC0zNC44MTgtMzQuODE3IDAtMTkuMjI4IDE1LjU4OS0zNC44MTcgMzQuODE3LTM0LjgxNyAxOS4yMjkgMCAzNC44MTcgMTUuNTg5IDM0LjgxNyAzNC44MTcgMCAxOS4yMjktMTUuNTg4IDM0LjgxNy0zNC44MTcgMzQuODE3eiIgZmlsbD0iI2ZmZiIvPjxjaXJjbGUgY3g9IjM5LjE2OSIgY3k9IjM5LjE2OSIgcj0iMzEuNTI3Ii8+PC9nPjxwYXRoIGQ9Ik0zOS44MDEgNTkuMDQ3TDE5Ljc1NyAzOS4wNDUgMzkuOCAxOS4wMDFsMjAuMDAyIDIwLjAwMUwzOS44IDU5LjA0N3pNNTUuOTkgNDEuODg0bC03LjE0Ny02LjczNS05LjA0LTguNTJMMjMuNTcgNDEuODg0bTI0Ljc5LTUuNzJMMzMuMTA2IDUxLjQxOG0tMS45MDctMTUuMjU2TDQ2LjQ1NCA1MS40MiIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEuOCIvPjwvZz48L3N2Zz4=&logoColor=white' /></a>
 
