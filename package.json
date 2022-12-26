@@ -4,8 +4,8 @@
   "description": "Innei's profile",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node-dev index.ts",
-    "build": "ts-node index.ts"
+    "dev": "tsx watch index.ts",
+    "build": "tsx index.ts"
   },
   "repository": {
     "type": "git",
