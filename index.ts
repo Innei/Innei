@@ -152,7 +152,7 @@ ${tbody}
 
 function generateRepoHTML<T extends GHItem>(item: T) {
   return `<li><a href="${item.html_url}">${item.full_name}</a>${
-    item.description ? `<p>${item.description}</p>` : ''
+    item.description ? `<span>  ${item.description}</span>` : ''
   }</li>`
 }
 

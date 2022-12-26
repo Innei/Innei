@@ -92,7 +92,7 @@ He has the following skills:
 
 <!-- opensource_toys -->
 
-**Recently Working on...**
+**Recent Writing...**
 
 <!-- recent_posts_inject -->
 
