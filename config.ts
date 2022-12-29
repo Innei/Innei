@@ -3,7 +3,8 @@ export const opensource = {
     'mx-space/kami',
     'mx-space/mx-server',
     'mx-space/mx-admin',
-    'mx-space/api-client', 'Innei/bump-version',
+    // 'mx-space/api-client', 
+    'Innei/bump-version',
   ],
   toys: {
     limit: 3,
