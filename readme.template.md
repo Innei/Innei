@@ -1,6 +1,6 @@
 # Innei 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Innei.readme) [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
 
-Innei is a cai-niao(aka. 菜鸟) who is passionate about exploring new things in full-stack development. Currently, he is a newcomer to the workforce and is located in Shanghai.
+Innei is a beginner who is passionate about exploring new things in full-stack development. Currently, he is a newcomer to the workforce and is located in Shanghai.
 
 In the developer field, he often actively participates in GitHub and aspires to become a freelancer.
 
