@@ -90,7 +90,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>1/6/2023</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>7/9/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>1/6/2023</td></tr><tr><td><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank><b>reactify-component/react-shortcut-guide</b></a> <a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-shortcut-guide?style=flat-square&labelColor=343b41"></td><td>5/29/2022</td><td>9/20/2022</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -102,7 +102,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/waydabber/BetterDisplay>waydabber/BetterDisplay</a><span> Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!</span></li><li><a href=https://github.com/NiceLabs/vue-way>NiceLabs/vue-way</a><span> Vue 哲学</span></li><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a><span> A nice code font</span></li><li><a href=https://github.com/blakesanie/React-Bubble-UI>blakesanie/React-Bubble-UI</a><span> A highly configurable Bubble UI React.js component, similar to the iconic Apple Watch app layout.</span></li><li><a href=https://github.com/riccardoperra/codeimage>riccardoperra/codeimage</a><span> A tool to beautify your code screenshots. Built with SolidJS</span></li></ul>
+<ul><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a><span> A nice code font</span></li><li><a href=https://github.com/bangumi/frontend>bangumi/frontend</a></li><li><a href=https://github.com/huacnlee/autocorrect>huacnlee/autocorrect</a><span> A linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).</span></li><li><a href=https://github.com/dai-shi/lets-compare-global-state-with-react-hooks>dai-shi/lets-compare-global-state-with-react-hooks</a><span> Comparing global state libraries with React Hooks</span></li><li><a href=https://github.com/tj/co>tj/co</a><span> The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)</span></li></ul>
 
 **Can you find me?**
 
@@ -111,4 +111,4 @@ He has the following skills:
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/14/23, 8:31 AM<br>下一次刷新：1/15/23, 8:31 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/16/23, 8:32 AM<br>下一次刷新：1/17/23, 8:32 AM</p>
