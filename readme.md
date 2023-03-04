@@ -90,7 +90,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>11/11/2022</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>2/3/2023</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>7/9/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>11/20/2022</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>2/3/2023</td></tr><tr><td><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank><b>reactify-component/react-shortcut-guide</b></a> <a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-shortcut-guide?style=flat-square&labelColor=343b41"></td><td>5/29/2022</td><td>9/20/2022</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -102,7 +102,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a><span> 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</span></li><li><a href=https://github.com/Mokshit06/typewind>Mokshit06/typewind</a><span> The safety of Typescript with the magic of Tailwind.</span></li><li><a href=https://github.com/austin2035/astro-air-blog>austin2035/astro-air-blog</a><span> A minimalist, beautiful, responsive blogging program written in Astro.一个简约、漂亮并且支持响应式的博客程序，基于 Astro 构建。</span></li><li><a href=https://github.com/vernesong/OpenClash>vernesong/OpenClash</a><span> A Clash Client For OpenWrt</span></li><li><a href=https://github.com/shadcn/ui>shadcn/ui</a><span> Beautifully designed components built with Radix UI and Tailwind CSS.</span></li></ul>
+<ul><li><a href=https://github.com/nuxt/devtools>nuxt/devtools</a><span> Unleash Nuxt Developer Experience</span></li><li><a href=https://github.com/ardeora/astro-tanstack-multiframework>ardeora/astro-tanstack-multiframework</a></li><li><a href=https://github.com/ventoy/Ventoy>ventoy/Ventoy</a><span> A new bootable USB solution.</span></li><li><a href=https://github.com/al-one/hass-xiaomi-miot>al-one/hass-xiaomi-miot</a><span> Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成</span></li><li><a href=https://github.com/gluon-framework/gluon>gluon-framework/gluon</a><span> A new framework for creating desktop apps from websites, using system installed browsers and NodeJS</span></li></ul>
 
 **Can you find me?**
 
@@ -111,4 +111,4 @@ He has the following skills:
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/3/23, 10:28 AM<br>下一次刷新：3/4/23, 10:28 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/4/23, 8:33 AM<br>下一次刷新：3/5/23, 8:33 AM</p>
