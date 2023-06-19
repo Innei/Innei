@@ -110,5 +110,7 @@ He has the following skills:
 
 ------------
 
+<img src="./sponsorkit/sponsors.svg" />
+
 <!-- motto -->
 <!-- footer_inject -->
