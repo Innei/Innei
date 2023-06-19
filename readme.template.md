@@ -1,12 +1,13 @@
 # Innei 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Innei.readme) [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
 
-Innei is a beginner who is passionate about exploring new things in full-stack development. Currently, he is a newcomer to the workforce and is located in Shanghai.
+Innei is a beginner who is passionate about exploring new things in full-stack development. <!-- Currently, he is a newcomer to the workforce and is located in Shanghai.-->
 
 In the developer field, he often actively participates in GitHub and aspires to become a freelancer.
 
+<!-- 
 > Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume.innei.ren/), feel free to hit me up!
 > 
-> 嘿，我正在考虑寻找远程工作机会，简历在[这里](https://resume.innei.ren/)，欢迎来撩我！
+> 嘿，我正在考虑寻找远程工作机会，简历在 [这里](https://resume.innei.ren/)，欢迎来撩我！ -->
 
 He has the following skills:
 

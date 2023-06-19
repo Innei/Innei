@@ -1,12 +1,13 @@
 # Innei 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Innei.readme) [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
 
-Innei is a beginner who is passionate about exploring new things in full-stack development. Currently, he is a newcomer to the workforce and is located in Shanghai.
+Innei is a beginner who is passionate about exploring new things in full-stack development. <!-- Currently, he is a newcomer to the workforce and is located in Shanghai.-->
 
 In the developer field, he often actively participates in GitHub and aspires to become a freelancer.
 
+<!-- 
 > Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume.innei.ren/), feel free to hit me up!
 > 
-> 嘿，我正在考虑寻找远程工作机会，简历在[这里](https://resume.innei.ren/)，欢迎来撩我！
+> 嘿，我正在考虑寻找远程工作机会，简历在 [这里](https://resume.innei.ren/)，欢迎来撩我！ -->
 
 He has the following skills:
 
@@ -90,19 +91,19 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>6/26/2022</td></tr><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>1/2/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>4/28/2023</td></tr><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>6/6/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
-<ul><li><span>1/10/23 - <a href=https://innei.ren/notes/137>阳康之后</a></span></li><li><span>1/5/23 - <a href=https://innei.ren/posts/programming/about-bump-version>一个更好用的 Bump Version</a></span></li><li><span>12/23/22 - <a href=https://innei.ren/notes/136>2022 · 在绝望中前行</a></span></li><li><span>12/14/22 - <a href=https://innei.ren/posts/programming/build-own-components-lib-by-biz-project>Kami 抽取通用组件封装公用组件库</a></span></li><li><span>12/4/22 - <a href=https://innei.ren/notes/135>空壳</a></span></li></ul>
+<ul><li><span>6/10/23 - <a href=https://innei.ren/notes/148>WWDC 23之夜：科技热情与生活节奏</a></span></li><li><span>6/7/23 - <a href=https://innei.ren/posts/programming/experience-in-performance-optimization-in-react-applications-2>React 应用中性能优化的经验（二）</a></span></li><li><span>6/3/23 - <a href=https://innei.ren/notes/147>杭州之旅、开源之夏与生活琐记</a></span></li><li><span>5/27/23 - <a href=https://innei.ren/posts/programming/experience-in-performance-optimization-in-react-applications-1>React 应用中性能优化的经验（一）</a></span></li><li><span>5/21/23 - <a href=https://innei.ren/notes/146>半月生活记：智能家居、网络折腾与开源探索</a></span></li></ul>
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/node-modules/time-profile>node-modules/time-profile</a><span> Measuring execution time of functions</span></li><li><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a><span> 💠 BlockSuite is an open-source collaborative editor project behind the AFFiNE knowledge base.</span></li><li><a href=https://github.com/elk-zone/elk>elk-zone/elk</a><span> A nimble Mastodon web client</span></li><li><a href=https://github.com/cuixueshe/vue3-dida>cuixueshe/vue3-dida</a><span> Real-world vue3 projects with complete testing</span></li><li><a href=https://github.com/toeverything/AFFiNE>toeverything/AFFiNE</a><span> There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.</span></li></ul>
+<ul><li><a href=https://github.com/n8n-io/n8n>n8n-io/n8n</a><span> Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.</span></li><li><a href=https://github.com/Innei/nest-http-boilerplate>Innei/nest-http-boilerplate</a><span> A template for NestJS 9.x Typegoose Vitest and more, fast and simple boilerplate.</span></li><li><a href=https://github.com/tteck/Proxmox>tteck/Proxmox</a><span> Proxmox VE Helper Scripts</span></li><li><a href=https://github.com/nuxtlabs/ui>nuxtlabs/ui</a><span> Fully styled and customizable components for Nuxt.</span></li><li><a href=https://github.com/cyrilzakka/NameDrop>cyrilzakka/NameDrop</a><span> Poor man's replica of iOS 17 NameDrop animation</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/teaxyz/cli>teaxyz/cli</a><span> the unified package manager (brew2)</span></li><li><a href=https://github.com/Innei/bump-version>Innei/bump-version</a><span> A more useful and easy-to-use bump version cli.</span></li><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a><span> A nice code font</span></li><li><a href=https://github.com/Jack-Works/ts-esm-migrate>Jack-Works/ts-esm-migrate</a><span> Migrate code to NodeNext module resolution by add .js extension</span></li><li><a href=https://github.com/lidangzzz/How-to-run>lidangzzz/How-to-run</a><span> 立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记</span></li></ul>
+<ul><li><a href=https://github.com/alex8088/electron-vite>alex8088/electron-vite</a><span> Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护</span></li><li><a href=https://github.com/lxgw/LxgwWenKai>lxgw/LxgwWenKai</a><span> An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。</span></li><li><a href=https://github.com/ben-rogerson/twin.macro>ben-rogerson/twin.macro</a><span> 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.</span></li><li><a href=https://github.com/Interview-Science/interview-english>Interview-Science/interview-english</a><span> English for Tech Interview 面试中的英语</span></li><li><a href=https://github.com/umpox/zero-width-detection>umpox/zero-width-detection</a><span> Invisibly inserting usernames into text with Zero-Width Characters</span></li></ul>
 
 **Can you find me?**
 
@@ -110,5 +111,7 @@ He has the following skills:
 
 ------------
 
+<img src="./sponsorkit/sponsors.svg" />
+
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/13/23, 11:31 PM<br>下一次刷新：1/14/23, 11:31 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/19/23, 11:07 AM<br>下一次刷新：6/20/23, 11:07 AM</p>
