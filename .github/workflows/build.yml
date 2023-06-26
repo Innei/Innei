@@ -44,6 +44,7 @@ jobs:
         env:
           SPONSORKIT_AFDIAN_TOKEN: ${{ secrets.SPONSORKIT_AFDIAN_TOKEN }}
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
+          SPONSORKIT_GITHUB_LOGIN: innei
       - name: Push new README.md
         uses: mikeal/publish-to-github-action@master
         env:
