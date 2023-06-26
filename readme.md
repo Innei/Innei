@@ -1,12 +1,24 @@
 # Innei 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Innei.readme) [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=innei&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=innei&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=innei&show_icons=true" align=right />
+</picture>
+
 Innei is a beginner who is passionate about exploring new things in full-stack development. <!-- Currently, he is a newcomer to the workforce and is located in Shanghai.-->
 
 In the developer field, he often actively participates in GitHub and aspires to become a freelancer.
 
-<!-- 
+<!--
 > Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume.innei.ren/), feel free to hit me up!
-> 
+>
 > 嘿，我正在考虑寻找远程工作机会，简历在 [这里](https://resume.innei.ren/)，欢迎来撩我！ -->
 
 He has the following skills:
@@ -91,27 +103,27 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>4/28/2023</td></tr><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>6/6/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>4/28/2023</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>6/3/2023</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr></tbody></table>
 
 **Recent Writing...**
 
-<ul><li><span>6/10/23 - <a href=https://innei.ren/notes/148>WWDC 23之夜：科技热情与生活节奏</a></span></li><li><span>6/7/23 - <a href=https://innei.ren/posts/programming/experience-in-performance-optimization-in-react-applications-2>React 应用中性能优化的经验（二）</a></span></li><li><span>6/3/23 - <a href=https://innei.ren/notes/147>杭州之旅、开源之夏与生活琐记</a></span></li><li><span>5/27/23 - <a href=https://innei.ren/posts/programming/experience-in-performance-optimization-in-react-applications-1>React 应用中性能优化的经验（一）</a></span></li><li><span>5/21/23 - <a href=https://innei.ren/notes/146>半月生活记：智能家居、网络折腾与开源探索</a></span></li></ul>
+<ul><li><span>6/22/23 - <a href=https://innei.ren/notes/149>热衷的项目、杭州行与动漫时光</a></span></li><li><span>6/10/23 - <a href=https://innei.ren/notes/148>WWDC 23之夜：科技热情与生活节奏</a></span></li><li><span>6/7/23 - <a href=https://innei.ren/posts/programming/experience-in-performance-optimization-in-react-applications-2>React 应用中性能优化的经验（二）</a></span></li><li><span>6/3/23 - <a href=https://innei.ren/notes/147>杭州之旅、开源之夏与生活琐记</a></span></li><li><span>5/27/23 - <a href=https://innei.ren/posts/programming/experience-in-performance-optimization-in-react-applications-1>React 应用中性能优化的经验（一）</a></span></li></ul>
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/n8n-io/n8n>n8n-io/n8n</a><span> Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.</span></li><li><a href=https://github.com/Innei/nest-http-boilerplate>Innei/nest-http-boilerplate</a><span> A template for NestJS 9.x Typegoose Vitest and more, fast and simple boilerplate.</span></li><li><a href=https://github.com/tteck/Proxmox>tteck/Proxmox</a><span> Proxmox VE Helper Scripts</span></li><li><a href=https://github.com/nuxtlabs/ui>nuxtlabs/ui</a><span> Fully styled and customizable components for Nuxt.</span></li><li><a href=https://github.com/cyrilzakka/NameDrop>cyrilzakka/NameDrop</a><span> Poor man's replica of iOS 17 NameDrop animation</span></li></ul>
+<ul><li><a href=https://github.com/single-spa/import-map-overrides>single-spa/import-map-overrides</a><span> A browser and NodeJS javascript library for overriding import maps</span></li><li><a href=https://github.com/chenglou/cards>chenglou/cards</a><span> Prototyping the UI of 2030</span></li><li><a href=https://github.com/chenglou/chenglou.github.io>chenglou/chenglou.github.io</a></li><li><a href=https://github.com/n8n-io/n8n>n8n-io/n8n</a><span> Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.</span></li><li><a href=https://github.com/Innei/nest-http-boilerplate>Innei/nest-http-boilerplate</a><span> A template for NestJS 9.x Typegoose Vitest and more, fast and simple boilerplate.</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/alex8088/electron-vite>alex8088/electron-vite</a><span> Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护</span></li><li><a href=https://github.com/lxgw/LxgwWenKai>lxgw/LxgwWenKai</a><span> An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。</span></li><li><a href=https://github.com/ben-rogerson/twin.macro>ben-rogerson/twin.macro</a><span> 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.</span></li><li><a href=https://github.com/Interview-Science/interview-english>Interview-Science/interview-english</a><span> English for Tech Interview 面试中的英语</span></li><li><a href=https://github.com/umpox/zero-width-detection>umpox/zero-width-detection</a><span> Invisibly inserting usernames into text with Zero-Width Characters</span></li></ul>
+<ul><li><a href=https://github.com/WankkoRee/eaio>WankkoRee/eaio</a><span> 一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。</span></li><li><a href=https://github.com/vercel/satori>vercel/satori</a><span> Enlightened library to convert HTML and CSS to SVG</span></li><li><a href=https://github.com/pacexy/tailwindcss-variable-colors>pacexy/tailwindcss-variable-colors</a><span> Add dark mode support with just one class</span></li><li><a href=https://github.com/alex8088/electron-vite>alex8088/electron-vite</a><span> Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护</span></li><li><a href=https://github.com/chatgpt-prompts/ChatGPT-Midjourney-Prompt-Generator>chatgpt-prompts/ChatGPT-Midjourney-Prompt-Generator</a><span> This turns ChatGPT into a prompt generating machine that acceps only predefined inputs and responds with only predefined outputs.</span></li></ul>
 
 **Can you find me?**
 
 <p><a href="https://github.com/innei" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/__oQuery" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> <a href="https://innei.ren" target="_blank"><img alt="Innei" src='https://img.shields.io/badge/mx%20space-blue.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iNzkiIHZpZXdCb3g9IjAgMCA4MCA3OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC43NTcpIiBmaWxsLXJ1bGU9Im5vbnplcm8iPjxwYXRoIGQ9Ik0zOS4xNyAwQzE3LjUzNiAwIDAgMTcuNTM3IDAgMzkuMTdjMCAyMS42MzIgMTcuNTM3IDM5LjE2OSAzOS4xNyAzOS4xNjkgMjEuNjMyIDAgMzkuMTY5LTE3LjUzNyAzOS4xNjktMzkuMTdDNzguMzM5IDE3LjUzNyA2MC44MDIgMCAzOS4xNjkgMHptMCA3My45ODZjLTE5LjIzIDAtMzQuODE4LTE1LjU4OC0zNC44MTgtMzQuODE3IDAtMTkuMjI4IDE1LjU4OS0zNC44MTcgMzQuODE3LTM0LjgxNyAxOS4yMjkgMCAzNC44MTcgMTUuNTg5IDM0LjgxNyAzNC44MTcgMCAxOS4yMjktMTUuNTg4IDM0LjgxNy0zNC44MTcgMzQuODE3eiIgZmlsbD0iI2ZmZiIvPjxjaXJjbGUgY3g9IjM5LjE2OSIgY3k9IjM5LjE2OSIgcj0iMzEuNTI3Ii8+PC9nPjxwYXRoIGQ9Ik0zOS44MDEgNTkuMDQ3TDE5Ljc1NyAzOS4wNDUgMzkuOCAxOS4wMDFsMjAuMDAyIDIwLjAwMUwzOS44IDU5LjA0N3pNNTUuOTkgNDEuODg0bC03LjE0Ny02LjczNS05LjA0LTguNTJMMjMuNTcgNDEuODg0bTI0Ljc5LTUuNzJMMzMuMTA2IDUxLjQxOG0tMS45MDctMTUuMjU2TDQ2LjQ1NCA1MS40MiIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEuOCIvPjwvZz48L3N2Zz4=&logoColor=white' /></a>
 
-------------
+---
 
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/19/23, 11:07 AM<br>下一次刷新：6/20/23, 11:07 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/26/23, 12:28 PM<br>下一次刷新：6/27/23, 12:28 PM</p>
