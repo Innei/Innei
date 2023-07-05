@@ -103,7 +103,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>4/28/2023</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>4/28/2023</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -115,7 +115,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/dai-shi/waku>dai-shi/waku</a><span> Minimalistic React Framework</span></li><li><a href=https://github.com/vanilla-extract-css/vanilla-extract>vanilla-extract-css/vanilla-extract</a><span> Zero-runtime Stylesheets-in-TypeScript</span></li><li><a href=https://github.com/Innei/nest-http-boilerplate>Innei/nest-http-boilerplate</a><span> A template for NestJS 9.x Typegoose Vitest and more, fast and simple boilerplate.</span></li><li><a href=https://github.com/mkosir/react-parallax-tilt>mkosir/react-parallax-tilt</a><span> 👀 Easily apply tilt hover effect on React components - lightweight/zero dependencies (3kB)</span></li><li><a href=https://github.com/umpox/zero-width-detection>umpox/zero-width-detection</a><span> Invisibly inserting usernames into text with Zero-Width Characters</span></li></ul>
+<ul><li><a href=https://github.com/umpox/zero-width-detection>umpox/zero-width-detection</a><span> Invisibly inserting usernames into text with Zero-Width Characters</span></li><li><a href=https://github.com/n8n-io/n8n>n8n-io/n8n</a><span> Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.</span></li><li><a href=https://github.com/chatgpt-prompts/ChatGPT-Midjourney-Prompt-Generator>chatgpt-prompts/ChatGPT-Midjourney-Prompt-Generator</a><span> This turns ChatGPT into a prompt generating machine that acceps only predefined inputs and responds with only predefined outputs.</span></li><li><a href=https://github.com/raunofreiberg/interfaces>raunofreiberg/interfaces</a><span> A non-exhaustive list of details that make a good web interface.</span></li><li><a href=https://github.com/mkosir/react-parallax-tilt>mkosir/react-parallax-tilt</a><span> 👀 Easily apply tilt hover effect on React components - lightweight/zero dependencies (3kB)</span></li></ul>
 
 **Can you find me?**
 
@@ -126,4 +126,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/4/23, 8:03 AM<br>下一次刷新：7/5/23, 8:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/5/23, 8:02 AM<br>下一次刷新：7/6/23, 8:02 AM</p>
