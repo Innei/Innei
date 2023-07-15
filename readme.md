@@ -103,7 +103,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>3/22/2023</td></tr><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>2/13/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank><b>reactify-component/react-shortcut-guide</b></a> <a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-shortcut-guide?style=flat-square&labelColor=343b41"></td><td>5/29/2022</td><td>3/16/2023</td></tr><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>2/13/2023</td></tr><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>7/6/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -115,7 +115,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/vanilla-extract-css/vanilla-extract>vanilla-extract-css/vanilla-extract</a><span> Zero-runtime Stylesheets-in-TypeScript</span></li><li><a href=https://github.com/chenglou/chenglou.github.io>chenglou/chenglou.github.io</a></li><li><a href=https://github.com/nuxtlabs/ui>nuxtlabs/ui</a><span> Fully styled and customizable components for Nuxt.</span></li><li><a href=https://github.com/LinuxSuRen/remote-jobs-in-china>LinuxSuRen/remote-jobs-in-china</a><span> 支持远程办公的中国公司</span></li><li><a href=https://github.com/n8n-io/n8n>n8n-io/n8n</a><span> Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.</span></li></ul>
+<ul><li><a href=https://github.com/CatsJuice/me>CatsJuice/me</a><span> Personal profile</span></li><li><a href=https://github.com/n8n-io/n8n>n8n-io/n8n</a><span> Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.</span></li><li><a href=https://github.com/nuxtlabs/ui>nuxtlabs/ui</a><span> Fully styled and customizable components for Nuxt.</span></li><li><a href=https://github.com/WankkoRee/eaio>WankkoRee/eaio</a><span> 一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。</span></li><li><a href=https://github.com/oschwald/geoip2-golang>oschwald/geoip2-golang</a><span> Unofficial MaxMind GeoIP2 Reader for Go</span></li></ul>
 
 **Can you find me?**
 
@@ -126,4 +126,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/14/23, 8:02 AM<br>下一次刷新：7/15/23, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/15/23, 8:02 AM<br>下一次刷新：7/16/23, 8:02 AM</p>
