@@ -103,7 +103,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>4/28/2023</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>7/11/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>7/17/2023</td></tr><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>7/20/2023</td></tr><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -111,11 +111,11 @@ He has the following skills:
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/nuxt/movies>nuxt/movies</a><span> 🍿 A TMDB client built with Nuxt 3</span></li><li><a href=https://github.com/sxyazi/yazi>sxyazi/yazi</a><span> ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.</span></li><li><a href=https://github.com/sxyazi/dotfiles>sxyazi/dotfiles</a><span> Some of the dotfiles I can't do without.</span></li><li><a href=https://github.com/trpc/trpc>trpc/trpc</a><span> 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.</span></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a><span> 📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.</span></li></ul>
+<ul><li><a href=https://github.com/CatsJuice/svg-drawing>CatsJuice/svg-drawing</a><span> A canvas for easy sketching and replay, exportable in SVG format.</span></li><li><a href=https://github.com/greatghoul/remote-working>greatghoul/remote-working</a><span> 收集整理远程工作相关的资料</span></li><li><a href=https://github.com/STRRL/dejavu>STRRL/dejavu</a><span> With Dejavu, you can have a perfect memory by capturing and organizing your visual recordings efficiently.</span></li><li><a href=https://github.com/nuxt/movies>nuxt/movies</a><span> 🍿 A TMDB client built with Nuxt 3</span></li><li><a href=https://github.com/sxyazi/yazi>sxyazi/yazi</a><span> ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/nvim-treesitter/nvim-treesitter-textobjects>nvim-treesitter/nvim-treesitter-textobjects</a></li><li><a href=https://github.com/chenglou/chenglou.github.io>chenglou/chenglou.github.io</a></li><li><a href=https://github.com/udecode/plate>udecode/plate</a><span> The rich-text editor framework for React.</span></li><li><a href=https://github.com/CatsJuice/me>CatsJuice/me</a><span> Personal profile</span></li><li><a href=https://github.com/sxzz/unplugin-macros>sxzz/unplugin-macros</a><span> Macros plugin for bundlers.</span></li></ul>
+<ul><li><a href=https://github.com/chenglou/chenglou.github.io>chenglou/chenglou.github.io</a></li><li><a href=https://github.com/nuxtlabs/ui>nuxtlabs/ui</a><span> Fully styled and customizable components for Nuxt.</span></li><li><a href=https://github.com/CatsJuice/me>CatsJuice/me</a><span> Personal profile</span></li><li><a href=https://github.com/tteck/Proxmox>tteck/Proxmox</a><span> Proxmox VE Helper Scripts</span></li><li><a href=https://github.com/nvim-treesitter/nvim-treesitter-textobjects>nvim-treesitter/nvim-treesitter-textobjects</a></li></ul>
 
 **Can you find me?**
 
@@ -126,4 +126,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/21/23, 8:02 AM<br>下一次刷新：7/22/23, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/22/23, 8:02 AM<br>下一次刷新：7/23/23, 8:02 AM</p>
