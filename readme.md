@@ -103,7 +103,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>7/11/2023</td></tr><tr><td><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank><b>reactify-component/react-shortcut-guide</b></a> <a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-shortcut-guide?style=flat-square&labelColor=343b41"></td><td>5/29/2022</td><td>3/16/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>7/26/2023</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>4/28/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -115,7 +115,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/CatsJuice/svg-drawing>CatsJuice/svg-drawing</a><span> A canvas for easy sketching and replay, exportable in SVG format.</span></li><li><a href=https://github.com/JohannLai/gptcli>JohannLai/gptcli</a><span> 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli. 内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 GitHub Actions 这么简单，让 AI 帮助我们链接自然语言和结构化数据。</span></li><li><a href=https://github.com/chenglou/chenglou.github.io>chenglou/chenglou.github.io</a></li><li><a href=https://github.com/EstrellaXD/Auto_Bangumi>EstrellaXD/Auto_Bangumi</a><span> AutoBangumi - 全自动追番工具</span></li><li><a href=https://github.com/chenglou/cards>chenglou/cards</a><span> Prototyping the UI of 2030</span></li></ul>
+<ul><li><a href=https://github.com/oschwald/geoip2-golang>oschwald/geoip2-golang</a><span> Unofficial MaxMind GeoIP2 Reader for Go</span></li><li><a href=https://github.com/CatsJuice/ipad-cursor>CatsJuice/ipad-cursor</a><span> ● Mouse effect of iPad in browser that can be used in any framework</span></li><li><a href=https://github.com/chenglou/cards>chenglou/cards</a><span> Prototyping the UI of 2030</span></li><li><a href=https://github.com/unixzii/SwiftJotai>unixzii/SwiftJotai</a><span> Primitive and flexible state management for SwiftUI.</span></li><li><a href=https://github.com/greatghoul/remote-working>greatghoul/remote-working</a><span> 收集整理远程工作相关的资料</span></li></ul>
 
 **Can you find me?**
 
@@ -126,4 +126,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/27/23, 1:06 PM<br>下一次刷新：7/28/23, 1:06 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/27/23, 1:13 PM<br>下一次刷新：7/28/23, 1:13 PM</p>
