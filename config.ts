@@ -1,9 +1,10 @@
 export const opensource = {
   active: [
+    'Innei/Shiro', 
     'mx-space/kami',
-    'mx-space/mx-server',
+    'mx-space/core',
     'mx-space/mx-admin',
-    // 'mx-space/api-client', 
+    
     'Innei/bump-version',
   ],
   toys: {
