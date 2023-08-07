@@ -103,11 +103,11 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>7/26/2023</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>8/3/2023</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank><b>reactify-component/react-shortcut-guide</b></a> <a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-shortcut-guide?style=flat-square&labelColor=343b41"></td><td>5/29/2022</td><td>3/16/2023</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>8/3/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
-<ul><li><span>7/30/23 - <a href=https://innei.in/posts/Z-Turn/nvim-plugin-recommend>NeoVim 插件推荐</a></span></li><li><span>7/24/23 - <a href=https://innei.in/posts/Z-Turn/nvim-lua-config-init>我又开始折腾 NeoVim，这次能否代替 VSC</a></span></li><li><span>7/16/23 - <a href=https://innei.in/notes/152>浮生若梦：平凡中的反思与接纳</a></span></li><li><span>7/14/23 - <a href=https://innei.in/posts/design/new-website-design-about-shiro>Shiro - 全新风格，再次起航</a></span></li><li><span>7/8/23 - <a href=https://innei.in/notes/150>重写站点、追番与AI辅助写作</a></span></li></ul>
+<ul><li><span>8/6/23 - <a href=https://innei.in/posts/experience/first-went-to-hongkong-experience>去一次香港带来的经验</a></span></li><li><span>7/30/23 - <a href=https://innei.in/posts/Z-Turn/nvim-plugin-recommend>NeoVim 插件推荐</a></span></li><li><span>7/24/23 - <a href=https://innei.in/posts/Z-Turn/nvim-lua-config-init>我又开始折腾 NeoVim，这次能否代替 VSC</a></span></li><li><span>7/16/23 - <a href=https://innei.in/notes/152>浮生若梦：平凡中的反思与接纳</a></span></li><li><span>7/14/23 - <a href=https://innei.in/posts/design/new-website-design-about-shiro>Shiro - 全新风格，再次起航</a></span></li></ul>
 
 **Recent Star...**
 
@@ -115,7 +115,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/CatsJuice/me>CatsJuice/me</a><span> Personal profile</span></li><li><a href=https://github.com/nuxt/movies>nuxt/movies</a><span> 🍿 A TMDB client built with Nuxt 3</span></li><li><a href=https://github.com/greatghoul/remote-working>greatghoul/remote-working</a><span> 收集整理远程工作相关的资料</span></li><li><a href=https://github.com/single-spa/import-map-overrides>single-spa/import-map-overrides</a><span> A browser and NodeJS javascript library for overriding import maps</span></li><li><a href=https://github.com/unixzii/SwiftJotai>unixzii/SwiftJotai</a><span> Primitive and flexible state management for SwiftUI.</span></li></ul>
+<ul><li><a href=https://github.com/mogland/core>mogland/core</a><span> 🐱 /mɑːɡ/ A flexible, modular CMS Blog System. | 一款弹性的模块化 CMS 博客系统</span></li><li><a href=https://github.com/oschwald/geoip2-golang>oschwald/geoip2-golang</a><span> Unofficial MaxMind GeoIP2 Reader for Go</span></li><li><a href=https://github.com/sxzz/unplugin-macros>sxzz/unplugin-macros</a><span> Macros plugin for bundlers.</span></li><li><a href=https://github.com/CatsJuice/ipad-cursor>CatsJuice/ipad-cursor</a><span> ● Mouse effect of iPad in browser that can be used in any framework</span></li><li><a href=https://github.com/single-spa/import-map-overrides>single-spa/import-map-overrides</a><span> A browser and NodeJS javascript library for overriding import maps</span></li></ul>
 
 **Can you find me?**
 
@@ -126,4 +126,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/6/23, 8:02 AM<br>下一次刷新：8/7/23, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/7/23, 8:02 AM<br>下一次刷新：8/8/23, 8:02 AM</p>
