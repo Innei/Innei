@@ -27,6 +27,8 @@ He has the following skills:
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+
   <img alt="TypeScript"
     src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Apollo"
@@ -55,6 +57,8 @@ He has the following skills:
 
 <p>
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="fastify" src="https://img.shields.io/badge/-fastify-000000?style=flat-square&logo=nestjs&logoColor=white" />
+  
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="MongoDB"
     src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
@@ -66,7 +70,7 @@ He has the following skills:
 
 <p>
   <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-EB543A?style=flat-square&logo=swift&logoColor=white" />
-  <img alt="RN" src="https://img.shields.io/badge/-ReactNative-7DD0EF?style=flat-square&logo=react&logoColor=white" />
+  <img alt="RN" src="https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white" />
 
 </p>
 
@@ -78,6 +82,8 @@ He has the following skills:
     src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="archlinux" src="https://img.shields.io/badge/-archlinux-1793D1?style=flat-square&logo=ubuntu&logoColor=white" />
+  
 </p>
 
 **Environment**
