@@ -27,6 +27,8 @@ He has the following skills:
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+
   <img alt="TypeScript"
     src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Apollo"
@@ -55,6 +57,8 @@ He has the following skills:
 
 <p>
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="fastify" src="https://img.shields.io/badge/-fastify-000000?style=flat-square&logo=nestjs&logoColor=white" />
+  
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="MongoDB"
     src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
@@ -66,7 +70,7 @@ He has the following skills:
 
 <p>
   <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-EB543A?style=flat-square&logo=swift&logoColor=white" />
-  <img alt="RN" src="https://img.shields.io/badge/-ReactNative-7DD0EF?style=flat-square&logo=react&logoColor=white" />
+  <img alt="RN" src="https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white" />
 
 </p>
 
@@ -78,6 +82,8 @@ He has the following skills:
     src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="archlinux" src="https://img.shields.io/badge/-archlinux-1793D1?style=flat-square&logo=ubuntu&logoColor=white" />
+  
 </p>
 
 **Environment**
@@ -103,7 +109,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>8/3/2023</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank><b>reactify-component/react-shortcut-guide</b></a> <a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-shortcut-guide?style=flat-square&labelColor=343b41"></td><td>5/29/2022</td><td>3/16/2023</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>8/9/2023</td></tr><tr><td><a href=https://github.com/reactify-component/react-message target=_blank><b>reactify-component/react-message</b></a> <a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-message?style=flat-square&labelColor=343b41"></td><td>1/13/2022</td><td>5/11/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -111,11 +117,11 @@ He has the following skills:
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/haren724/open-wallpaper-engine-mac>haren724/open-wallpaper-engine-mac</a><span> An open source wallpaper engine for mac</span></li><li><a href=https://github.com/ikun-svelte/ikun-ui>ikun-svelte/ikun-ui</a><span> 🐔A Svelte.js based UnoCSS UI library that allows you to make websites</span></li><li><a href=https://github.com/unixzii/cyandev.io>unixzii/cyandev.io</a><span> My personal website.</span></li><li><a href=https://github.com/iptv-org/iptv>iptv-org/iptv</a><span> Collection of publicly available IPTV channels from all over the world</span></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a><span> 📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.</span></li></ul>
+<ul><li><a href=https://github.com/danielfalk/smart-open.nvim>danielfalk/smart-open.nvim</a><span> Neovim plugin for fast file-finding</span></li><li><a href=https://github.com/haren724/open-wallpaper-engine-mac>haren724/open-wallpaper-engine-mac</a><span> An open source wallpaper engine for mac</span></li><li><a href=https://github.com/ikun-svelte/ikun-ui>ikun-svelte/ikun-ui</a><span> 🐔A Svelte.js based UnoCSS UI library that allows you to make websites</span></li><li><a href=https://github.com/unixzii/cyandev.io>unixzii/cyandev.io</a><span> My personal website.</span></li><li><a href=https://github.com/iptv-org/iptv>iptv-org/iptv</a><span> Collection of publicly available IPTV channels from all over the world</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/sxyazi/dotfiles>sxyazi/dotfiles</a><span> Some of the dotfiles I can't do without.</span></li><li><a href=https://github.com/oschwald/geoip2-golang>oschwald/geoip2-golang</a><span> Unofficial MaxMind GeoIP2 Reader for Go</span></li><li><a href=https://github.com/nuxt/movies>nuxt/movies</a><span> 🍿 A TMDB client built with Nuxt 3</span></li><li><a href=https://github.com/sxzz/unplugin-macros>sxzz/unplugin-macros</a><span> Macros plugin for bundlers.</span></li><li><a href=https://github.com/planttheidea/hash-it>planttheidea/hash-it</a><span> Hash any object type based on its values</span></li></ul>
+<ul><li><a href=https://github.com/nvim-treesitter/nvim-treesitter-textobjects>nvim-treesitter/nvim-treesitter-textobjects</a></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><span> 🪽 An open-source creative community written on the blockchain.</span></li><li><a href=https://github.com/CatsJuice/svg-drawing>CatsJuice/svg-drawing</a><span> A canvas for easy sketching and replay, exportable in SVG format.</span></li><li><a href=https://github.com/CatsJuice/me>CatsJuice/me</a><span> Personal profile</span></li><li><a href=https://github.com/oschwald/geoip2-golang>oschwald/geoip2-golang</a><span> Unofficial MaxMind GeoIP2 Reader for Go</span></li></ul>
 
 **Can you find me?**
 
@@ -126,4 +132,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/10/23, 8:01 AM<br>下一次刷新：8/11/23, 8:01 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/11/23, 12:50 AM<br>下一次刷新：8/12/23, 12:50 AM</p>
