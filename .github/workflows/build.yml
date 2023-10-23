@@ -42,8 +42,8 @@ jobs:
         run: |
           npx sponsorkit
         env:
-          # SPONSORKIT_AFDIAN_TOKEN: ${{ secrets.SPONSORKIT_AFDIAN_TOKEN }}
-          # SPONSORKIT_AFDIAN_USER_ID: e97ad8460df611eab74952540025c377
+          SPONSORKIT_AFDIAN_TOKEN: ${{ secrets.SPONSORKIT_AFDIAN_TOKEN }}
+          SPONSORKIT_AFDIAN_USER_ID: e97ad8460df611eab74952540025c377
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: innei
       - name: Push new README.md
