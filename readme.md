@@ -103,11 +103,11 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>10/5/2023</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>8/3/2023</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>3/22/2023</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>7/11/2023</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>8/3/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
-<ul><li><span>10/28/23 - <a href=https://innei.in/posts/programming/why-i-prefer-imperative-modal>为什么我更推荐命令式 Modal</a></span></li><li><span>10/15/23 - <a href=https://innei.in/notes/157>Fortnight Issue - 23.10</a></span></li><li><span>10/2/23 - <a href=https://innei.in/notes/156>Monthly Issue - 23.9</a></span></li><li><span>9/25/23 - <a href=https://innei.in/posts/programming/nestjs-with-trpc-and-dependency-injection>NestJS + tRPC 与 CSR 侧的 React Query 集成指南</a></span></li><li><span>9/6/23 - <a href=https://innei.in/notes/155>内心游戏</a></span></li></ul>
+<ul><li><span>11/1/23 - <a href=https://innei.in/notes/158>Weekly Issue - 23.10W4</a></span></li><li><span>10/28/23 - <a href=https://innei.in/posts/programming/why-i-prefer-imperative-modal>为什么我更推荐命令式 Modal</a></span></li><li><span>10/15/23 - <a href=https://innei.in/notes/157>Fortnight Issue - 23.10</a></span></li><li><span>10/2/23 - <a href=https://innei.in/notes/156>Monthly Issue - 23.9</a></span></li><li><span>9/25/23 - <a href=https://innei.in/posts/programming/nestjs-with-trpc-and-dependency-injection>超级组合！NestJS + tRPC 与CSR绝佳搭档React Query，开启全新开发时代！</a></span></li></ul>
 
 **Recent Star...**
 
@@ -115,7 +115,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/unixzii/cyandev.io>unixzii/cyandev.io</a><span> My personal website.</span></li><li><a href=https://github.com/monako97/2fa-for-macOS>monako97/2fa-for-macOS</a><span> 使用Swift UI开发的身份验证器(2FA)</span></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><span> 🪽 An open-source creative community written on the blockchain.</span></li><li><a href=https://github.com/apitable/apitable>apitable/apitable</a><span> 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.</span></li><li><a href=https://github.com/chax-at/prisma-filter>chax-at/prisma-filter</a></li></ul>
+<ul><li><a href=https://github.com/xlboy/swap-ternary.nvim>xlboy/swap-ternary.nvim</a><span> Easily swap the values in a ternary expression</span></li><li><a href=https://github.com/apitable/apitable>apitable/apitable</a><span> 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.</span></li><li><a href=https://github.com/monako97/2fa-for-macOS>monako97/2fa-for-macOS</a><span> 使用Swift UI开发的身份验证器(2FA)</span></li><li><a href=https://github.com/tremorlabs/tremor>tremorlabs/tremor</a><span> The React library to build dashboards fast.</span></li><li><a href=https://github.com/fullstack-build/tslog>fullstack-build/tslog</a><span> 📝 tslog - Universal Logger for TypeScript and JavaScript</span></li></ul>
 
 **Can you find me?**
 
@@ -126,4 +126,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/1/23, 8:02 AM<br>下一次刷新：11/2/23, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/2/23, 8:02 AM<br>下一次刷新：11/3/23, 8:02 AM</p>
