@@ -51,6 +51,20 @@
           "bundle_sku_select_count": 0,
           "config": {},
           "has_plan_config": 0,
+          "shipping_fee_info": {
+            "id": 11,
+            "name": "全国包邮",
+            "user_id": "system",
+            "status": 1,
+            "template_type": 1,
+            "fee_type": 1,
+            "base_fee": "0.00",
+            "base_fee_count": 1,
+            "addup_fee": "0.00",
+            "addup_count": 1,
+            "create_time": 0,
+            "update_time": 0
+          },
           "expire_time": 2114352000,
           "sku_processed": [
             {
@@ -97,6 +111,20 @@
         "bundle_sku_select_count": 0,
         "config": {},
         "has_plan_config": 0,
+        "shipping_fee_info": {
+          "id": 11,
+          "name": "全国包邮",
+          "user_id": "system",
+          "status": 1,
+          "template_type": 1,
+          "fee_type": 1,
+          "base_fee": "0.00",
+          "base_fee_count": 1,
+          "addup_fee": "0.00",
+          "addup_count": 1,
+          "create_time": 0,
+          "update_time": 0
+        },
         "expire_time": 2114352000,
         "sku_processed": [
           {
