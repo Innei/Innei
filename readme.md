@@ -16,6 +16,8 @@ Innei is a beginner who is passionate about exploring new things in full-stack d
 
 In the developer field, he often actively participates in GitHub and aspires to become a freelancer.
 
+On the technology stack, he has three years of NextJs experience and three years of nestjs experience. NextJS 9 -> 13, Page router -> App router. NestJS 7 -> 10, typegoose/prisma.
+
 <!--
 > Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume.innei.ren/), feel free to hit me up!
 >
@@ -103,7 +105,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>3/22/2023</td></tr><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>12/6/2023</td></tr><tr><td><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank><b>reactify-component/react-shortcut-guide</b></a> <a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-shortcut-guide?style=flat-square&labelColor=343b41"></td><td>5/29/2022</td><td>3/16/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>10/18/2023</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>3/22/2023</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>7/11/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -115,7 +117,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/xlboy/astronvim_config>xlboy/astronvim_config</a><span> An example user configuration with a split up structure</span></li><li><a href=https://github.com/fanmingming/live>fanmingming/live</a><span> ✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕</span></li><li><a href=https://github.com/tremorlabs/tremor>tremorlabs/tremor</a><span> The React library to build dashboards fast.</span></li><li><a href=https://github.com/ikun-svelte/ikun-ui>ikun-svelte/ikun-ui</a><span> 🐔A Svelte.js based UnoCSS UI library that allows you to make websites</span></li><li><a href=https://github.com/thecuvii/devfools>thecuvii/devfools</a><span> Trick your devtools 🤡.</span></li></ul>
+<ul><li><a href=https://github.com/apitable/apitable>apitable/apitable</a><span> 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.</span></li><li><a href=https://github.com/tremorlabs/tremor>tremorlabs/tremor</a><span> The React library to build dashboards fast.</span></li><li><a href=https://github.com/chax-at/prisma-filter>chax-at/prisma-filter</a></li><li><a href=https://github.com/webfansplz/vue-c2c>webfansplz/vue-c2c</a><span> Transforming Vue components to composable functions</span></li><li><a href=https://github.com/Jack-Works/async-call-rpc>Jack-Works/async-call-rpc</a><span> A lightweight JSON RPC client & server</span></li></ul>
 
 **Can you find me?**
 
@@ -126,4 +128,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：12/8/23, 8:02 AM<br>下一次刷新：12/9/23, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：12/8/23, 11:20 PM<br>下一次刷新：12/9/23, 11:20 PM</p>
