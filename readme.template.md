@@ -16,7 +16,7 @@ Innei is a beginner who is passionate about exploring new things in full-stack d
 
 In the developer field, he often actively participates in GitHub and aspires to become a freelancer.
 
-On the technology stack, he has three years of NextJs experience and three years of nestjs experience. NextJS 9 -> 13, Page router -> App router. NestJS 7 -> 10, typegoose/prisma.
+On the technology stack, he has three years of NextJS experience and three years of NestJS experience. NextJS 9 -> 13, Page router -> App router. NestJS 7 -> 10, typegoose/prisma.
 
 <!--
 > Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume.innei.ren/), feel free to hit me up!
