@@ -16,7 +16,7 @@ Innei is a beginner who is passionate about exploring new things in full-stack d
 
 In the developer field, he often actively participates in GitHub and aspires to become a freelancer.
 
-On the technology stack, he has three years of NextJs experience and three years of nestjs experience. NextJS 9 -> 13, Page router -> App router. NestJS 7 -> 10, typegoose/prisma.
+On the technology stack, he has three years of NextJS experience and three years of NestJS experience. NextJS 9 -> 13, Page router -> App router. NestJS 7 -> 10, Typegoose/Prisma.
 
 <!--
 > Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume.innei.ren/), feel free to hit me up!
@@ -105,7 +105,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>10/18/2023</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>3/22/2023</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>7/11/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-message target=_blank><b>reactify-component/react-message</b></a> <a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-message?style=flat-square&labelColor=343b41"></td><td>1/13/2022</td><td>5/11/2023</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>11/21/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -117,7 +117,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/apitable/apitable>apitable/apitable</a><span> 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.</span></li><li><a href=https://github.com/tremorlabs/tremor>tremorlabs/tremor</a><span> The React library to build dashboards fast.</span></li><li><a href=https://github.com/chax-at/prisma-filter>chax-at/prisma-filter</a></li><li><a href=https://github.com/webfansplz/vue-c2c>webfansplz/vue-c2c</a><span> Transforming Vue components to composable functions</span></li><li><a href=https://github.com/Jack-Works/async-call-rpc>Jack-Works/async-call-rpc</a><span> A lightweight JSON RPC client & server</span></li></ul>
+<ul><li><a href=https://github.com/xlboy/astronvim_config>xlboy/astronvim_config</a><span> An example user configuration with a split up structure</span></li><li><a href=https://github.com/yeun/open-color>yeun/open-color</a><span> Color scheme for UI design.</span></li><li><a href=https://github.com/haren724/wallpaper-player-mac>haren724/wallpaper-player-mac</a><span> A powerful open source live wallpaper app for mac</span></li><li><a href=https://github.com/alexleigh/pve-mods>alexleigh/pve-mods</a><span> Proxmox VE modifications to add temperature sensors</span></li><li><a href=https://github.com/thecuvii/devfools>thecuvii/devfools</a><span> Trick your devtools 🤡.</span></li></ul>
 
 **Can you find me?**
 
@@ -128,4 +128,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：12/8/23, 11:20 PM<br>下一次刷新：12/9/23, 11:20 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：12/9/23, 8:02 AM<br>下一次刷新：12/10/23, 8:02 AM</p>
