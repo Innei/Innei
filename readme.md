@@ -16,7 +16,7 @@ Innei is a beginner who is passionate about exploring new things in full-stack d
 
 In the developer field, he often actively participates in GitHub and aspires to become a freelancer.
 
-On the technology stack, he has three years of NextJS experience and three years of NestJS experience. NextJS 9 -> 13, Page router -> App router. NestJS 7 -> 10, Typegoose/Prisma.
+On the technology stack, he has three years of NextJS experience and three years of NestJS experience. NextJS 9 -> 14, Page router -> App router. NestJS 7 -> 10, Typegoose/Prisma.
 
 <!--
 > Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume.innei.ren/), feel free to hit me up!
@@ -105,7 +105,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>8/3/2023</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>11/21/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>11/21/2023</td></tr><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>10/18/2023</td></tr><tr><td><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank><b>reactify-component/react-shortcut-guide</b></a> <a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-shortcut-guide?style=flat-square&labelColor=343b41"></td><td>5/29/2022</td><td>3/16/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -113,11 +113,11 @@ He has the following skills:
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/anisurrahman072/React-Native-Advanced-Guide>anisurrahman072/React-Native-Advanced-Guide</a><span> React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥</span></li><li><a href=https://github.com/tokio-rs/axum>tokio-rs/axum</a><span> Ergonomic and modular web framework built with Tokio, Tower, and Hyper</span></li><li><a href=https://github.com/unixzii/ctf-2024>unixzii/ctf-2024</a></li><li><a href=https://github.com/xlboy/type-zen>xlboy/type-zen</a><span> A language based on TypeScript type system - 一个基于 TypeScript 类型层的语言</span></li><li><a href=https://github.com/mtkennerly/ludusavi>mtkennerly/ludusavi</a><span> Backup tool for PC game saves</span></li></ul>
+<ul><li><a href=https://github.com/tailwindlabs/tailwindcss>tailwindlabs/tailwindcss</a><span> A utility-first CSS framework for rapid UI development.</span></li><li><a href=https://github.com/anisurrahman072/React-Native-Advanced-Guide>anisurrahman072/React-Native-Advanced-Guide</a><span> React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥</span></li><li><a href=https://github.com/tokio-rs/axum>tokio-rs/axum</a><span> Ergonomic and modular web framework built with Tokio, Tower, and Hyper</span></li><li><a href=https://github.com/unixzii/ctf-2024>unixzii/ctf-2024</a></li><li><a href=https://github.com/xlboy/type-zen>xlboy/type-zen</a><span> A language based on TypeScript type system - 一个基于 TypeScript 类型层的语言</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/ionuttbara/windows-defender-remover>ionuttbara/windows-defender-remover</a><span> A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.</span></li><li><a href=https://github.com/seerge/g-helper>seerge/g-helper</a><span> Lightweight Armoury Crate alternative for Asus laptops. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models</span></li><li><a href=https://github.com/ShenQingchuan/Milki>ShenQingchuan/Milki</a><span> Markdown documentation management system. [ Build it for learning ]</span></li><li><a href=https://github.com/Kimentanm/aptv>Kimentanm/aptv</a><span> 📺 A tool for playing m3u8 file</span></li><li><a href=https://github.com/ByteByteGoHq/system-design-101>ByteByteGoHq/system-design-101</a><span> Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.</span></li></ul>
+<ul><li><a href=https://github.com/zhaodice/proxmox-ve-anti-detection>zhaodice/proxmox-ve-anti-detection</a><span> A patch to hide PVE itself</span></li><li><a href=https://github.com/innei-template/nextjs-boilerplate>innei-template/nextjs-boilerplate</a><span> Quickly build a UI/UX prioritized frontend application.</span></li><li><a href=https://github.com/seerge/g-helper>seerge/g-helper</a><span> Lightweight Armoury Crate alternative for Asus laptops. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models</span></li><li><a href=https://github.com/ionuttbara/windows-defender-remover>ionuttbara/windows-defender-remover</a><span> A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.</span></li><li><a href=https://github.com/thecuvii/devfools>thecuvii/devfools</a><span> Trick your devtools 🤡.</span></li></ul>
 
 **Can you find me?**
 
@@ -128,4 +128,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/4/24, 8:02 AM<br>下一次刷新：1/5/24, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/4/24, 10:31 PM<br>下一次刷新：1/5/24, 10:31 PM</p>
