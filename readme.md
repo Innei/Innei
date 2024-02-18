@@ -105,7 +105,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>8/3/2023</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>2/15/2024</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>10/18/2023</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>8/3/2023</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>2/15/2024</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -117,7 +117,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/vercel/geist-font>vercel/geist-font</a></li><li><a href=https://github.com/anisurrahman072/React-Native-Advanced-Guide>anisurrahman072/React-Native-Advanced-Guide</a><span> React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥</span></li><li><a href=https://github.com/alexleigh/pve-mods>alexleigh/pve-mods</a><span> Proxmox VE modifications to add temperature sensors</span></li><li><a href=https://github.com/yeun/open-color>yeun/open-color</a><span> Color scheme for UI design.</span></li><li><a href=https://github.com/mx-space/mx-admin>mx-space/mx-admin</a><span> 😇 The next generation of mx-space admin dashboard built with Vue 3 and TypeScript.</span></li></ul>
+<ul><li><a href=https://github.com/ByteByteGoHq/system-design-101>ByteByteGoHq/system-design-101</a><span> Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.</span></li><li><a href=https://github.com/jotaijs/jotai-tanstack-query>jotaijs/jotai-tanstack-query</a><span> Jotai integration library for TanStack Query</span></li><li><a href=https://github.com/KoolCore/Proxmox_VE_Status>KoolCore/Proxmox_VE_Status</a><span> 开源 Proxmox VE 网页后台添加处理器、NVMe、SSD 的温度和负载信息的脚本工具。</span></li><li><a href=https://github.com/innei-template/nextjs-boilerplate>innei-template/nextjs-boilerplate</a><span> Quickly build a UI/UX prioritized frontend application.</span></li><li><a href=https://github.com/anisurrahman072/React-Native-Advanced-Guide>anisurrahman072/React-Native-Advanced-Guide</a><span> React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥</span></li></ul>
 
 **Can you find me?**
 
@@ -128,4 +128,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/17/24, 8:02 AM<br>下一次刷新：2/18/24, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/18/24, 8:02 AM<br>下一次刷新：2/19/24, 8:02 AM</p>
