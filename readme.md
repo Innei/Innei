@@ -105,7 +105,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>2/24/2024</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank><b>reactify-component/react-shortcut-guide</b></a> <a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-shortcut-guide?style=flat-square&labelColor=343b41"></td><td>5/29/2022</td><td>3/16/2023</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>2/24/2024</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -117,7 +117,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/MuTsunTsai/fontfreeze>MuTsunTsai/fontfreeze</a><span> Freeze variations and features in font.</span></li><li><a href=https://github.com/huggingface/transformers>huggingface/transformers</a><span> 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.</span></li><li><a href=https://github.com/KoolCore/Proxmox_VE_Status>KoolCore/Proxmox_VE_Status</a><span> 开源 Proxmox VE 网页后台添加处理器、NVMe、SSD 的温度和负载信息的脚本工具。</span></li><li><a href=https://github.com/webfansplz/vue-c2c>webfansplz/vue-c2c</a><span> Transforming Vue components to composable functions</span></li><li><a href=https://github.com/yeun/open-color>yeun/open-color</a><span> Color scheme for UI design.</span></li></ul>
+<ul><li><a href=https://github.com/ast-grep/ast-grep>ast-grep/ast-grep</a><span> ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust</span></li><li><a href=https://github.com/xlboy/type-zen>xlboy/type-zen</a><span> A language based on TypeScript type system - 一个基于 TypeScript 类型层的语言</span></li><li><a href=https://github.com/tailwindlabs/tailwindcss>tailwindlabs/tailwindcss</a><span> A utility-first CSS framework for rapid UI development.</span></li><li><a href=https://github.com/unixzii/ctf-2024>unixzii/ctf-2024</a></li><li><a href=https://github.com/ionuttbara/windows-defender-remover>ionuttbara/windows-defender-remover</a><span> A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.</span></li></ul>
 
 **Can you find me?**
 
@@ -128,4 +128,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/2/24, 8:02 AM<br>下一次刷新：3/3/24, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/3/24, 8:02 AM<br>下一次刷新：3/4/24, 8:02 AM</p>
