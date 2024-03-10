@@ -105,7 +105,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>10/18/2023</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>8/3/2023</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>7/11/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>3/6/2024</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>8/3/2023</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>3/22/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -117,7 +117,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/tailwindlabs/tailwindcss>tailwindlabs/tailwindcss</a><span> A utility-first CSS framework for rapid UI development.</span></li><li><a href=https://github.com/anisurrahman072/React-Native-Advanced-Guide>anisurrahman072/React-Native-Advanced-Guide</a><span> React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥</span></li><li><a href=https://github.com/ast-grep/ast-grep>ast-grep/ast-grep</a><span> ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust</span></li><li><a href=https://github.com/ByteByteGoHq/system-design-101>ByteByteGoHq/system-design-101</a><span> Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.</span></li><li><a href=https://github.com/nomic-ai/gpt4all>nomic-ai/gpt4all</a><span> gpt4all: run open-source LLMs anywhere</span></li></ul>
+<ul><li><a href=https://github.com/yeun/open-color>yeun/open-color</a><span> Color scheme for UI design.</span></li><li><a href=https://github.com/xenova/transformers.js>xenova/transformers.js</a><span> State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!</span></li><li><a href=https://github.com/anisurrahman072/React-Native-Advanced-Guide>anisurrahman072/React-Native-Advanced-Guide</a><span> React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥</span></li><li><a href=https://github.com/huggingface/transformers>huggingface/transformers</a><span> 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.</span></li><li><a href=https://github.com/strapi/strapi>strapi/strapi</a><span> 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.</span></li></ul>
 
 **Can you find me?**
 
@@ -128,4 +128,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/9/24, 8:02 AM<br>下一次刷新：3/10/24, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/10/24, 8:02 AM<br>下一次刷新：3/11/24, 8:02 AM</p>
