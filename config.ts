@@ -1,12 +1,12 @@
 export const opensource = {
   active: [
     "Innei/Shiro",
-    "mx-space/kami",
+   // "mx-space/kami",
     "mx-space/core",
-    "mx-space/mx-admin",
+    "mx-space/mx-admin",'Innei/book-ssg-template'
 
     // 'Innei/bump-version',
-    "Innei/nvim-config-lua",
+    // "Innei/nvim-config-lua",
   ],
   toys: {
     limit: 3,
