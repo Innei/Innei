@@ -105,7 +105,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>2/24/2024</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>7/11/2023</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>8/3/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -117,7 +117,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/codesandbox/sandpack>codesandbox/sandpack</a><span> A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.</span></li><li><a href=https://github.com/mtkennerly/ludusavi>mtkennerly/ludusavi</a><span> Backup tool for PC game saves</span></li><li><a href=https://github.com/tailwindlabs/tailwindcss>tailwindlabs/tailwindcss</a><span> A utility-first CSS framework for rapid UI development.</span></li><li><a href=https://github.com/Jeff-Lewis/cls-hooked>Jeff-Lewis/cls-hooked</a><span> cls-hooked : CLS using AsynWrap or async_hooks instead of async-listener for node 4.7+</span></li><li><a href=https://github.com/ionuttbara/windows-defender-remover>ionuttbara/windows-defender-remover</a><span> A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.</span></li></ul>
+<ul><li><a href=https://github.com/ionuttbara/windows-defender-remover>ionuttbara/windows-defender-remover</a><span> A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.</span></li><li><a href=https://github.com/Innei/book-ssg-template>Innei/book-ssg-template</a><span> Yet another template for document SSG.</span></li><li><a href=https://github.com/MuTsunTsai/fontfreeze>MuTsunTsai/fontfreeze</a><span> Freeze variations and features in font.</span></li><li><a href=https://github.com/Kimentanm/aptv>Kimentanm/aptv</a><span> 📺 A tool for playing m3u8 file</span></li><li><a href=https://github.com/Jeff-Lewis/cls-hooked>Jeff-Lewis/cls-hooked</a><span> cls-hooked : CLS using AsynWrap or async_hooks instead of async-listener for node 4.7+</span></li></ul>
 
 **Can you find me?**
 
@@ -128,4 +128,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/4/24, 8:02 AM<br>下一次刷新：4/5/24, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/5/24, 8:02 AM<br>下一次刷新：4/6/24, 8:02 AM</p>
