@@ -14,7 +14,7 @@ import {
   NoteModel,
   PostModel,
 } from '@mx-space/api-client'
-import { axiosAdaptor } from '@mx-space/api-client/lib/adaptors/axios'
+import { axiosAdaptor } from '@mx-space/api-client/dist/adaptors/axios'
 
 const mxClient = createClient(axiosAdaptor)(mxSpace.api, {
   controllers: [AggregateController],
