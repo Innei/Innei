@@ -3,7 +3,8 @@ export const opensource = {
     "Innei/Shiro",
    // "mx-space/kami",
     "mx-space/core",
-    "mx-space/mx-admin",'Innei/book-ssg-template'
+    "RSSNext/follow",
+    'Innei/book-ssg-template'
 
     // 'Innei/bump-version',
     // "Innei/nvim-config-lua",
