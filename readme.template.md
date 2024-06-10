@@ -18,8 +18,10 @@ In the developer field, he often actively participates in GitHub and aspires to 
 
 On the technology stack, he has three years of NextJS experience and three years of NestJS experience. NextJS 9 -> 14, Page router -> App router. NestJS 7 -> 10, Typegoose/Prisma.
 
+Aspire to be an independent developer, and design engineer.
+
 <!--
-> Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume.innei.ren/), feel free to hit me up!
+> Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume.innei.in/), feel free to hit me up!
 >
 > 嘿，我正在考虑寻找远程工作机会，简历在 [这里](https://resume.innei.ren/)，欢迎来撩我！ -->
 
