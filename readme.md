@@ -107,7 +107,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank><b>reactify-component/react-shortcut-guide</b></a> <a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-shortcut-guide?style=flat-square&labelColor=343b41"></td><td>5/29/2022</td><td>3/16/2023</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>8/3/2023</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>6/17/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-message target=_blank><b>reactify-component/react-message</b></a> <a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-message?style=flat-square&labelColor=343b41"></td><td>1/13/2022</td><td>5/11/2023</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>6/17/2024</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -119,7 +119,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/scalar/scalar>scalar/scalar</a><span> Beautiful API references from OpenAPI/Swagger files ✨</span></li><li><a href=https://github.com/open-webui/open-webui>open-webui/open-webui</a><span> User-friendly WebUI for LLMs (Formerly Ollama WebUI)</span></li><li><a href=https://github.com/liabru/matter-js>liabru/matter-js</a><span> a 2D rigid body physics engine for the web ▲● ■</span></li><li><a href=https://github.com/dromara/newcar>dromara/newcar</a><span> 🪢A modern animation engine for JavaScript ecosystem, which is based on Skia (canvaskit-wasm)</span></li><li><a href=https://github.com/Doctor-wu/Tenon>Doctor-wu/Tenon</a><span> Tenon / 榫卯 🏗️施工中的低代码平台</span></li></ul>
+<ul><li><a href=https://github.com/jaywcjlove/wxmp>jaywcjlove/wxmp</a><span> 微信公众号文章 Markdown 编辑器，使用 markdown 语法创建一篇简介美观大方的微信公众号图文。</span></li><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a><span> Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</span></li><li><a href=https://github.com/alienkitty/space.js>alienkitty/space.js</a><span> 🛸 Minimal monospace UI library</span></li><li><a href=https://github.com/thedevdojo/pines>thedevdojo/pines</a><span> The Pines UI library</span></li><li><a href=https://github.com/electric-sql/electric>electric-sql/electric</a><span> Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.</span></li></ul>
 
 **Can you find me?**
 
@@ -130,4 +130,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/26/24, 8:07 AM<br>下一次刷新：6/27/24, 8:07 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/27/24, 8:07 AM<br>下一次刷新：6/28/24, 8:07 AM</p>
