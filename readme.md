@@ -107,7 +107,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>7/11/2023</td></tr><tr><td><a href=https://github.com/reactify-component/react-message target=_blank><b>reactify-component/react-message</b></a> <a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-message?style=flat-square&labelColor=343b41"></td><td>1/13/2022</td><td>5/11/2023</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>3/22/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>6/17/2024</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>6/20/2024</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -119,7 +119,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/wxt-dev/wxt>wxt-dev/wxt</a><span> ⚡ Next-gen Web Extension Framework</span></li><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a><span> Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</span></li><li><a href=https://github.com/brandonmcconnell/tailwindcss-multi>brandonmcconnell/tailwindcss-multi</a><span> Variant-grouped utility support for Tailwind CSS</span></li><li><a href=https://github.com/electric-sql/electric>electric-sql/electric</a><span> Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.</span></li><li><a href=https://github.com/scalar/scalar>scalar/scalar</a><span> Beautiful API references from OpenAPI/Swagger files ✨</span></li></ul>
+<ul><li><a href=https://github.com/open-webui/open-webui>open-webui/open-webui</a><span> User-friendly WebUI for LLMs (Formerly Ollama WebUI)</span></li><li><a href=https://github.com/nandorojo/moti>nandorojo/moti</a><span> 🐼 The React Native (+ Web) animation library, powered by Reanimated 3.</span></li><li><a href=https://github.com/electric-sql/electric>electric-sql/electric</a><span> Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.</span></li><li><a href=https://github.com/aifuxi/fuxiaochen>aifuxi/fuxiaochen</a><span> 🌈 一个简单的个人站，使用 Next.js 构建</span></li><li><a href=https://github.com/SukkaW/eslint-config-sukka>SukkaW/eslint-config-sukka</a></li></ul>
 
 **Can you find me?**
 
@@ -130,4 +130,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/29/24, 8:07 AM<br>下一次刷新：6/30/24, 8:07 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/30/24, 8:08 AM<br>下一次刷新：7/1/24, 8:08 AM</p>
