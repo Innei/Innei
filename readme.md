@@ -107,7 +107,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr><tr><td><a href=https://github.com/reactify-component/react-message target=_blank><b>reactify-component/react-message</b></a> <a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-message?style=flat-square&labelColor=343b41"></td><td>1/13/2022</td><td>5/11/2023</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>8/3/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>7/1/2024</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>8/3/2023</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>3/22/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -119,7 +119,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/langgenius/dify>langgenius/dify</a><span> Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.</span></li><li><a href=https://github.com/RSSNext/follow>RSSNext/follow</a><span> [WIP] Next generation information browser</span></li><li><a href=https://github.com/ericclemmons/click-to-component>ericclemmons/click-to-component</a><span> Option+Click React components in your browser to instantly open the source in VS Code</span></li><li><a href=https://github.com/SukkaW/eslint-config-sukka>SukkaW/eslint-config-sukka</a></li><li><a href=https://github.com/alienkitty/space.js>alienkitty/space.js</a><span> 🛸 Minimal monospace UI library</span></li></ul>
+<ul><li><a href=https://github.com/hyoban/eslint-config-hyoban>hyoban/eslint-config-hyoban</a><span> Hyoban's ESLint config preset</span></li><li><a href=https://github.com/aifuxi/fuxiaochen>aifuxi/fuxiaochen</a><span> 🌈 一个简单的个人站，使用 Next.js 构建</span></li><li><a href=https://github.com/alienkitty/space.js>alienkitty/space.js</a><span> 🛸 Minimal monospace UI library</span></li><li><a href=https://github.com/ericclemmons/click-to-component>ericclemmons/click-to-component</a><span> Option+Click React components in your browser to instantly open the source in VS Code</span></li><li><a href=https://github.com/nandorojo/moti>nandorojo/moti</a><span> 🐼 The React Native (+ Web) animation library, powered by Reanimated 3.</span></li></ul>
 
 **Can you find me?**
 
@@ -130,4 +130,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/3/24, 8:07 AM<br>下一次刷新：7/4/24, 8:07 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/4/24, 8:07 AM<br>下一次刷新：7/5/24, 8:07 AM</p>
