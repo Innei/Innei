@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@mx-space/api-client':
-        specifier: 1.13.1
-        version: 1.13.1
+        specifier: 1.13.2
+        version: 1.13.2
       '@types/html-minifier':
         specifier: 4.0.5
         version: 4.0.5
@@ -317,8 +317,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@mx-space/api-client@1.13.1':
-    resolution: {integrity: sha512-5pd9JajHBNFRHYgFoESP6oNCqdrc/zoDZkvAc70WuJI6hPUlXPQ3mYcXouEnsTyo2MvDVrWRyEnT4+ADC2VMzA==}
+  '@mx-space/api-client@1.13.2':
+    resolution: {integrity: sha512-93OrFV5NctIqC1hQBdE7DPkxAtcDo3J3YjhzQsfP2udSPl4WsWxC+e0SBihbk+btMkTA4oH1KtFbtheq5ESDtg==}
 
   '@types/clean-css@4.2.11':
     resolution: {integrity: sha512-Y8n81lQVTAfP2TOdtJJEsCoYl1AnOkqDqMvXb9/7pfgZZ7r8YrEyurrAvAoAjHOGXKRybay+5CsExqIH6liccw==}
@@ -872,7 +872,7 @@ snapshots:
   '@img/sharp-win32-x64@0.33.4':
     optional: true
 
-  '@mx-space/api-client@1.13.1': {}
+  '@mx-space/api-client@1.13.2': {}
 
   '@types/clean-css@4.2.11':
     dependencies:
