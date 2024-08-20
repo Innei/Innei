@@ -25,7 +25,7 @@
     "@types/lodash-es": "4.17.12",
     "@types/node": "20.16.1",
     "axios": "1.7.4",
-    "dayjs": "1.11.12",
+    "dayjs": "1.11.13",
     "html-minifier": "4.0.0",
     "lodash-es": "4.17.21",
     "retry-axios": "3.1.3",
