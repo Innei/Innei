@@ -107,7 +107,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>7/30/2024</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>7/23/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>10/18/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -119,7 +119,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/loro-dev/loro>loro-dev/loro</a><span> Reimagine state management with CRDTs. Make your app collaborative effortlessly.</span></li><li><a href=https://github.com/magic-akari/shikicode>magic-akari/shikicode</a><span> A lightweight, beautiful, and extensible code editor based on Shiki.</span></li><li><a href=https://github.com/CloudCannon/pagefind>CloudCannon/pagefind</a><span> Static low-bandwidth search at scale</span></li><li><a href=https://github.com/liuke-wuhan/ZuAnBot>liuke-wuhan/ZuAnBot</a><span> 祖安助手：英雄联盟（League Of Legends）一键喷人，LOL游戏和客户端中可用。只为反击喷子！</span></li><li><a href=https://github.com/CSS-Next/css-next>CSS-Next/css-next</a><span> Admin repo for meetings, charter, and action items for the CSS-Next community group, a part of the w3c.</span></li></ul>
+<ul><li><a href=https://github.com/redotvideo/revideo>redotvideo/revideo</a><span> Create Videos with Code</span></li><li><a href=https://github.com/NginxProxyManager/nginx-proxy-manager>NginxProxyManager/nginx-proxy-manager</a><span> Docker container for managing Nginx proxy hosts with a simple, powerful interface</span></li><li><a href=https://github.com/CloudCannon/pagefind>CloudCannon/pagefind</a><span> Static low-bandwidth search at scale</span></li><li><a href=https://github.com/Dokploy/dokploy>Dokploy/dokploy</a><span> Open Source Alternative to Vercel, Netlify and Heroku.</span></li><li><a href=https://github.com/rudrodip/theme-toggle-effect>rudrodip/theme-toggle-effect</a><span> theme toggle effect using view transitions api</span></li></ul>
 
 **Can you find me?**
 
@@ -130,4 +130,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/3/24, 12:56 AM<br>下一次刷新：9/4/24, 12:56 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/3/24, 8:08 AM<br>下一次刷新：9/4/24, 8:08 AM</p>
