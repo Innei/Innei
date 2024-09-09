@@ -36,8 +36,8 @@ importers:
         specifier: 3.1.3
         version: 3.1.3(axios@1.7.7)
       sponsorkit:
-        specifier: 0.15.4
-        version: 0.15.4
+        specifier: 0.15.5
+        version: 0.15.5
       typescript:
         specifier: 5.5.4
         version: 5.5.4
@@ -597,8 +597,8 @@ packages:
   pathe@1.1.2:
     resolution: {integrity: sha512-whLdWMYL2TwI08hn8/ZqAbrVemu0LNaNNJZX73O6qaIdCTfXutsLhMkjdENX0qhsQ9uIimo4/aQOmXkoon2nDQ==}
 
-  picocolors@1.0.1:
-    resolution: {integrity: sha512-anP1Z8qwhkbmu7MFP5iTt+wQKXgwzf7zTyGlcdzabySa9vd0Xt392U0rVmz9poOaBj0uHJKyyo9/upk0HrEQew==}
+  picocolors@1.1.0:
+    resolution: {integrity: sha512-TQ92mBOW0l3LeMeyLV6mzy/kWr8lkd/hp3mTg7wYK7zJhuBStmGMBG0BdeDZS/dZx1IukaX6Bk11zcln25o1Aw==}
 
   pkg-types@1.1.3:
     resolution: {integrity: sha512-+JrgthZG6m3ckicaOB74TwQ+tBWsFl3qVQg7mN8ulwSOElJ7gBhKzj2VkCPnZ4NlF6kEquYU+RIYNVAvzd54UA==}
@@ -643,8 +643,8 @@ packages:
     resolution: {integrity: sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==}
     engines: {node: '>=0.10.0'}
 
-  sponsorkit@0.15.4:
-    resolution: {integrity: sha512-H6ivbYrQg9fpwfrjxmoxwezd8bBUB/qZNsHUXcwXTMG1qpzAWjA1GXyWYUnuB5GyVyG9W2Mh9BtkOVOOHsv9ZA==}
+  sponsorkit@0.15.5:
+    resolution: {integrity: sha512-q+dTs7F+1VgXKElFU7jbzYFCmdcHtbPQDWLutVD4oo3hgwBU2qE6R1T26MFPMd1UI5RGi446ewlint9HqDuSNQ==}
     hasBin: true
 
   string-width@4.2.3:
@@ -1168,7 +1168,7 @@ snapshots:
 
   pathe@1.1.2: {}
 
-  picocolors@1.0.1: {}
+  picocolors@1.1.0: {}
 
   pkg-types@1.1.3:
     dependencies:
@@ -1224,7 +1224,7 @@ snapshots:
 
   source-map@0.6.1: {}
 
-  sponsorkit@0.15.4:
+  sponsorkit@0.15.5:
     dependencies:
       '@antfu/utils': 0.7.10
       consola: 3.2.3
@@ -1234,7 +1234,7 @@ snapshots:
       normalize-url: 8.0.1
       ofetch: 1.3.4
       p-limit: 6.1.0
-      picocolors: 1.0.1
+      picocolors: 1.1.0
       sharp: 0.33.5
       unconfig: 0.5.5
       yargs: 17.7.2
