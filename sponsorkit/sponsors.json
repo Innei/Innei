@@ -33,7 +33,9 @@
           "update_time": 1716176798,
           "timing": {
             "timing_on": 0,
-            "timing_off": 0
+            "timing_off": 0,
+            "timing_sell_on": 0,
+            "timing_sell_off": 0
           },
           "pay_month": 1,
           "show_price": "88.00",
@@ -71,7 +73,9 @@
         "update_time": 1716176798,
         "timing": {
           "timing_on": 0,
-          "timing_off": 0
+          "timing_off": 0,
+          "timing_sell_on": 0,
+          "timing_sell_off": 0
         },
         "pay_month": 1,
         "show_price": "88.00",
@@ -140,7 +144,9 @@
           "update_time": 1716176798,
           "timing": {
             "timing_on": 0,
-            "timing_off": 0
+            "timing_off": 0,
+            "timing_sell_on": 0,
+            "timing_sell_off": 0
           },
           "pay_month": 1,
           "show_price": "88.00",
@@ -178,7 +184,9 @@
         "update_time": 1716176798,
         "timing": {
           "timing_on": 0,
-          "timing_off": 0
+          "timing_off": 0,
+          "timing_sell_on": 0,
+          "timing_sell_off": 0
         },
         "pay_month": 1,
         "show_price": "88.00",
@@ -466,7 +474,9 @@
           "update_time": 1712983659,
           "timing": {
             "timing_on": 0,
-            "timing_off": 0
+            "timing_off": 0,
+            "timing_sell_on": 0,
+            "timing_sell_off": 0
           },
           "pay_month": 1,
           "show_price": "80.00",
@@ -528,7 +538,9 @@
         "update_time": 1712983659,
         "timing": {
           "timing_on": 0,
-          "timing_off": 0
+          "timing_off": 0,
+          "timing_sell_on": 0,
+          "timing_sell_off": 0
         },
         "pay_month": 1,
         "show_price": "80.00",
@@ -971,7 +983,9 @@
           "update_time": 1694763994,
           "timing": {
             "timing_on": 0,
-            "timing_off": 0
+            "timing_off": 0,
+            "timing_sell_on": 0,
+            "timing_sell_off": 0
           },
           "pay_month": 1,
           "show_price": "20000.00",
@@ -1031,7 +1045,9 @@
         "update_time": 1694763994,
         "timing": {
           "timing_on": 0,
-          "timing_off": 0
+          "timing_off": 0,
+          "timing_sell_on": 0,
+          "timing_sell_off": 0
         },
         "pay_month": 1,
         "show_price": "20000.00",
