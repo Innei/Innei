@@ -107,7 +107,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank><b>reactify-component/react-shortcut-guide</b></a> <a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-shortcut-guide?style=flat-square&labelColor=343b41"></td><td>5/29/2022</td><td>3/16/2023</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>3/22/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>9/27/2024</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>3/22/2023</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -119,7 +119,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/raycast/ray-so>raycast/ray-so</a><span> Create code snippets, browse AI prompts, create extension icons and more.</span></li><li><a href=https://github.com/AliReza1083/Portfolio>AliReza1083/Portfolio</a><span> As a front-end developer, I specialize in building and maintaining the user interface of web applications.</span></li><li><a href=https://github.com/share/sharedb>share/sharedb</a><span> Realtime database backend based on Operational Transformation (OT)</span></li><li><a href=https://github.com/DIYgod/RSSHub-Radar>DIYgod/RSSHub-Radar</a><span> 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub</span></li><li><a href=https://github.com/CSS-Next/css-next>CSS-Next/css-next</a><span> Admin repo for meetings, charter, and action items for the CSS-Next community group, a part of the w3c.</span></li></ul>
+<ul><li><a href=https://github.com/tw-in-js/twind>tw-in-js/twind</a><span> The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.</span></li><li><a href=https://github.com/tremorlabs/tremor-raw>tremorlabs/tremor-raw</a><span> Copy & Paste React components to build modern web applications.</span></li><li><a href=https://github.com/hipstersmoothie/react-window-splitter>hipstersmoothie/react-window-splitter</a><span> react-resizable-grid-panels</span></li><li><a href=https://github.com/raycast/ray-so>raycast/ray-so</a><span> Create code snippets, browse AI prompts, create extension icons and more.</span></li><li><a href=https://github.com/ozgrozer/ai-renamer>ozgrozer/ai-renamer</a><span> A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents</span></li></ul>
 
 **Can you find me?**
 
@@ -130,4 +130,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/2/24, 8:09 AM<br>下一次刷新：10/3/24, 8:09 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/3/24, 3:08 AM<br>下一次刷新：10/4/24, 3:08 AM</p>
