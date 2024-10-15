@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=innei&show_icons=true" align=right />
 </picture>
 
-Innei is a front-end developer with two and a half years of practice(aka. 练习时长两年半). <!-- Currently, he is a newcomer to the workforce and is located in Shanghai.-->
+Innei is a two and a half year long practicing NodeJS full stack developer who is now a digital nomad. <!-- Currently, he is a newcomer to the workforce and is located in Shanghai.-->
 
 In the developer field, he often actively participates in GitHub and aspires to become a freelancer.
 
@@ -107,7 +107,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank><b>reactify-component/react-shortcut-guide</b></a> <a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-shortcut-guide?style=flat-square&labelColor=343b41"></td><td>5/29/2022</td><td>3/16/2023</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>7/11/2023</td></tr><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>8/3/2023</td></tr><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>10/18/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -119,7 +119,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/AliReza1083/Portfolio>AliReza1083/Portfolio</a><span> As a front-end developer, I specialize in building and maintaining the user interface of web applications.</span></li><li><a href=https://github.com/atlassian/pragmatic-drag-and-drop>atlassian/pragmatic-drag-and-drop</a><span> Fast drag and drop for any experience on any tech stack</span></li><li><a href=https://github.com/Mnpn/Azayaka>Mnpn/Azayaka</a><span> A small macOS menu bar-residing screen and system audio recorder which uses the ScreenCaptureKit API introduced in Ventura</span></li><li><a href=https://github.com/karthikmudunuri/eldoraui>karthikmudunuri/eldoraui</a><span> Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates.</span></li><li><a href=https://github.com/powersync-ja/powersync-js>powersync-ja/powersync-js</a><span> SDK that enables local-first and real-time reactive apps with embedded SQLite for JavaScript clients, including React Native and Web</span></li></ul>
+<ul><li><a href=https://github.com/ozgrozer/ai-renamer>ozgrozer/ai-renamer</a><span> A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents</span></li><li><a href=https://github.com/unixzii/ibackupextractor>unixzii/ibackupextractor</a><span> A simple tool for extracting files from iOS backup archive.</span></li><li><a href=https://github.com/loro-dev/loro>loro-dev/loro</a><span> Reimagine state management with CRDTs. Make your app collaborative effortlessly.</span></li><li><a href=https://github.com/powersync-ja/powersync-js>powersync-ja/powersync-js</a><span> SDK that enables local-first and real-time reactive apps with embedded SQLite for JavaScript clients, including React Native and Web</span></li><li><a href=https://github.com/tw-in-js/twind>tw-in-js/twind</a><span> The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.</span></li></ul>
 
 **Can you find me?**
 
@@ -130,4 +130,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/15/24, 8:09 AM<br>下一次刷新：10/16/24, 8:09 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/15/24, 9:11 PM<br>下一次刷新：10/16/24, 9:11 PM</p>
