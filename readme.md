@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=innei&show_icons=true" align=right />
 </picture>
 
-Innei is a two and a half year long practicing NodeJS full stack developer who is now a digital nomad. <!-- Currently, he is a newcomer to the workforce and is located in Shanghai.-->
+Innei is a front-end developer with two and a half years of practice(aka. 练习时长两年半). <!-- Currently, he is a newcomer to the workforce and is located in Shanghai.-->
 
 In the developer field, he often actively participates in GitHub and aspires to become a freelancer.
 
