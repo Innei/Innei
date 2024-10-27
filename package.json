@@ -35,6 +35,6 @@
   "devDependencies": {
     "@types/markdown-it": "14.1.2",
     "markdown-it": "14.1.0",
-    "tsx": "4.19.1"
+    "tsx": "4.19.2"
   }
 }
