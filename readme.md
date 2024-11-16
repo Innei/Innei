@@ -107,7 +107,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>10/9/2024</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>8/3/2023</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>7/11/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>7/11/2023</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>3/22/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -119,7 +119,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/KazariEX/plain-shiki>KazariEX/plain-shiki</a><span> Highlight your plaintext via Shiki.</span></li><li><a href=https://github.com/tremorlabs/tremor-raw>tremorlabs/tremor-raw</a><span> Copy & Paste React components to build modern web applications.</span></li><li><a href=https://github.com/silvia-odwyer/lightbox.js>silvia-odwyer/lightbox.js</a><span> An all-in-one, responsive React lightbox</span></li><li><a href=https://github.com/mayneyao/eidos>mayneyao/eidos</a><span> Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.</span></li><li><a href=https://github.com/redotvideo/revideo>redotvideo/revideo</a><span> Create Videos with Code</span></li></ul>
+<ul><li><a href=https://github.com/NginxProxyManager/nginx-proxy-manager>NginxProxyManager/nginx-proxy-manager</a><span> Docker container for managing Nginx proxy hosts with a simple, powerful interface</span></li><li><a href=https://github.com/powersync-ja/powersync-js>powersync-ja/powersync-js</a><span> SDK that enables local-first and real-time reactive apps with embedded SQLite for JavaScript clients, including React Native and Web</span></li><li><a href=https://github.com/unixzii/ibackupextractor>unixzii/ibackupextractor</a><span> A simple tool for extracting files from iOS backup archive.</span></li><li><a href=https://github.com/milanvarady/Applite>milanvarady/Applite</a><span> User-friendly GUI macOS application for Homebrew Casks</span></li><li><a href=https://github.com/vercel/little-date>vercel/little-date</a><span> A friendly formatter to make date ranges small & sweet</span></li></ul>
 
 **Can you find me?**
 
@@ -130,4 +130,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/15/24, 8:09 AM<br>下一次刷新：11/16/24, 8:09 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/16/24, 8:09 AM<br>下一次刷新：11/17/24, 8:09 AM</p>
