@@ -107,7 +107,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>10/18/2023</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>7/11/2023</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>8/3/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>8/3/2023</td></tr><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>3/22/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -119,7 +119,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/mayneyao/eidos>mayneyao/eidos</a><span> Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.</span></li><li><a href=https://github.com/codse/animata>codse/animata</a><span> Bring your site to life with easy to use animation & interaction code. Copy. Paste. Animate.</span></li><li><a href=https://github.com/unixzii/ibackupextractor>unixzii/ibackupextractor</a><span> A simple tool for extracting files from iOS backup archive.</span></li><li><a href=https://github.com/barvian/number-flow>barvian/number-flow</a><span> A component to transition, format, and localize numbers.</span></li><li><a href=https://github.com/Mnpn/Azayaka>Mnpn/Azayaka</a><span> A small macOS menu bar-residing screen and system audio recorder which uses the ScreenCaptureKit API introduced in Ventura</span></li></ul>
+<ul><li><a href=https://github.com/tolgee/tolgee-platform>tolgee/tolgee-platform</a><span> Developer & translator friendly web-based localization platform</span></li><li><a href=https://github.com/silvia-odwyer/lightbox.js>silvia-odwyer/lightbox.js</a><span> An all-in-one, responsive React lightbox</span></li><li><a href=https://github.com/vercel/little-date>vercel/little-date</a><span> A friendly formatter to make date ranges small & sweet</span></li><li><a href=https://github.com/powersync-ja/powersync-js>powersync-ja/powersync-js</a><span> SDK that enables local-first and real-time reactive apps with embedded SQLite for JavaScript clients, including React Native and Web</span></li><li><a href=https://github.com/romboHQ/tailwindcss-motion>romboHQ/tailwindcss-motion</a><span> tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.</span></li></ul>
 
 **Can you find me?**
 
@@ -130,4 +130,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/22/24, 8:10 AM<br>下一次刷新：11/23/24, 8:10 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/23/24, 8:09 AM<br>下一次刷新：11/24/24, 8:09 AM</p>
