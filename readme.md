@@ -107,7 +107,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>7/30/2024</td></tr><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>12/9/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>7/30/2024</td></tr><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>10/18/2023</td></tr><tr><td><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank><b>reactify-component/react-shortcut-guide</b></a> <a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-shortcut-guide?style=flat-square&labelColor=343b41"></td><td>5/29/2022</td><td>3/16/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -119,7 +119,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/milanvarady/Applite>milanvarady/Applite</a><span> User-friendly GUI macOS application for Homebrew Casks</span></li><li><a href=https://github.com/Mnpn/Azayaka>Mnpn/Azayaka</a><span> A small macOS menu bar-residing screen and system audio recorder which uses the ScreenCaptureKit API introduced in Ventura</span></li><li><a href=https://github.com/MinJieLiu/react-photo-view>MinJieLiu/react-photo-view</a><span> An exquisite React photo preview component.</span></li><li><a href=https://github.com/alisamadiii/Portfolio>alisamadiii/Portfolio</a><span> Frontend developer</span></li><li><a href=https://github.com/tolgee/tolgee-platform>tolgee/tolgee-platform</a><span> Developer & translator friendly web-based localization platform</span></li></ul>
+<ul><li><a href=https://github.com/webp-sh/webp_server_go>webp-sh/webp_server_go</a><span> Go version of WebP Server. A tool that will serve your JPG/PNG/BMP/SVGs as WebP/AVIF format with compression, on-the-fly.</span></li><li><a href=https://github.com/redotvideo/revideo>redotvideo/revideo</a><span> Create Videos with Code</span></li><li><a href=https://github.com/Mnpn/Azayaka>Mnpn/Azayaka</a><span> A small macOS menu bar-residing screen and system audio recorder which uses the ScreenCaptureKit API introduced in Ventura</span></li><li><a href=https://github.com/unixzii/ibackupextractor>unixzii/ibackupextractor</a><span> A simple tool for extracting files from iOS backup archive.</span></li><li><a href=https://github.com/NginxProxyManager/nginx-proxy-manager>NginxProxyManager/nginx-proxy-manager</a><span> Docker container for managing Nginx proxy hosts with a simple, powerful interface</span></li></ul>
 
 **Can you find me?**
 
@@ -130,4 +130,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：12/23/24, 8:09 AM<br>下一次刷新：12/24/24, 8:09 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：12/24/24, 8:09 AM<br>下一次刷新：12/25/24, 8:09 AM</p>
