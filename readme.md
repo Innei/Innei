@@ -107,7 +107,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-message target=_blank><b>reactify-component/react-message</b></a> <a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-message?style=flat-square&labelColor=343b41"></td><td>1/13/2022</td><td>5/11/2023</td></tr><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>10/18/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>12/9/2024</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>3/22/2023</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -119,7 +119,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/CSS-Next/css-next>CSS-Next/css-next</a><span> Admin repo for meetings, charter, and action items for the CSS-Next community group, a part of the w3c.</span></li><li><a href=https://github.com/hipstersmoothie/react-window-splitter>hipstersmoothie/react-window-splitter</a><span> react-resizable-grid-panels</span></li><li><a href=https://github.com/silvia-odwyer/lightbox.js>silvia-odwyer/lightbox.js</a><span> An all-in-one, responsive React lightbox</span></li><li><a href=https://github.com/Michael-128/qBitControl>Michael-128/qBitControl</a><span> qBittorrent remote client for iOS devices.</span></li><li><a href=https://github.com/redotvideo/revideo>redotvideo/revideo</a><span> Create Videos with Code</span></li></ul>
+<ul><li><a href=https://github.com/mayneyao/eidos>mayneyao/eidos</a><span> Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.</span></li><li><a href=https://github.com/redotvideo/revideo>redotvideo/revideo</a><span> Create Videos with Code</span></li><li><a href=https://github.com/better-auth/better-auth>better-auth/better-auth</a><span> The most comprehensive authentication framework for TypeScript</span></li><li><a href=https://github.com/romboHQ/tailwindcss-motion>romboHQ/tailwindcss-motion</a><span> tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.</span></li><li><a href=https://github.com/silvia-odwyer/lightbox.js>silvia-odwyer/lightbox.js</a><span> An all-in-one, responsive React lightbox</span></li></ul>
 
 **Can you find me?**
 
@@ -130,4 +130,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/1/25, 8:10 AM<br>下一次刷新：1/2/25, 8:10 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/2/25, 8:09 AM<br>下一次刷新：1/3/25, 8:09 AM</p>
