@@ -107,7 +107,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>10/18/2023</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>8/3/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>7/30/2024</td></tr><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>8/3/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -119,7 +119,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/silvia-odwyer/lightbox.js>silvia-odwyer/lightbox.js</a><span> An all-in-one, responsive React lightbox</span></li><li><a href=https://github.com/Michael-128/qBitControl>Michael-128/qBitControl</a><span> qBittorrent remote client for iOS devices.</span></li><li><a href=https://github.com/webpro-nl/knip>webpro-nl/knip</a><span> ✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!</span></li><li><a href=https://github.com/unixzii/ibackupextractor>unixzii/ibackupextractor</a><span> A simple tool for extracting files from iOS backup archive.</span></li><li><a href=https://github.com/milanvarady/Applite>milanvarady/Applite</a><span> User-friendly GUI macOS application for Homebrew Casks</span></li></ul>
+<ul><li><a href=https://github.com/unixzii/ibackupextractor>unixzii/ibackupextractor</a><span> A simple tool for extracting files from iOS backup archive.</span></li><li><a href=https://github.com/romboHQ/tailwindcss-motion>romboHQ/tailwindcss-motion</a><span> tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.</span></li><li><a href=https://github.com/Mnpn/Azayaka>Mnpn/Azayaka</a><span> A small macOS menu bar-residing screen and system audio recorder which uses the ScreenCaptureKit API introduced in Ventura</span></li><li><a href=https://github.com/atlassian/pragmatic-drag-and-drop>atlassian/pragmatic-drag-and-drop</a><span> Fast drag and drop for any experience on any tech stack</span></li><li><a href=https://github.com/better-auth/better-auth>better-auth/better-auth</a><span> The most comprehensive authentication framework for TypeScript</span></li></ul>
 
 **Can you find me?**
 
@@ -130,4 +130,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/3/25, 8:09 AM<br>下一次刷新：1/4/25, 8:09 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/4/25, 8:08 AM<br>下一次刷新：1/5/25, 8:08 AM</p>
