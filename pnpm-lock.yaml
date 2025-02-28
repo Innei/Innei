@@ -21,8 +21,8 @@ importers:
         specifier: 20.17.16
         version: 20.17.16
       axios:
-        specifier: 1.7.9
-        version: 1.7.9
+        specifier: 1.8.1
+        version: 1.8.1
       dayjs:
         specifier: 1.11.13
         version: 1.11.13
@@ -34,13 +34,13 @@ importers:
         version: 4.17.21
       retry-axios:
         specifier: 3.1.3
-        version: 3.1.3(axios@1.7.9)
+        version: 3.1.3(axios@1.8.1)
       sponsorkit:
         specifier: 16.3.0
         version: 16.3.0
       typescript:
-        specifier: 5.6.3
-        version: 5.6.3
+        specifier: 5.8.2
+        version: 5.8.2
     devDependencies:
       '@types/markdown-it':
         specifier: 14.1.2
@@ -359,8 +359,8 @@ packages:
   asynckit@0.4.0:
     resolution: {integrity: sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==}
 
-  axios@1.7.9:
-    resolution: {integrity: sha512-LhLcE7Hbiryz8oMDdDptSrWowmB4Bl6RCt6sIJKpRB4XtVf0iEgewX3au/pJqm+Py1kCASkb/FFKjxQaLtxJvw==}
+  axios@1.8.1:
+    resolution: {integrity: sha512-NN+fvwH/kV01dYUQ3PTOZns4LWtWhOFCAhQ/pHb88WQ1hNe5V/dvFwc4VJcDL11LT9xSX0QtsR8sWUuyOuOq7g==}
 
   bundle-require@5.0.0:
     resolution: {integrity: sha512-GuziW3fSSmopcx4KRymQEJVbZUfqlCqcq7dvs6TYwKRZiegK/2buMxQTPs6MGlNv50wms1699qYO54R8XfRX4w==}
@@ -637,8 +637,8 @@ packages:
     engines: {node: '>=18.0.0'}
     hasBin: true
 
-  typescript@5.6.3:
-    resolution: {integrity: sha512-hjcS1mhfuyi4WW8IWtjP7brDrG2cuDZukyrYrSauoXGNgx0S7zceP07adYkJycEr56BOUTNPzbInooiN3fn1qw==}
+  typescript@5.8.2:
+    resolution: {integrity: sha512-aJn6wq13/afZp/jT9QZmwEjDqqvSGp1VT5GVg+f/t6/oVyrgXM6BY1h9BRh/O5p3PlUPAe+WuiEZOmb/49RqoQ==}
     engines: {node: '>=14.17'}
     hasBin: true
 
@@ -895,7 +895,7 @@ snapshots:
 
   asynckit@0.4.0: {}
 
-  axios@1.7.9:
+  axios@1.8.1:
     dependencies:
       follow-redirects: 1.15.6
       form-data: 4.0.0
@@ -1121,9 +1121,9 @@ snapshots:
 
   resolve-pkg-maps@1.0.0: {}
 
-  retry-axios@3.1.3(axios@1.7.9):
+  retry-axios@3.1.3(axios@1.8.1):
     dependencies:
-      axios: 1.7.9
+      axios: 1.8.1
 
   semver@7.6.3: {}
 
@@ -1196,7 +1196,7 @@ snapshots:
     optionalDependencies:
       fsevents: 2.3.3
 
-  typescript@5.6.3: {}
+  typescript@5.8.2: {}
 
   uc.micro@2.1.0: {}
 
