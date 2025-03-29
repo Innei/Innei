@@ -107,7 +107,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>3/17/2025</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>7/11/2023</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>3/22/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>7/11/2023</td></tr><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>3/17/2025</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -119,7 +119,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Sedlacek-Solutions/ProgressTabView>Sedlacek-Solutions/ProgressTabView</a><span> SwiftUI library for adding a view that displays a horizontally scrollable collection of tabs with progress indicators.</span></li><li><a href=https://github.com/gorhom/react-native-bottom-sheet>gorhom/react-native-bottom-sheet</a><span> A performant interactive bottom sheet with fully configurable options 🚀</span></li><li><a href=https://github.com/metasidd/Prototype-Siri-Screen-Animation>metasidd/Prototype-Siri-Screen-Animation</a></li><li><a href=https://github.com/saulamsal/react-native-sheet-transitions>saulamsal/react-native-sheet-transitions</a><span> Beautiful iOS-like sheet transitions for React Native</span></li><li><a href=https://github.com/LegendApp/legend-list>LegendApp/legend-list</a></li></ul>
+<ul><li><a href=https://github.com/Automattic/pocket-casts-ios>Automattic/pocket-casts-ios</a><span> Pocket Casts iOS app 🎧</span></li><li><a href=https://github.com/azimgd/shadowlist>azimgd/shadowlist</a><span> 60fps, high-performance list for React Native.</span></li><li><a href=https://github.com/Sedlacek-Solutions/ProgressTabView>Sedlacek-Solutions/ProgressTabView</a><span> SwiftUI library for adding a view that displays a horizontally scrollable collection of tabs with progress indicators.</span></li><li><a href=https://github.com/Flipkart/recyclerlistview>Flipkart/recyclerlistview</a><span> High performance listview for React Native and web!</span></li><li><a href=https://github.com/aheze/Setting>aheze/Setting</a><span> Compose beautiful preference panels.</span></li></ul>
 
 **Can you find me?**
 
@@ -130,4 +130,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/28/25, 8:09 AM<br>下一次刷新：3/29/25, 8:09 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/29/25, 8:09 AM<br>下一次刷新：3/30/25, 8:09 AM</p>
