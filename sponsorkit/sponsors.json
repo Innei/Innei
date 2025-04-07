@@ -255963,7 +255963,7 @@
       }
     },
     "isOneTime": true,
-    "monthlyDollars": 1,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "$1 one time",
     "createdAt": "2025-03-06T15:17:28Z",
