@@ -262564,7 +262564,7 @@
       }
     },
     "isOneTime": false,
-    "monthlyDollars": 10,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "$10 a month",
     "createdAt": "2025-03-17T13:24:36Z",
