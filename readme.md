@@ -107,7 +107,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>7/30/2024</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>7/11/2023</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>4/24/2025</td></tr><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>10/18/2023</td></tr><tr><td><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank><b>reactify-component/react-shortcut-guide</b></a> <a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-shortcut-guide?style=flat-square&labelColor=343b41"></td><td>5/29/2022</td><td>3/16/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -119,7 +119,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/saulamsal/react-native-sheet-transitions>saulamsal/react-native-sheet-transitions</a><span> Beautiful iOS-like sheet transitions for React Native</span></li><li><a href=https://github.com/Innei/linear>Innei/linear</a><span> A more user-friendly GitHub notification management tool (WIP)</span></li><li><a href=https://github.com/meanguppy/react-native-pull-ups>meanguppy/react-native-pull-ups</a><span> A native bottom sheet implementation for React Native. Toddler approved.</span></li><li><a href=https://github.com/onevcat/Kingfisher>onevcat/Kingfisher</a><span> A lightweight, pure-Swift library for downloading and caching images from the web.</span></li><li><a href=https://github.com/Automattic/pocket-casts-ios>Automattic/pocket-casts-ios</a><span> Pocket Casts iOS app 🎧</span></li></ul>
+<ul><li><a href=https://github.com/lukakerr/NSWindowStyles>lukakerr/NSWindowStyles</a><span> A showcase of the many different styles of windows possible with NSWindow on macOS</span></li><li><a href=https://github.com/Automattic/pocket-casts-ios>Automattic/pocket-casts-ios</a><span> Pocket Casts iOS app 🎧</span></li><li><a href=https://github.com/ivanvorobei/SPIndicator>ivanvorobei/SPIndicator</a><span> Floating indicator, mimicrate to indicator which appear when silent mode switched. Can be present from top and bottom. Interactive with gesters.</span></li><li><a href=https://github.com/Innei/linear>Innei/linear</a><span> A more user-friendly GitHub notification management tool (WIP)</span></li><li><a href=https://github.com/mrousavy/nitro>mrousavy/nitro</a><span> 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI</span></li></ul>
 
 **Can you find me?**
 
@@ -130,4 +130,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/27/25, 8:11 AM<br>下一次刷新：4/28/25, 8:11 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/28/25, 8:10 AM<br>下一次刷新：4/29/25, 8:10 AM</p>
