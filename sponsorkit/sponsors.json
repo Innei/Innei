@@ -100461,7 +100461,7 @@
         ]
       }
     },
-    "monthlyDollars": 11.428571428571429,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2024-04-29T16:45:15.000Z",
@@ -136832,7 +136832,7 @@
         ]
       }
     },
-    "monthlyDollars": 11.428571428571429,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2024-09-16T18:18:29.000Z",
@@ -152718,7 +152718,7 @@
         ]
       }
     },
-    "monthlyDollars": 11.428571428571429,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2024-10-14T05:35:54.000Z",
@@ -170714,7 +170714,7 @@
         ]
       }
     },
-    "monthlyDollars": 11.428571428571429,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2024-11-02T06:26:45.000Z",
@@ -194538,7 +194538,7 @@
         ]
       }
     },
-    "monthlyDollars": 11.428571428571429,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2024-12-09T01:44:22.000Z",
@@ -233129,7 +233129,7 @@
         ]
       }
     },
-    "monthlyDollars": 11.428571428571429,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2025-01-28T18:26:35.000Z",
@@ -250671,7 +250671,7 @@
         ]
       }
     },
-    "monthlyDollars": 14.285714285714286,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2025-03-06T12:59:34.000Z",
@@ -273783,54 +273783,15 @@
         ]
       }
     },
-    "monthlyDollars": 24,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2025-04-02T05:56:17.000Z",
-    "expireAt": "2025-05-02T16:00:00.000Z",
+    "expireAt": "2025-05-02T12:27:35.000Z",
     "isOneTime": true,
     "provider": "afdian",
     "raw": {
       "sponsor_plans": [
-        {
-          "can_ali_agreement": 0,
-          "plan_id": "dd0e4c60f95011ee851c52540025c377",
-          "rank": 0,
-          "user_id": "e97ad8460df611eab74952540025c377",
-          "status": 1,
-          "name": "Access Shiroi Repo",
-          "pic": "",
-          "desc": "备注 GitHub Username",
-          "price": "88.00",
-          "update_time": 1716176798,
-          "timing": {
-            "timing_on": 0,
-            "timing_off": 0,
-            "timing_sell_on": 0,
-            "timing_sell_off": 0
-          },
-          "pay_month": 1,
-          "show_price": "88.00",
-          "show_price_after_adjust": "",
-          "has_coupon": 0,
-          "coupon": [],
-          "favorable_price": -1,
-          "independent": 0,
-          "permanent": 0,
-          "can_buy_hide": 1,
-          "need_address": 0,
-          "product_type": 0,
-          "sale_limit_count": -1,
-          "need_invite_code": false,
-          "bundle_stock": 0,
-          "bundle_sku_select_count": 0,
-          "config": {},
-          "has_plan_config": 0,
-          "shipping_fee_info": [],
-          "expire_time": 1746201600,
-          "sku_processed": [],
-          "rankType": 1
-        },
         {
           "can_ali_agreement": 0,
           "plan_id": "f504c150f95011ee811c52540025c377",
@@ -273897,15 +273858,15 @@
       ],
       "current_plan": {
         "can_ali_agreement": 0,
-        "plan_id": "dd0e4c60f95011ee851c52540025c377",
-        "rank": 0,
+        "plan_id": "f504c150f95011ee811c52540025c377",
+        "rank": 1,
         "user_id": "e97ad8460df611eab74952540025c377",
         "status": 1,
-        "name": "Access Shiroi Repo",
+        "name": "Shiroi Paid",
         "pic": "",
-        "desc": "备注 GitHub Username",
-        "price": "88.00",
-        "update_time": 1716176798,
+        "desc": "",
+        "price": "80.00",
+        "update_time": 1743596855,
         "timing": {
           "timing_on": 0,
           "timing_off": 0,
@@ -273913,26 +273874,50 @@
           "timing_sell_off": 0
         },
         "pay_month": 1,
-        "show_price": "88.00",
+        "show_price": "80.00",
         "show_price_after_adjust": "",
         "has_coupon": 0,
         "coupon": [],
         "favorable_price": -1,
         "independent": 0,
         "permanent": 0,
-        "can_buy_hide": 1,
+        "can_buy_hide": 0,
         "need_address": 0,
-        "product_type": 0,
+        "product_type": 1,
         "sale_limit_count": -1,
         "need_invite_code": false,
         "bundle_stock": 0,
         "bundle_sku_select_count": 0,
         "config": {},
         "has_plan_config": 0,
-        "shipping_fee_info": [],
-        "expire_time": 1746201600,
-        "sku_processed": [],
-        "rankType": 1
+        "shipping_fee_info": {
+          "id": 11,
+          "name": "全国包邮",
+          "user_id": "system",
+          "status": 1,
+          "template_type": 1,
+          "fee_type": 1,
+          "base_fee": "0.00",
+          "base_fee_count": 1,
+          "addup_fee": "0.00",
+          "addup_count": 1,
+          "create_time": 0,
+          "update_time": 0
+        },
+        "expire_time": 1746188855,
+        "sku_processed": [
+          {
+            "sku_id": "f50bbf50f95011ee84b552540025c377",
+            "price": "80.00",
+            "count": 1,
+            "name": "GIthub id",
+            "album_id": "",
+            "pic": "",
+            "stock": "",
+            "post_id": ""
+          }
+        ],
+        "rankType": 30
       },
       "all_sum_amount": "168.00",
       "first_pay_time": 1743573377,
