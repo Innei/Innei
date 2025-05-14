@@ -107,7 +107,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>10/18/2023</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>7/30/2024</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>3/22/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>10/18/2023</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>7/30/2024</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>7/11/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -119,7 +119,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/metasidd/Prototype-Siri-Screen-Animation>metasidd/Prototype-Siri-Screen-Animation</a></li><li><a href=https://github.com/Innei/linear>Innei/linear</a><span> A more user-friendly GitHub notification management tool (WIP)</span></li><li><a href=https://github.com/EvanBacon/expo-router-forms-components>EvanBacon/expo-router-forms-components</a><span> Free UI components I use for building Expo Router apps</span></li><li><a href=https://github.com/zoontek/react-native-bootsplash>zoontek/react-native-bootsplash</a><span> 🚀 Show a splash screen during app startup. Hide it when you are ready.</span></li><li><a href=https://github.com/nathantannar4/Transmission>nathantannar4/Transmission</a><span> Bridges UIKit presentation APIs to a SwiftUI API so you can use presentation controllers, interactive transitions and more.</span></li></ul>
+<ul><li><a href=https://github.com/TelegramMessenger/Telegram-iOS>TelegramMessenger/Telegram-iOS</a><span> Telegram-iOS</span></li><li><a href=https://github.com/mrousavy/nitro>mrousavy/nitro</a><span> 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI</span></li><li><a href=https://github.com/aheze/Setting>aheze/Setting</a><span> Compose beautiful preference panels.</span></li><li><a href=https://github.com/netguru/sticky-parallax-header>netguru/sticky-parallax-header</a><span> A simple React Native library, enabling the creation of fully customized header for your iOS and Android apps.</span></li><li><a href=https://github.com/saulamsal/react-native-sheet-transitions>saulamsal/react-native-sheet-transitions</a><span> Beautiful iOS-like sheet transitions for React Native</span></li></ul>
 
 **Can you find me?**
 
@@ -130,4 +130,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/13/25, 8:10 AM<br>下一次刷新：5/14/25, 8:10 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/14/25, 8:10 AM<br>下一次刷新：5/15/25, 8:10 AM</p>
