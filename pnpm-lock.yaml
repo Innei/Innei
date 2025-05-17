@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@mx-space/api-client':
-        specifier: 1.16.1
-        version: 1.16.1
+        specifier: 1.17.0
+        version: 1.17.0
       '@types/html-minifier':
         specifier: 4.0.5
         version: 4.0.5
@@ -21,8 +21,8 @@ importers:
         specifier: 20.17.30
         version: 20.17.30
       axios:
-        specifier: 1.8.2
-        version: 1.8.2
+        specifier: 1.9.0
+        version: 1.9.0
       dayjs:
         specifier: 1.11.13
         version: 1.11.13
@@ -34,7 +34,7 @@ importers:
         version: 4.17.21
       retry-axios:
         specifier: 3.1.3
-        version: 3.1.3(axios@1.8.2)
+        version: 3.1.3(axios@1.9.0)
       sponsorkit:
         specifier: 16.4.2
         version: 16.4.2
@@ -312,8 +312,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@mx-space/api-client@1.16.1':
-    resolution: {integrity: sha512-IXZOYg63YmLvdAtE9dahub3MGKdWP0dJCs9/eYNwX6YimRTJ73UGurHvIa8ougTWlnitBL2gH15BcpWMpc5wfQ==}
+  '@mx-space/api-client@1.17.0':
+    resolution: {integrity: sha512-Di669k6wwGmvGohJpmUfQdOoIUCxlM7PqKRK4unqgIPf7C73xF7I6cjkiPYTibG9j7a2vQ2AwYBwywKIC0e0eg==}
 
   '@quansync/fs@0.1.2':
     resolution: {integrity: sha512-ezIadUb1aFhwJLd++WVqVpi9rnlX8vnd4ju7saPhwLHJN1mJgOv0puePTGV+FbtSnWtwoHDT8lAm4kagDZmpCg==}
@@ -359,8 +359,8 @@ packages:
   asynckit@0.4.0:
     resolution: {integrity: sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==}
 
-  axios@1.8.2:
-    resolution: {integrity: sha512-ls4GYBm5aig9vWx8AWDSGLpnpDQRtWAfrjU+EuytuODrFBkqesN2RkOQCBzrA1RQNHw1SmRMSDDDSwzNAYQ6Rg==}
+  axios@1.9.0:
+    resolution: {integrity: sha512-re4CqKTJaURpzbLHtIi6XpDv20/CnpXOtjRY5/CU32L8gU8ek9UIivcfvSWvmKEngmVbrUtPpdDwWDWL7DNHvg==}
 
   cac@6.7.14:
     resolution: {integrity: sha512-b6Ilus+c3RrdDk+JhLKUAQfzzgLEPy6wcXqS7f/xe1EETvsDP6GORG7SFuOs6cID5YkqchW/LXZbX5bc8j7ZcQ==}
@@ -734,7 +734,7 @@ snapshots:
   '@img/sharp-win32-x64@0.33.5':
     optional: true
 
-  '@mx-space/api-client@1.16.1': {}
+  '@mx-space/api-client@1.17.0': {}
 
   '@quansync/fs@0.1.2':
     dependencies:
@@ -782,7 +782,7 @@ snapshots:
 
   asynckit@0.4.0: {}
 
-  axios@1.8.2:
+  axios@1.9.0:
     dependencies:
       follow-redirects: 1.15.6
       form-data: 4.0.0
@@ -949,9 +949,9 @@ snapshots:
 
   resolve-pkg-maps@1.0.0: {}
 
-  retry-axios@3.1.3(axios@1.8.2):
+  retry-axios@3.1.3(axios@1.9.0):
     dependencies:
-      axios: 1.8.2
+      axios: 1.9.0
 
   semver@7.6.3: {}
 
