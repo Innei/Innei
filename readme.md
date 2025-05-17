@@ -12,18 +12,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=innei&show_icons=true" align=right />
 </picture>
 
-Innei is a front-end developer with two and a half years of practice(aka. 练习时长两年半). And five years of Node.js full-stack development experience. <!-- Currently, he is a newcomer to the workforce and is located in Shanghai.-->
+Innei is a front-end developer with three years of work experience and six years of full-stack Node.js development experience.
 
-In the developer field, he often actively participates in GitHub and aspires to become a freelancer.
+In the developer field, he often actively participates in GitHub and aspires to freelance.
 
 On the technology stack, he has three years of NextJS experience and three years of NestJS experience. NextJS 9 -> 14, Page router -> App router. NestJS 7 -> 10, Typegoose/Prisma.
 
-Aspire to be an independent developer, and design engineer.
+Aspire to be an independent developer and design engineer.
 
 <!--
 > Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume.innei.in/), feel free to hit me up!
 >
-> 嘿，我正在考虑寻找远程工作机会，简历在 [这里](https://resume.innei.ren/)，欢迎来撩我！ -->
+> 嘿，我正在考虑寻找远程工作机会，简历在 [这里](https://resume.innei.in/)，欢迎来撩我！ -->
 
 He has the following skills:
 
@@ -107,7 +107,7 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>8/3/2023</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>7/11/2023</td></tr><tr><td><a href=https://github.com/reactify-component/react-message target=_blank><b>reactify-component/react-message</b></a> <a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-message?style=flat-square&labelColor=343b41"></td><td>1/13/2022</td><td>5/11/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>8/3/2023</td></tr><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>4/24/2025</td></tr><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>11/20/2022</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -119,7 +119,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/ivanvorobei/SPIndicator>ivanvorobei/SPIndicator</a><span> Floating indicator, mimicrate to indicator which appear when silent mode switched. Can be present from top and bottom. Interactive with gesters.</span></li><li><a href=https://github.com/Innei/linear>Innei/linear</a><span> A more user-friendly GitHub notification management tool (WIP)</span></li><li><a href=https://github.com/ktiays/Respring>ktiays/Respring</a><span> An open-source implementation of SwiftUI's Spring.</span></li><li><a href=https://github.com/sergeymild/react-native-htmark-view>sergeymild/react-native-htmark-view</a></li><li><a href=https://github.com/davidmurray/ios-reversed-headers>davidmurray/ios-reversed-headers</a><span> Reverse engineered C headers from various iOS frameworks.</span></li></ul>
+<ul><li><a href=https://github.com/EvanBacon/expo-apple-targets>EvanBacon/expo-apple-targets</a><span> Config Plugin to setup Apple targets</span></li><li><a href=https://github.com/zoontek/react-native-bootsplash>zoontek/react-native-bootsplash</a><span> 🚀 Show a splash screen during app startup. Hide it when you are ready.</span></li><li><a href=https://github.com/aheze/Setting>aheze/Setting</a><span> Compose beautiful preference panels.</span></li><li><a href=https://github.com/davidmurray/ios-reversed-headers>davidmurray/ios-reversed-headers</a><span> Reverse engineered C headers from various iOS frameworks.</span></li><li><a href=https://github.com/LegendApp/legend-list>LegendApp/legend-list</a><span> A high-performance list component for React Native</span></li></ul>
 
 **Can you find me?**
 
@@ -130,4 +130,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/17/25, 8:10 AM<br>下一次刷新：5/18/25, 8:10 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/17/25, 6:36 PM<br>下一次刷新：5/18/25, 6:36 PM</p>
