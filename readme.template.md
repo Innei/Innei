@@ -12,18 +12,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=innei&show_icons=true" align=right />
 </picture>
 
-Innei is a front-end developer with two and a half years of practice(aka. 练习时长两年半). And five years of Node.js full-stack development experience. <!-- Currently, he is a newcomer to the workforce and is located in Shanghai.-->
+Innei is a front-end developer with three years of work experience and six years of full-stack Node.js development experience.
 
-In the developer field, he often actively participates in GitHub and aspires to become a freelancer.
+In the developer field, he often actively participates in GitHub and aspires to freelance.
 
 On the technology stack, he has three years of NextJS experience and three years of NestJS experience. NextJS 9 -> 14, Page router -> App router. NestJS 7 -> 10, Typegoose/Prisma.
 
-Aspire to be an independent developer, and design engineer.
+Aspire to be an independent developer and design engineer.
 
 <!--
 > Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume.innei.in/), feel free to hit me up!
 >
-> 嘿，我正在考虑寻找远程工作机会，简历在 [这里](https://resume.innei.ren/)，欢迎来撩我！ -->
+> 嘿，我正在考虑寻找远程工作机会，简历在 [这里](https://resume.innei.in/)，欢迎来撩我！ -->
 
 He has the following skills:
 
