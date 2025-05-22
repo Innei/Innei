@@ -212203,11 +212203,11 @@
         ]
       }
     },
-    "monthlyDollars": 19.714285714285715,
+    "monthlyDollars": 26.857142857142858,
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2024-12-24T02:57:28.000Z",
-    "expireAt": "2025-05-21T16:00:00.000Z",
+    "expireAt": "2025-06-21T16:00:00.000Z",
     "isOneTime": true,
     "provider": "afdian",
     "raw": {
@@ -212247,7 +212247,7 @@
           "config": {},
           "has_plan_config": 0,
           "shipping_fee_info": [],
-          "expire_time": 1747843200,
+          "expire_time": 1750521600,
           "sku_processed": [],
           "rankType": 1
         }
@@ -212287,13 +212287,13 @@
         "config": {},
         "has_plan_config": 0,
         "shipping_fee_info": [],
-        "expire_time": 1747843200,
+        "expire_time": 1750521600,
         "sku_processed": [],
         "rankType": 1
       },
-      "all_sum_amount": "138.00",
+      "all_sum_amount": "188.00",
       "first_pay_time": 1735009048,
-      "last_pay_time": 1745242526,
+      "last_pay_time": 1747789452,
       "user": {
         "user_id": "73b45190c98711eeaa425254001e7c00",
         "name": "yono",
