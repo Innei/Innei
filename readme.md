@@ -107,11 +107,11 @@ He has the following skills:
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>3/22/2023</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>5/28/2025</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-message target=_blank><b>reactify-component/react-message</b></a> <a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-message?style=flat-square&labelColor=343b41"></td><td>1/13/2022</td><td>5/11/2023</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/next-async target=_blank><b>Innei/next-async</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/next-async?style=flat-square&labelColor=343b41"></td><td>10/24/2022</td><td>10/18/2023</td></tr></tbody></table>
 
 **Recent Writing...**
 
-<ul><li><span>5/23/25 - <a href=https://innei.in/notes/192>工作周年与AI焦虑：成长与挑战并存</a></span></li><li><span>5/11/25 - <a href=https://innei.in/notes/191>随手拍的烂片</a></span></li><li><span>5/11/25 - <a href=https://innei.in/notes/190>大学时光回忆录</a></span></li><li><span>5/9/25 - <a href=https://innei.in/posts/tech/build-simple-navigation-with-react-native-screens>使用 React Native Screens 构建一个 Simple Navigation</a></span></li><li><span>4/24/25 - <a href=https://innei.in/notes/189>平淡中的小确幸</a></span></li></ul>
+<ul><li><span>6/3/25 - <a href=https://innei.in/notes/193>镜头与代码的交响：打造个人线上画廊与假期随笔</a></span></li><li><span>5/23/25 - <a href=https://innei.in/notes/192>工作周年与AI焦虑：成长与挑战并存</a></span></li><li><span>5/11/25 - <a href=https://innei.in/notes/191>随手拍的烂片</a></span></li><li><span>5/11/25 - <a href=https://innei.in/notes/190>大学时光回忆录</a></span></li><li><span>5/9/25 - <a href=https://innei.in/posts/tech/build-simple-navigation-with-react-native-screens>使用 React Native Screens 构建一个 Simple Navigation</a></span></li></ul>
 
 **Recent Star...**
 
@@ -119,7 +119,7 @@ He has the following skills:
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/7PH/powerglitch>7PH/powerglitch</a><span> Tiny JS library to glitch anything on the web</span></li><li><a href=https://github.com/EvanBacon/expo-router-forms-components>EvanBacon/expo-router-forms-components</a><span> Free UI components I use for building Expo Router apps</span></li><li><a href=https://github.com/Innei/linear>Innei/linear</a><span> A more user-friendly GitHub notification management tool (WIP)</span></li><li><a href=https://github.com/sergeymild/react-native-htmark-view>sergeymild/react-native-htmark-view</a></li><li><a href=https://github.com/metasidd/Prototype-Siri-Screen-Animation>metasidd/Prototype-Siri-Screen-Animation</a></li></ul>
+<ul><li><a href=https://github.com/animate-ui/animate-ui>animate-ui/animate-ui</a><span> Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.</span></li><li><a href=https://github.com/netguru/sticky-parallax-header>netguru/sticky-parallax-header</a><span> A simple React Native library, enabling the creation of fully customized header for your iOS and Android apps.</span></li><li><a href=https://github.com/EvanBacon/expo-router-forms-components>EvanBacon/expo-router-forms-components</a><span> Free UI components I use for building Expo Router apps</span></li><li><a href=https://github.com/aheze/Setting>aheze/Setting</a><span> Compose beautiful preference panels.</span></li><li><a href=https://github.com/metasidd/Prototype-Siri-Screen-Animation>metasidd/Prototype-Siri-Screen-Animation</a></li></ul>
 
 **Can you find me?**
 
@@ -130,4 +130,4 @@ He has the following skills:
 <img src="./sponsorkit/sponsors.svg" />
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/3/25, 8:11 AM<br>下一次刷新：6/4/25, 8:11 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/4/25, 8:10 AM<br>下一次刷新：6/5/25, 8:10 AM</p>
