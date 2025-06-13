@@ -61,6 +61,8 @@ type GHItem = {
   full_name: string
   description: string
   html_url: string
+  stargazers_count?: number
+  homepage?: string
 }
 
 type PostItem = {
@@ -79,36 +81,18 @@ type PostItem = {
  * 生成 `开源在` 结构
  */
 function generateOpenSourceSectionHtml<T extends GHItem>(list: T[]) {
-  const tbody = list.reduce(
+  const lis = list.reduce(
     (str, cur) =>
       str +
-      ` <tr>
-  <td><a href="${cur.html_url}"><b>
-  ${cur.full_name}</b></a></td>
-  <td><img alt="Stars" src="https://img.shields.io/github/stars/${cur.full_name}?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Forks" src="https://img.shields.io/github/forks/${cur.full_name}?style=flat-square&labelColor=343b41"/></td>
-  <td><a href="https://github.com/${cur.full_name}/issues" target="_blank"><img alt="Issues" src="https://img.shields.io/github/issues/${cur.full_name}?style=flat-square&labelColor=343b41"/></a></td>
-  <td><a href="https://github.com/${cur.full_name}/pulls" target="_blank"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/${cur.full_name}?style=flat-square&labelColor=343b41"/></a></td>
-  <td><a href="https://github.com/${cur.full_name}/commits" target="_blank"><img alt="Last Commits" src="https://img.shields.io/github/last-commit/${cur.full_name}?style=flat-square&labelColor=343b41"/></a></td>
-</tr>`,
+      `<li><a href="${cur.html_url}" target="_blank">${
+        cur.full_name
+      }</a> (<b>★ ${cur.stargazers_count || 0}</b>) ${
+        cur.description ? `<br/>↳ <i>${cur.description}</i>` : ''
+      }</li>`,
     ``,
   )
 
-  return m`<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-      <td><b>💡 Last Commit</b></td>
-    </tr>
-  </thead>
-  <tbody>
-  ${tbody}
-  </tbody>
-</table>`
+  return m`<ul>${lis}</ul>`
 }
 
 /**
@@ -116,34 +100,21 @@ function generateOpenSourceSectionHtml<T extends GHItem>(list: T[]) {
  */
 
 function generateToysHTML(list: GRepo[]) {
-  const tbody = list.reduce(
+  const lis = list.reduce(
     (str, cur) =>
       str +
-      ` <tr>
-  <td><a href="${cur.html_url}" target="_blank"><b>
-  ${cur.full_name}</b></a> ${
-        cur.homepage ? `<a href="${cur.homepage}" target="_blank">🔗</a>` : ''
-      }</td>
-  <td><img alt="Stars" src="https://img.shields.io/github/stars/${
-    cur.full_name
-  }?style=flat-square&labelColor=343b41"/></td>
-  <td>${new Date(cur.created_at).toLocaleDateString()}</td>
-  <td>${new Date(cur.pushed_at).toLocaleDateString()}</td>
-</tr>`,
+      `<li><a href="${cur.html_url}" target="_blank">${cur.full_name}</a> ${
+        (cur as any).homepage
+          ? `(<a href="${(cur as any).homepage}" target="_blank">demo</a>)`
+          : ''
+      } (<b>★ ${(cur as any).stargazers_count || 0}</b>) ${
+        (cur as any).description
+          ? `<br/>↳ <i>${(cur as any).description}</i>`
+          : ''
+      }</li>`,
     ``,
   )
-  return m`<table>
-  <thead align="center">
-  <tr border: none;>
-    <td><b>🎁 Projects</b></td>
-    <td><b>⭐ Stars</b></td>
-    <td><b>🕐 Create At</b></td>
-    <td><b>📅 Last Active At</b></td>
-  </tr>
-</thead><tbody>
-${tbody}
-</tbody>
-</table>`
+  return m`<ul>${lis}</ul>`
 }
 
 /**
@@ -277,15 +248,15 @@ ${topStar5}
     newContent = newContent.replace(
       gc('FOOTER'),
       m`
-    <p align="center">此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！
+    <p align="center">This <i>README</i> <b>refreshes every 24 hours</b> automatically!
     </br>
-    刷新于：${now.toLocaleString(undefined, {
+    Refreshed at: ${now.toLocaleString(undefined, {
       timeStyle: 'short',
       dateStyle: 'short',
       timeZone,
     })}
     <br/>
-    下一次刷新：${next.toLocaleString(undefined, {
+    Next refresh: ${next.toLocaleString(undefined, {
       timeStyle: 'short',
       dateStyle: 'short',
       timeZone,
