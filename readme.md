@@ -42,7 +42,7 @@ $ tree /home/innei/skills
 ```
 
 <p align="center">
-  「<strong><samp> <p align=center><strong>お可愛いこと。</strong></p> </samp></strong>」
+  「<strong><samp> <strong>お可愛いこと。</strong> </samp></strong>」
 </p>
 
 <br />
