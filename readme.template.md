@@ -1,44 +1,21 @@
-<div align="center">
-
-```
-   ／＞　 フ
-  | 　_　_|
-／` ミ＿xノ
-／　　　　 |
-(　 ヽ＿ヽ_)__)
-＼二 )
-```
-
-</div>
-
 ```bash
-# About Me & Skills
 $ cat /etc/passwd | grep innei
 > A creative developer who is passionate about open source and building beautiful things.
 > Digital Nomad. Aspiring to be a design engineer.
 
-$ tree /home/innei/skills
-/home/innei/skills
-├── Backend
-│   ├── NestJS
-│   ├── Node.js
-│   └── Prisma
-├── Database & Infra
-│   ├── Docker
-│   ├── MongoDB
-│   ├── PostgreSQL
-│   └── Redis
-├── Frontend
-│   ├── React
-│   └── Next.js
-├── Languages
-│   ├── Swift
-│   └── TypeScript
-└── System & Tools
-    ├── Arch Linux
-    ├── Neovim
-    ├── Ubuntu
-    └── VSCode
+$ neofetch
+
+innei@github
+───────────
+OS: macOS, Arch, Ubuntu                                   ／＞　 フ
+Bio: Creative Dev, Open Source Enthusiast                | 　_　_|
+Status: Digital Nomad                                  ／` ミ＿xノ
+Skills:                                                ／　　　　 |
+  ├─ Langs: TypeScript, Swift                          (　 ヽ＿ヽ_)__)
+  ├─ Frontend: React, Next.js                          ＼二 )
+  ├─ Backend: NestJS, Node.js, Prisma
+  ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
+  └─ Tools: Neovim, VSCode
 ```
 
 <p align="center">
