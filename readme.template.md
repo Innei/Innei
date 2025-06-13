@@ -2,16 +2,14 @@
 
 ```
    ／＞　 フ
-  | 　_　_| 
-／` ミ＿xノ 
+  | 　_　_|
+／` ミ＿xノ
 ／　　　　 |
 (　 ヽ＿ヽ_)__)
 ＼二 )
 ```
 
 </div>
-
-<div align="center">
 
 ```bash
 # About Me & Skills
@@ -43,10 +41,8 @@ $ tree /home/innei/skills
     └── VSCode
 ```
 
-</div>
-
 <p align="center">
-  <strong><samp>「 <!-- motto --> 」</samp></strong>
+  「<strong><samp> <!-- motto --> </samp></strong>」
 </p>
 
 <br />
@@ -68,7 +64,7 @@ $ tree /home/innei/skills
     </td>
     <td valign="top" width="50%">
       <details open>
-        <summary>Recent Activity</summary>
+        <summary>Recent Posts</summary>
         <br />
           <!-- recent_posts_inject -->
       </details>
