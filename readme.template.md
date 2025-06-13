@@ -15,7 +15,7 @@ Skills:                                                ／　　　　 |
   ├─ Frontend: React, Next.js                          ＼二 )
   ├─ Backend: NestJS, Node.js, Prisma
   ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
-  └─ Tools: Neovim, VSCode
+  └─ Tools: Neovim, Cursor
 ```
 
 <p align="center">
@@ -56,8 +56,6 @@ Skills:                                                ／　　　　 |
 </table>
 
 <br />
-
-<h2 align="center">Sponsors</h2>
 
 <p align="center">
   <a href="https://github.com/sponsors/innei">
