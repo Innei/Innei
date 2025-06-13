@@ -133,23 +133,24 @@ function generateRepoHTML<T extends GHItem>(item: T) {
 }
 
 function generatePostItemHTML<T extends Partial<PostModel>>(item: T) {
-  return m`<li><span>${new Date(item.created).toLocaleDateString(undefined, {
-    dateStyle: 'short',
-    timeZone,
-  })} -  <a href="${
+  return m`<li><span><a href="${
     mxSpace.url + '/posts/' + item.category.slug + '/' + item.slug
-  }">${item.title}</a></span>${
-    item.summary ? `<p>${item.summary}</p>` : ''
-  }</li>`
+  }">${item.title}</a></span> - ${new Date(item.created).toLocaleDateString(
+    undefined,
+    {
+      dateStyle: 'short',
+      timeZone,
+    },
+  )}</li>`
 }
 
 function generateNoteItemHTML<T extends Partial<NoteModel>>(item: T) {
-  return m`<li><span>${new Date(item.created).toLocaleDateString(undefined, {
+  return m`<li><span><a href="${mxSpace.url + '/notes/' + item.nid}">${
+    item.title
+  }</a></span> - ${new Date(item.created).toLocaleDateString(undefined, {
     dateStyle: 'short',
     timeZone,
-  })} -  <a href="${mxSpace.url + '/notes/' + item.nid}">${
-    item.title
-  }</a></span></li>`
+  })}</li>`
 }
 
 async function main() {
