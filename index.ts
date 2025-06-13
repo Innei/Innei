@@ -48,6 +48,11 @@ axios.defaults.headers.common['User-Agent'] = userAgent
 const gh = axios.create({
   baseURL: githubAPIEndPoint,
   timeout: 4000,
+  headers: {
+    Authorization: process.env.GITHUB_TOKEN
+      ? `Bearer ${process.env.GITHUB_TOKEN}`
+      : undefined,
+  },
 })
 
 gh.interceptors.response.use(undefined, (err) => {
