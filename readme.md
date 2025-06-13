@@ -1,17 +1,15 @@
 <div align="center">
 
 ```
-██╗███╗ ███╗███╗ ███╗██╗██╗
-██║████╗████║████╗████║██║██║
-██║██╔████╔██║██╔████╔██║██║██║
-██║██║╚██╔╝██║██║╚██╔╝██║██║██║
-██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║██║
-╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝╚═╝
+   ／＞　 フ
+  | 　_　_|
+／` ミ＿xノ
+／　　　　 |
+(　 ヽ＿ヽ_)__)
+＼二 )
 ```
 
 </div>
-
-<div align="center">
 
 ```bash
 # About Me & Skills
@@ -31,26 +29,20 @@ $ tree /home/innei/skills
 │   ├── PostgreSQL
 │   └── Redis
 ├── Frontend
-│   ├── Next.js
 │   ├── React
-│   └── Vue.js
+│   └── Next.js
 ├── Languages
-│   ├── Go
-│   ├── JavaScript
 │   ├── Swift
 │   └── TypeScript
 └── System & Tools
     ├── Arch Linux
-    ├── Figma
     ├── Neovim
     ├── Ubuntu
     └── VSCode
 ```
 
-</div>
-
 <p align="center">
-  <strong><samp>「 <p align=center><strong>お可愛いこと。</strong></p> 」</samp></strong>
+  「<strong><samp> <p align=center><strong>お可愛いこと。</strong></p> </samp></strong>」
 </p>
 
 <br />
@@ -61,13 +53,13 @@ $ tree /home/innei/skills
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3867</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/mx-space/core target=_blank>mx-space/core</a> (<b>★ 423</b>)<br>↳ <i>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 26572</b>)<br>↳ <i>🧡 Follow everything in one place</i></li><li><a href=https://github.com/Innei/book-ssg-template target=_blank>Innei/book-ssg-template</a> (<b>★ 64</b>)<br>↳ <i>Yet another template for document SSG.</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3867</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/mx-space/core target=_blank>mx-space/core</a> (<b>★ 423</b>)<br>↳ <i>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 26573</b>)<br>↳ <i>🧡 Follow everything in one place</i></li><li><a href=https://github.com/Innei/book-ssg-template target=_blank>Innei/book-ssg-template</a> (<b>★ 64</b>)<br>↳ <i>Yet another template for document SSG.</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/reactify-component/react-message target=_blank>reactify-component/react-message</a> (<a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>demo</a>) (<b>★ 9</b>)<br>↳ <i>💬 React Message is a 🚀 React component library for displaying customizable messages and notifications to users. It's easy to integrate and supports features like animations and timeout.</i></li><li><a href=https://github.com/Innei/next-async target=_blank>Innei/next-async</a> (<b>★ 0</b>)<br>↳ <i>A simple implementation of koa middleware.</i></li><li><a href=https://github.com/Innei/shuffle-article target=_blank>Innei/shuffle-article</a> (<a href=https://innei.github.io/shuffle-article/ target=_blank>demo</a>) (<b>★ 166</b>)<br>↳ <i>在 DOM 上打乱文字，而非视觉上。</i></li></ul>
+          <ul><li><a href=https://github.com/reactify-component/react-message target=_blank>reactify-component/react-message</a> (<a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>demo</a>) (<b>★ 9</b>)<br>↳ <i>💬 React Message is a 🚀 React component library for displaying customizable messages and notifications to users. It's easy to integrate and supports features like animations and timeout.</i></li><li><a href=https://github.com/reactify-component/react-typewriter target=_blank>reactify-component/react-typewriter</a> (<a href=https://react-typewriter.vercel.app/ target=_blank>demo</a>) (<b>★ 7</b>)<br>↳ <i>A simple component impl typewriter effect</i></li><li><a href=https://github.com/Innei/vue-react-wrapper target=_blank>Innei/vue-react-wrapper</a> (<b>★ 14</b>)<br>↳ <i>Use react component in vue 3 and data binding.</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
@@ -80,7 +72,7 @@ $ tree /home/innei/skills
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/onevcat/Kingfisher>onevcat/Kingfisher</a><span> A lightweight, pure-Swift library for downloading and caching images from the web.</span></li><li><a href=https://github.com/animate-ui/animate-ui>animate-ui/animate-ui</a><span> Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.</span></li><li><a href=https://github.com/Innei/linear>Innei/linear</a><span> A more user-friendly GitHub notification management tool (WIP)</span></li><li><a href=https://github.com/sergeymild/react-native-htmark-view>sergeymild/react-native-htmark-view</a></li><li><a href=https://github.com/ktiays/Respring>ktiays/Respring</a><span> An open-source implementation of SwiftUI's Spring.</span></li></ul>
+          <ul><li><a href=https://github.com/nathantannar4/Transmission>nathantannar4/Transmission</a><span> Bridges UIKit presentation APIs to a SwiftUI API so you can use presentation controllers, interactive transitions and more.</span></li><li><a href=https://github.com/gvergnaud/ts-pattern>gvergnaud/ts-pattern</a><span> 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.</span></li><li><a href=https://github.com/marioaguzman/toolbar>marioaguzman/toolbar</a><span> Programmatically constructing an NSToolbar</span></li><li><a href=https://github.com/saulamsal/twitter-ui>saulamsal/twitter-ui</a><span> Twitter/X UI in React Native(Expo)</span></li><li><a href=https://github.com/onevcat/Kingfisher>onevcat/Kingfisher</a><span> A lightweight, pure-Swift library for downloading and caching images from the web.</span></li></ul>
       </details>
     </td>
   </tr>
@@ -104,6 +96,6 @@ $ tree /home/innei/skills
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 6/13/25, 4:19 PM<br>Next refresh: 6/14/25, 4:19 PM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 6/13/25, 4:27 PM<br>Next refresh: 6/14/25, 4:27 PM</p>
   </samp>
 </p>
