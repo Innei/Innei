@@ -1,10 +1,11 @@
 export const opensource = {
   active: [
     'Innei/Shiro',
-    // "mx-space/kami",
+    'Afilmory/Afilmory',
     'mx-space/core',
     'RSSNext/follow',
-    'Innei/book-ssg-template',
+    // "mx-space/kami",
+    // 'Innei/book-ssg-template',
 
     // 'Innei/bump-version',
     // "Innei/nvim-config-lua",
