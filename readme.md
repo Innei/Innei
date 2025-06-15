@@ -30,26 +30,26 @@ Skills:                                                ／　　　　 |
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3866</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/Afilmory target=_blank>Afilmory/Afilmory</a> (<b>★ 157</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/mx-space/core target=_blank>mx-space/core</a> (<b>★ 423</b>)<br>↳ <i>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 26580</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3866</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/Afilmory target=_blank>Afilmory/Afilmory</a> (<b>★ 166</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/mx-space/core target=_blank>mx-space/core</a> (<b>★ 423</b>)<br>↳ <i>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 26598</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/reactify-component/react-message target=_blank>reactify-component/react-message</a> (<a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>demo</a>) (<b>★ 9</b>)<br>↳ <i>💬 React Message is a 🚀 React component library for displaying customizable messages and notifications to users. It's easy to integrate and supports features like animations and timeout.</i></li><li><a href=https://github.com/Innei/next-async target=_blank>Innei/next-async</a> (<b>★ 0</b>)<br>↳ <i>A simple implementation of koa middleware.</i></li><li><a href=https://github.com/Innei/shuffle-article target=_blank>Innei/shuffle-article</a> (<a href=https://innei.github.io/shuffle-article/ target=_blank>demo</a>) (<b>★ 166</b>)<br>↳ <i>在 DOM 上打乱文字，而非视觉上。</i></li></ul>
+          <ul><li><a href=https://github.com/reactify-component/react-message target=_blank>reactify-component/react-message</a> (<a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>demo</a>) (<b>★ 9</b>)<br>↳ <i>💬 React Message is a 🚀 React component library for displaying customizable messages and notifications to users. It's easy to integrate and supports features like animations and timeout.</i></li><li><a href=https://github.com/Innei/shuffle-article target=_blank>Innei/shuffle-article</a> (<a href=https://innei.github.io/shuffle-article/ target=_blank>demo</a>) (<b>★ 166</b>)<br>↳ <i>在 DOM 上打乱文字，而非视觉上。</i></li><li><a href=https://github.com/reactify-component/react-typewriter target=_blank>reactify-component/react-typewriter</a> (<a href=https://react-typewriter.vercel.app/ target=_blank>demo</a>) (<b>★ 7</b>)<br>↳ <i>A simple component impl typewriter effect</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
       <details open>
         <summary>Recent Posts</summary>
         <br />
-          <ul><li><span><a href=https://innei.in/notes/193>镜头与代码的交响：打造个人线上画廊与假期随笔</a></span> - 6/3/25</li><li><span><a href=https://innei.in/notes/192>工作周年与AI焦虑：成长与挑战并存</a></span> - 5/23/25</li><li><span><a href=https://innei.in/notes/191>随手拍的烂片</a></span> - 5/11/25</li><li><span><a href=https://innei.in/notes/190>大学时光回忆录</a></span> - 5/11/25</li><li><span><a href=https://innei.in/posts/tech/build-simple-navigation-with-react-native-screens>使用 React Native Screens 构建一个 Simple Navigation</a></span> - 5/9/25</li></ul>
+          <ul><li><span><a href=https://innei.in/posts/Z-Turn/nextjs+vite-hack-combined>Next.js + Vite，这是什么新的操作？</a></span> - 6/14/25</li><li><span><a href=https://innei.in/notes/193>镜头与代码的交响：打造个人线上画廊与假期随笔</a></span> - 6/3/25</li><li><span><a href=https://innei.in/notes/192>工作周年与AI焦虑：成长与挑战并存</a></span> - 5/23/25</li><li><span><a href=https://innei.in/notes/191>随手拍的烂片</a></span> - 5/11/25</li><li><span><a href=https://innei.in/notes/190>大学时光回忆录</a></span> - 5/11/25</li></ul>
       </details>
       <br />
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/EvanBacon/expo-router-forms-components>EvanBacon/expo-router-forms-components</a><span> Free UI components I use for building Expo Router apps</span></li><li><a href=https://github.com/metasidd/Prototype-Siri-Screen-Animation>metasidd/Prototype-Siri-Screen-Animation</a></li><li><a href=https://github.com/eds2002/immersive-overlay-example>eds2002/immersive-overlay-example</a></li><li><a href=https://github.com/lukakerr/NSWindowStyles>lukakerr/NSWindowStyles</a><span> A showcase of the many different styles of windows possible with NSWindow on macOS</span></li><li><a href=https://github.com/sergeymild/react-native-htmark-view>sergeymild/react-native-htmark-view</a></li></ul>
+          <ul><li><a href=https://github.com/virattt/ai-hedge-fund>virattt/ai-hedge-fund</a><span> An AI Hedge Fund Team</span></li><li><a href=https://github.com/metasidd/Prototype-Siri-Screen-Animation>metasidd/Prototype-Siri-Screen-Animation</a></li><li><a href=https://github.com/ivanvorobei/SPIndicator>ivanvorobei/SPIndicator</a><span> Floating indicator, mimicrate to indicator which appear when silent mode switched. Can be present from top and bottom. Interactive with gesters.</span></li><li><a href=https://github.com/meanguppy/react-native-pull-ups>meanguppy/react-native-pull-ups</a><span> A native bottom sheet implementation for React Native. Toddler approved.</span></li><li><a href=https://github.com/lukakerr/NSWindowStyles>lukakerr/NSWindowStyles</a><span> A showcase of the many different styles of windows possible with NSWindow on macOS</span></li></ul>
       </details>
     </td>
   </tr>
@@ -71,6 +71,6 @@ Skills:                                                ／　　　　 |
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 6/14/25, 8:10 AM<br>Next refresh: 6/15/25, 8:10 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 6/15/25, 8:12 AM<br>Next refresh: 6/16/25, 8:12 AM</p>
   </samp>
 </p>
