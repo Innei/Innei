@@ -30,13 +30,13 @@ Skills:                                                ／　　　　 |
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3875</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/Afilmory target=_blank>Afilmory/Afilmory</a> (<b>★ 203</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/mx-space/core target=_blank>mx-space/core</a> (<b>★ 424</b>)<br>↳ <i>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 26665</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3877</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/Afilmory target=_blank>Afilmory/Afilmory</a> (<b>★ 252</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/mx-space/core target=_blank>mx-space/core</a> (<b>★ 425</b>)<br>↳ <i>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 26684</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/simple-clock target=_blank>Innei/simple-clock</a> (<a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>demo</a>) (<b>★ 2</b>)</li><li><a href=https://github.com/Innei/pageproxy target=_blank>Innei/pageproxy</a> (<b>★ 0</b>)<br>↳ <i>page proxy, dynamic inject context for spa. inject context to page.</i></li><li><a href=https://github.com/Innei/shuffle-article target=_blank>Innei/shuffle-article</a> (<a href=https://innei.github.io/shuffle-article/ target=_blank>demo</a>) (<b>★ 166</b>)<br>↳ <i>在 DOM 上打乱文字，而非视觉上。</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/next-async target=_blank>Innei/next-async</a> (<b>★ 0</b>)<br>↳ <i>A simple implementation of koa middleware.</i></li><li><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank>reactify-component/react-shortcut-guide</a> (<a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>demo</a>) (<b>★ 10</b>)<br>↳ <i>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</i></li><li><a href=https://github.com/Innei/vue-react-wrapper target=_blank>Innei/vue-react-wrapper</a> (<b>★ 14</b>)<br>↳ <i>Use react component in vue 3 and data binding.</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
@@ -49,7 +49,7 @@ Skills:                                                ／　　　　 |
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/TelegramMessenger/Telegram-iOS>TelegramMessenger/Telegram-iOS</a><span> Telegram-iOS</span></li><li><a href=https://github.com/animate-ui/animate-ui>animate-ui/animate-ui</a><span> Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.</span></li><li><a href=https://github.com/Aeastr/Portal>Aeastr/Portal</a><span> Seamless element transitions between root, sheets, and navigation pushes in SwiftUI.</span></li><li><a href=https://github.com/nathantannar4/Transmission>nathantannar4/Transmission</a><span> Bridges UIKit presentation APIs to a SwiftUI API so you can use presentation controllers, interactive transitions and more.</span></li><li><a href=https://github.com/Automattic/pocket-casts-ios>Automattic/pocket-casts-ios</a><span> Pocket Casts iOS app 🎧</span></li></ul>
+          <ul><li><a href=https://github.com/LegendApp/legend-list>LegendApp/legend-list</a><span> A high-performance list component for React Native</span></li><li><a href=https://github.com/EvanBacon/expo-apple-targets>EvanBacon/expo-apple-targets</a><span> Config Plugin to setup Apple targets</span></li><li><a href=https://github.com/animate-ui/animate-ui>animate-ui/animate-ui</a><span> Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.</span></li><li><a href=https://github.com/Mx-Iris/MediaRemoteWizard>Mx-Iris/MediaRemoteWizard</a></li><li><a href=https://github.com/Innei/photo-gallery>Innei/photo-gallery</a><span> Capturing beautiful moments in life, documenting daily warmth and emotions through my lens.</span></li></ul>
       </details>
     </td>
   </tr>
@@ -71,6 +71,6 @@ Skills:                                                ／　　　　 |
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 6/18/25, 8:10 AM<br>Next refresh: 6/19/25, 8:10 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 6/19/25, 8:11 AM<br>Next refresh: 6/20/25, 8:11 AM</p>
   </samp>
 </p>
