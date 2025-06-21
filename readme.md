@@ -30,13 +30,13 @@ Skills:                                                ／　　　　 |
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3880</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/Afilmory target=_blank>Afilmory/Afilmory</a> (<b>★ 350</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/mx-space/core target=_blank>mx-space/core</a> (<b>★ 425</b>)<br>↳ <i>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 26703</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3881</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/Afilmory target=_blank>Afilmory/Afilmory</a> (<b>★ 397</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/mx-space/core target=_blank>mx-space/core</a> (<b>★ 426</b>)<br>↳ <i>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 26731</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/vue-react-wrapper target=_blank>Innei/vue-react-wrapper</a> (<b>★ 14</b>)<br>↳ <i>Use react component in vue 3 and data binding.</i></li><li><a href=https://github.com/Innei/pageproxy target=_blank>Innei/pageproxy</a> (<b>★ 0</b>)<br>↳ <i>page proxy, dynamic inject context for spa. inject context to page.</i></li><li><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank>reactify-component/react-shortcut-guide</a> (<a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>demo</a>) (<b>★ 10</b>)<br>↳ <i>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</i></li></ul>
+          <ul><li><a href=https://github.com/reactify-component/react-message target=_blank>reactify-component/react-message</a> (<a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>demo</a>) (<b>★ 9</b>)<br>↳ <i>💬 React Message is a 🚀 React component library for displaying customizable messages and notifications to users. It's easy to integrate and supports features like animations and timeout.</i></li><li><a href=https://github.com/Innei/candy target=_blank>Innei/candy</a> (<a href=https://candy-git-demo.innei.vercel.app/ target=_blank>demo</a>) (<b>★ 23</b>)<br>↳ <i>Simple and cute static blog generator.</i></li><li><a href=https://github.com/Innei/shuffle-article target=_blank>Innei/shuffle-article</a> (<a href=https://innei.github.io/shuffle-article/ target=_blank>demo</a>) (<b>★ 166</b>)<br>↳ <i>在 DOM 上打乱文字，而非视觉上。</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
@@ -49,7 +49,7 @@ Skills:                                                ／　　　　 |
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/onevcat/Kingfisher>onevcat/Kingfisher</a><span> A lightweight, pure-Swift library for downloading and caching images from the web.</span></li><li><a href=https://github.com/Aeastr/Portal>Aeastr/Portal</a><span> Seamless element transitions between root, sheets, and navigation pushes in SwiftUI.</span></li><li><a href=https://github.com/meanguppy/react-native-pull-ups>meanguppy/react-native-pull-ups</a><span> A native bottom sheet implementation for React Native. Toddler approved.</span></li><li><a href=https://github.com/metasidd/Prototype-Siri-Screen-Animation>metasidd/Prototype-Siri-Screen-Animation</a></li><li><a href=https://github.com/TelegramMessenger/Telegram-iOS>TelegramMessenger/Telegram-iOS</a><span> Telegram-iOS</span></li></ul>
+          <ul><li><a href=https://github.com/onevcat/Kingfisher>onevcat/Kingfisher</a><span> A lightweight, pure-Swift library for downloading and caching images from the web.</span></li><li><a href=https://github.com/EvanBacon/expo-apple-targets>EvanBacon/expo-apple-targets</a><span> Config Plugin to setup Apple targets</span></li><li><a href=https://github.com/LegendApp/legend-list>LegendApp/legend-list</a><span> A high-performance list component for React Native</span></li><li><a href=https://github.com/saulamsal/twitter-ui>saulamsal/twitter-ui</a><span> Twitter/X UI in React Native(Expo)</span></li><li><a href=https://github.com/davidmurray/ios-reversed-headers>davidmurray/ios-reversed-headers</a><span> Reverse engineered C headers from various iOS frameworks.</span></li></ul>
       </details>
     </td>
   </tr>
@@ -71,6 +71,6 @@ Skills:                                                ／　　　　 |
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 6/20/25, 8:10 AM<br>Next refresh: 6/21/25, 8:10 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 6/21/25, 8:10 AM<br>Next refresh: 6/22/25, 8:10 AM</p>
   </samp>
 </p>
