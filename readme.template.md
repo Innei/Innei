@@ -16,6 +16,14 @@ Skills:                                                ／　　　　 |
   ├─ Backend: NestJS, Node.js, Prisma
   ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
   └─ Tools: Neovim, Cursor
+GitHub Stats:
+  ├─ Stars Earned: <!-- GH_STARS -->
+  ├─ Commits (This Year): <!-- GH_COMMITS_THIS_YEAR -->
+  ├─ Total PRs: <!-- GH_PRS -->
+  ├─ Total Issues: <!-- GH_ISSUES -->
+  └─ Contributed to (Last Year): <!-- GH_CONTRIBS -->
+
+Rank: <!-- GH_RANK_NODE -->
 ```
 
 <p align="center">
