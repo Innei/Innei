@@ -38,13 +38,13 @@ Rank: [ PROGRESS ██████████] S
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3907</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 1031</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/mx-space/core target=_blank>mx-space/core</a> (<b>★ 436</b>)<br>↳ <i>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 27960</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3907</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 1032</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/mx-space/core target=_blank>mx-space/core</a> (<b>★ 436</b>)<br>↳ <i>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 27965</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank>reactify-component/react-shortcut-guide</a> (<a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>demo</a>) (<b>★ 10</b>)<br>↳ <i>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</i></li><li><a href=https://github.com/Innei/vue-react-wrapper target=_blank>Innei/vue-react-wrapper</a> (<b>★ 14</b>)<br>↳ <i>Use react component in vue 3 and data binding.</i></li><li><a href=https://github.com/Innei/candy target=_blank>Innei/candy</a> (<a href=https://candy-git-demo.innei.vercel.app/ target=_blank>demo</a>) (<b>★ 23</b>)<br>↳ <i>Simple and cute static blog generator.</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/shuffle-article target=_blank>Innei/shuffle-article</a> (<a href=https://innei.github.io/shuffle-article/ target=_blank>demo</a>) (<b>★ 166</b>)<br>↳ <i>在 DOM 上打乱文字，而非视觉上。</i></li><li><a href=https://github.com/Innei/pageproxy target=_blank>Innei/pageproxy</a> (<b>★ 0</b>)<br>↳ <i>page proxy, dynamic inject context for spa. inject context to page.</i></li><li><a href=https://github.com/Innei/animate-uri target=_blank>Innei/animate-uri</a> (<a href=https://innei.github.io/animate-uri/ target=_blank>demo</a>) (<b>★ 23</b>)<br>↳ <i>Animate your url transitions for that extra flair. 🔨👴</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
@@ -57,7 +57,7 @@ Rank: [ PROGRESS ██████████] S
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/Mx-Iris/MediaRemoteWizard>Mx-Iris/MediaRemoteWizard</a></li><li><a href=https://github.com/Aeastr/Portal>Aeastr/Portal</a><span> Seamless element transitions between root, sheets, and navigation pushes in SwiftUI.</span></li><li><a href=https://github.com/eds2002/immersive-overlay-example>eds2002/immersive-overlay-example</a></li><li><a href=https://github.com/onevcat/Kingfisher>onevcat/Kingfisher</a><span> A lightweight, pure-Swift library for downloading and caching images from the web.</span></li><li><a href=https://github.com/davidmurray/ios-reversed-headers>davidmurray/ios-reversed-headers</a><span> Reverse engineered C headers from various iOS frameworks.</span></li></ul>
+          <ul><li><a href=https://github.com/Ciechan/BCGenieEffect>Ciechan/BCGenieEffect</a><span> An OSX style genie effect inside your iOS app.</span></li><li><a href=https://github.com/ktiays/fluid-scroll>ktiays/fluid-scroll</a><span> A library that provides iOS-like scrolling animation algorithm.</span></li><li><a href=https://github.com/sergeymild/react-native-htmark-view>sergeymild/react-native-htmark-view</a></li><li><a href=https://github.com/metasidd/Prototype-Siri-Screen-Animation>metasidd/Prototype-Siri-Screen-Animation</a></li><li><a href=https://github.com/LegendApp/legend-list>LegendApp/legend-list</a><span> A high-performance list component for React Native</span></li></ul>
       </details>
     </td>
   </tr>
@@ -79,6 +79,6 @@ Rank: [ PROGRESS ██████████] S
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 7/9/25, 7:55 AM<br>Next refresh: 7/10/25, 7:55 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 7/9/25, 8:11 AM<br>Next refresh: 7/10/25, 8:11 AM</p>
   </samp>
 </p>
