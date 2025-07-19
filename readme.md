@@ -17,8 +17,8 @@ Skills:                                                ／　　　　 |
   ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
   └─ Tools: Neovim, Cursor
 GitHub Stats:
-  ├─ Stars Earned: 5403
-  ├─ Commits (This Year): 1873
+  ├─ Stars Earned: 5410
+  ├─ Commits (This Year): 1879
   ├─ Total PRs: 657
   ├─ Total Issues: 341
   └─ Contributed to (Last Year): 32
@@ -38,26 +38,26 @@ Rank: [ PROGRESS ██████████] S
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3913</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 1076</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/mx-space/core target=_blank>mx-space/core</a> (<b>★ 437</b>)<br>↳ <i>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 29522</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3916</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 1083</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/mx-space/core target=_blank>mx-space/core</a> (<b>★ 438</b>)<br>↳ <i>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 29754</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/reactify-component/react-typewriter target=_blank>reactify-component/react-typewriter</a> (<a href=https://react-typewriter.vercel.app/ target=_blank>demo</a>) (<b>★ 7</b>)<br>↳ <i>A simple component impl typewriter effect</i></li><li><a href=https://github.com/Innei/simple-clock target=_blank>Innei/simple-clock</a> (<a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>demo</a>) (<b>★ 2</b>)</li><li><a href=https://github.com/Innei/shuffle-article target=_blank>Innei/shuffle-article</a> (<a href=https://innei.github.io/shuffle-article/ target=_blank>demo</a>) (<b>★ 166</b>)<br>↳ <i>在 DOM 上打乱文字，而非视觉上。</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/vue-react-wrapper target=_blank>Innei/vue-react-wrapper</a> (<b>★ 14</b>)<br>↳ <i>Use react component in vue 3 and data binding.</i></li><li><a href=https://github.com/Innei/pageproxy target=_blank>Innei/pageproxy</a> (<b>★ 0</b>)<br>↳ <i>page proxy, dynamic inject context for spa. inject context to page.</i></li><li><a href=https://github.com/Innei/simple-clock target=_blank>Innei/simple-clock</a> (<a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>demo</a>) (<b>★ 2</b>)</li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
       <details open>
         <summary>Recent Posts</summary>
         <br />
-          <ul><li><span><a href=https://innei.in/notes/195>夏日南京游AI乐章</a></span> - 7/12/25</li><li><span><a href=https://innei.in/posts/programming/exploring-context-engineering>初探 Context Engineering</a></span> - 7/12/25</li><li><span><a href=https://innei.in/notes/194>或许这样挺好</a></span> - 6/18/25</li><li><span><a href=https://innei.in/posts/Z-Turn/nextjs+vite-hack-combined>Next.js + Vite，这是什么新的操作？</a></span> - 6/14/25</li><li><span><a href=https://innei.in/notes/193>镜头与代码的交响：打造个人线上画廊与假期随笔</a></span> - 6/3/25</li></ul>
+          <ul><li><span><a href=https://innei.in/posts/tech/ai-coding-methodology-systematic-practice>AI 编码方法论：从探索到精进的系统化实践</a></span> - 7/17/25</li><li><span><a href=https://innei.in/notes/195>夏日南京游AI乐章</a></span> - 7/12/25</li><li><span><a href=https://innei.in/posts/programming/exploring-context-engineering>初探 Context Engineering</a></span> - 7/12/25</li><li><span><a href=https://innei.in/notes/194>或许这样挺好</a></span> - 6/18/25</li><li><span><a href=https://innei.in/posts/Z-Turn/nextjs+vite-hack-combined>Next.js + Vite，这是什么新的操作？</a></span> - 6/14/25</li></ul>
       </details>
       <br />
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/Mx-Iris/MediaRemoteWizard>Mx-Iris/MediaRemoteWizard</a></li><li><a href=https://github.com/lukakerr/NSWindowStyles>lukakerr/NSWindowStyles</a><span> A showcase of the many different styles of windows possible with NSWindow on macOS</span></li><li><a href=https://github.com/Ciechan/BCGenieEffect>Ciechan/BCGenieEffect</a><span> An OSX style genie effect inside your iOS app.</span></li><li><a href=https://github.com/virattt/ai-hedge-fund>virattt/ai-hedge-fund</a><span> An AI Hedge Fund Team</span></li><li><a href=https://github.com/Afilmory/afilmory>Afilmory/afilmory</a><span> A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</span></li></ul>
+          <ul><li><a href=https://github.com/QiuChenly/CoreInject>QiuChenly/CoreInject</a><span> 美好世界你我相伴。同性恋🏳️‍🌈看过来，在这里找到我们的最爱！</span></li><li><a href=https://github.com/6over3/exiftool>6over3/exiftool</a><span> ExifTool powered by WebAssembly to extract metadata from files in browsers and Node.js environments using zeroperl</span></li><li><a href=https://github.com/lukakerr/NSWindowStyles>lukakerr/NSWindowStyles</a><span> A showcase of the many different styles of windows possible with NSWindow on macOS</span></li><li><a href=https://github.com/onevcat/Kingfisher>onevcat/Kingfisher</a><span> A lightweight, pure-Swift library for downloading and caching images from the web.</span></li><li><a href=https://github.com/marioaguzman/toolbar>marioaguzman/toolbar</a><span> Programmatically constructing an NSToolbar</span></li></ul>
       </details>
     </td>
   </tr>
@@ -79,6 +79,6 @@ Rank: [ PROGRESS ██████████] S
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 7/17/25, 8:11 AM<br>Next refresh: 7/18/25, 8:11 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 7/19/25, 8:11 AM<br>Next refresh: 7/20/25, 8:11 AM</p>
   </samp>
 </p>
