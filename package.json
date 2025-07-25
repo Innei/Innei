@@ -23,7 +23,7 @@
     "@mx-space/api-client": "1.17.0",
     "@types/html-minifier": "4.0.5",
     "@types/lodash-es": "4.17.12",
-    "@types/node": "24.0.1",
+    "@types/node": "24.1.0",
     "axios": "1.11.0",
     "dayjs": "1.11.13",
     "html-minifier": "4.0.0",
