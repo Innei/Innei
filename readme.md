@@ -17,8 +17,8 @@ Skills:                                                ／　　　　 |
   ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
   └─ Tools: Neovim, Cursor
 GitHub Stats:
-  ├─ Stars Earned: 5424
-  ├─ Commits (This Year): 1920
+  ├─ Stars Earned: 5429
+  ├─ Commits (This Year): 1943
   ├─ Total PRs: 662
   ├─ Total Issues: 341
   └─ Contributed to (Last Year): 32
@@ -38,26 +38,26 @@ Rank: [ PROGRESS ██████████] S
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3920</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 1125</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/mx-space/core target=_blank>mx-space/core</a> (<b>★ 438</b>)<br>↳ <i>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 30111</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3922</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 1127</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/mx-space/core target=_blank>mx-space/core</a> (<b>★ 438</b>)<br>↳ <i>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 30146</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/reactify-component/react-typewriter target=_blank>reactify-component/react-typewriter</a> (<a href=https://react-typewriter.vercel.app/ target=_blank>demo</a>) (<b>★ 7</b>)<br>↳ <i>A simple component impl typewriter effect</i></li><li><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank>reactify-component/react-shortcut-guide</a> (<a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>demo</a>) (<b>★ 10</b>)<br>↳ <i>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</i></li><li><a href=https://github.com/reactify-component/react-message target=_blank>reactify-component/react-message</a> (<a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>demo</a>) (<b>★ 9</b>)<br>↳ <i>💬 React Message is a 🚀 React component library for displaying customizable messages and notifications to users. It's easy to integrate and supports features like animations and timeout.</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/simple-clock target=_blank>Innei/simple-clock</a> (<a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>demo</a>) (<b>★ 2</b>)</li><li><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank>reactify-component/react-shortcut-guide</a> (<a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>demo</a>) (<b>★ 10</b>)<br>↳ <i>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</i></li><li><a href=https://github.com/Innei/vue-react-wrapper target=_blank>Innei/vue-react-wrapper</a> (<b>★ 14</b>)<br>↳ <i>Use react component in vue 3 and data binding.</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
       <details open>
         <summary>Recent Posts</summary>
         <br />
-          <ul><li><span><a href=https://innei.in/posts/tech/ai-coding-methodology-systematic-practice>AI 编码方法论：从探索到精进的系统化实践</a></span> - 7/17/25</li><li><span><a href=https://innei.in/notes/195>夏日南京游AI乐章</a></span> - 7/12/25</li><li><span><a href=https://innei.in/posts/programming/exploring-context-engineering>初探 Context Engineering</a></span> - 7/12/25</li><li><span><a href=https://innei.in/notes/194>或许这样挺好</a></span> - 6/18/25</li><li><span><a href=https://innei.in/posts/Z-Turn/nextjs+vite-hack-combined>Next.js + Vite，这是什么新的操作？</a></span> - 6/14/25</li></ul>
+          <ul><li><span><a href=https://innei.in/notes/196>在废土中修路，在代码中造梦</a></span> - 7/25/25</li><li><span><a href=https://innei.in/posts/tech/ai-coding-methodology-systematic-practice>AI 编码方法论：从探索到精进的系统化实践</a></span> - 7/17/25</li><li><span><a href=https://innei.in/notes/195>夏日南京游AI乐章</a></span> - 7/12/25</li><li><span><a href=https://innei.in/posts/programming/exploring-context-engineering>初探 Context Engineering</a></span> - 7/12/25</li><li><span><a href=https://innei.in/notes/194>或许这样挺好</a></span> - 6/18/25</li></ul>
       </details>
       <br />
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/meanguppy/react-native-pull-ups>meanguppy/react-native-pull-ups</a><span> A native bottom sheet implementation for React Native. Toddler approved.</span></li><li><a href=https://github.com/virattt/ai-hedge-fund>virattt/ai-hedge-fund</a><span> An AI Hedge Fund Team</span></li><li><a href=https://github.com/gvergnaud/ts-pattern>gvergnaud/ts-pattern</a><span> 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.</span></li><li><a href=https://github.com/ktiays/fluid-scroll>ktiays/fluid-scroll</a><span> A library that provides iOS-like scrolling animation algorithm.</span></li><li><a href=https://github.com/EvanBacon/expo-router-forms-components>EvanBacon/expo-router-forms-components</a><span> Free UI components I use for building Expo Router apps</span></li></ul>
+          <ul><li><a href=https://github.com/onevcat/Kingfisher>onevcat/Kingfisher</a><span> A lightweight, pure-Swift library for downloading and caching images from the web.</span></li><li><a href=https://github.com/Lakr233/FlowDown>Lakr233/FlowDown</a><span> https://flowdown.ai/</span></li><li><a href=https://github.com/Afilmory/afilmory>Afilmory/afilmory</a><span> A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</span></li><li><a href=https://github.com/rdev/liquid-glass-react>rdev/liquid-glass-react</a><span> Apple's Liquid Glass effect for React</span></li><li><a href=https://github.com/ktiays/fluid-scroll>ktiays/fluid-scroll</a><span> A library that provides iOS-like scrolling animation algorithm.</span></li></ul>
       </details>
     </td>
   </tr>
@@ -79,6 +79,6 @@ Rank: [ PROGRESS ██████████] S
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 7/25/25, 8:11 AM<br>Next refresh: 7/26/25, 8:11 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 7/25/25, 11:15 PM<br>Next refresh: 7/26/25, 11:15 PM</p>
   </samp>
 </p>
