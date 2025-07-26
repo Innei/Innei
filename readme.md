@@ -18,7 +18,7 @@ Skills:                                                ／　　　　 |
   └─ Tools: Neovim, Cursor
 GitHub Stats:
   ├─ Stars Earned: 5429
-  ├─ Commits (This Year): 1943
+  ├─ Commits (This Year): 1946
   ├─ Total PRs: 662
   ├─ Total Issues: 341
   └─ Contributed to (Last Year): 32
@@ -38,13 +38,13 @@ Rank: [ PROGRESS ██████████] S
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3922</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 1127</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/mx-space/core target=_blank>mx-space/core</a> (<b>★ 438</b>)<br>↳ <i>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 30146</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3922</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 1128</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/mx-space/core target=_blank>mx-space/core</a> (<b>★ 438</b>)<br>↳ <i>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 30149</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/simple-clock target=_blank>Innei/simple-clock</a> (<a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>demo</a>) (<b>★ 2</b>)</li><li><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank>reactify-component/react-shortcut-guide</a> (<a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>demo</a>) (<b>★ 10</b>)<br>↳ <i>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</i></li><li><a href=https://github.com/Innei/vue-react-wrapper target=_blank>Innei/vue-react-wrapper</a> (<b>★ 14</b>)<br>↳ <i>Use react component in vue 3 and data binding.</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/next-async target=_blank>Innei/next-async</a> (<b>★ 0</b>)<br>↳ <i>A simple implementation of koa middleware.</i></li><li><a href=https://github.com/Innei/simple-clock target=_blank>Innei/simple-clock</a> (<a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>demo</a>) (<b>★ 2</b>)</li><li><a href=https://github.com/Innei/candy target=_blank>Innei/candy</a> (<a href=https://candy-git-demo.innei.vercel.app/ target=_blank>demo</a>) (<b>★ 23</b>)<br>↳ <i>Simple and cute static blog generator.</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
@@ -57,7 +57,7 @@ Rank: [ PROGRESS ██████████] S
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/onevcat/Kingfisher>onevcat/Kingfisher</a><span> A lightweight, pure-Swift library for downloading and caching images from the web.</span></li><li><a href=https://github.com/Lakr233/FlowDown>Lakr233/FlowDown</a><span> https://flowdown.ai/</span></li><li><a href=https://github.com/Afilmory/afilmory>Afilmory/afilmory</a><span> A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</span></li><li><a href=https://github.com/rdev/liquid-glass-react>rdev/liquid-glass-react</a><span> Apple's Liquid Glass effect for React</span></li><li><a href=https://github.com/ktiays/fluid-scroll>ktiays/fluid-scroll</a><span> A library that provides iOS-like scrolling animation algorithm.</span></li></ul>
+          <ul><li><a href=https://github.com/specstoryai/getspecstory>specstoryai/getspecstory</a><span> Install our extensions for GH Copilot, Cursor and Claude Code. Try BearClaude. File issues and requests.</span></li><li><a href=https://github.com/QiuChenly/CoreInject>QiuChenly/CoreInject</a><span> 美好世界你我相伴。同性恋🏳️‍🌈看过来，在这里找到我们的最爱！</span></li><li><a href=https://github.com/ktiays/fluid-scroll>ktiays/fluid-scroll</a><span> A library that provides iOS-like scrolling animation algorithm.</span></li><li><a href=https://github.com/Lakr233/FlowDown>Lakr233/FlowDown</a><span> https://flowdown.ai/</span></li><li><a href=https://github.com/eds2002/immersive-overlay-example>eds2002/immersive-overlay-example</a></li></ul>
       </details>
     </td>
   </tr>
@@ -79,6 +79,6 @@ Rank: [ PROGRESS ██████████] S
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 7/25/25, 11:15 PM<br>Next refresh: 7/26/25, 11:15 PM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 7/26/25, 8:11 AM<br>Next refresh: 7/27/25, 8:11 AM</p>
   </samp>
 </p>
