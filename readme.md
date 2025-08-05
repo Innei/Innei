@@ -17,9 +17,9 @@ Skills:                                                ／　　　　 |
   ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
   └─ Tools: Neovim, Cursor
 GitHub Stats:
-  ├─ Stars Earned: 5493
-  ├─ Commits (This Year): 2090
-  ├─ Total PRs: 675
+  ├─ Stars Earned: 5501
+  ├─ Commits (This Year): 2101
+  ├─ Total PRs: 676
   ├─ Total Issues: 341
   └─ Contributed to (Last Year): 32
 
@@ -38,13 +38,13 @@ Rank: [ PROGRESS ██████████] S
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3935</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 1181</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/mx-space/core target=_blank>mx-space/core</a> (<b>★ 438</b>)<br>↳ <i>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 30600</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3937</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 1183</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/mx-space/core target=_blank>mx-space/core</a> (<b>★ 438</b>)<br>↳ <i>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 30633</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/shuffle-article target=_blank>Innei/shuffle-article</a> (<a href=https://innei.github.io/shuffle-article/ target=_blank>demo</a>) (<b>★ 166</b>)<br>↳ <i>在 DOM 上打乱文字，而非视觉上。</i></li><li><a href=https://github.com/Innei/pageproxy target=_blank>Innei/pageproxy</a> (<b>★ 0</b>)<br>↳ <i>page proxy, dynamic inject context for spa. inject context to page.</i></li><li><a href=https://github.com/Innei/simple-clock target=_blank>Innei/simple-clock</a> (<a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>demo</a>) (<b>★ 2</b>)</li></ul>
+          <ul><li><a href=https://github.com/Innei/pageproxy target=_blank>Innei/pageproxy</a> (<b>★ 0</b>)<br>↳ <i>page proxy, dynamic inject context for spa. inject context to page.</i></li><li><a href=https://github.com/reactify-component/react-typewriter target=_blank>reactify-component/react-typewriter</a> (<a href=https://react-typewriter.vercel.app/ target=_blank>demo</a>) (<b>★ 7</b>)<br>↳ <i>A simple component impl typewriter effect</i></li><li><a href=https://github.com/reactify-component/react-message target=_blank>reactify-component/react-message</a> (<a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>demo</a>) (<b>★ 9</b>)<br>↳ <i>💬 React Message is a 🚀 React component library for displaying customizable messages and notifications to users. It's easy to integrate and supports features like animations and timeout.</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
@@ -57,7 +57,7 @@ Rank: [ PROGRESS ██████████] S
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/Mx-Iris/MediaRemoteWizard>Mx-Iris/MediaRemoteWizard</a></li><li><a href=https://github.com/Afilmory/afilmory>Afilmory/afilmory</a><span> A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</span></li><li><a href=https://github.com/shareAI-lab/analysis_claude_code>shareAI-lab/analysis_claude_code</a><span> 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent 架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。</span></li><li><a href=https://github.com/HugoRCD/nuxt-ui-chat>HugoRCD/nuxt-ui-chat</a><span> Nuxt UI app using the aisdk v5: streaming AI chat, multi-model support, AI Gateway, and generative UI</span></li><li><a href=https://github.com/specstoryai/getspecstory>specstoryai/getspecstory</a><span> Install our extensions for GH Copilot, Cursor and Claude Code. Try BearClaude. File issues and requests.</span></li></ul>
+          <ul><li><a href=https://github.com/Afilmory/afilmory>Afilmory/afilmory</a><span> A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</span></li><li><a href=https://github.com/ktiays/fluid-scroll>ktiays/fluid-scroll</a><span> A library that provides iOS-like scrolling animation algorithm.</span></li><li><a href=https://github.com/6over3/exiftool>6over3/exiftool</a><span> ExifTool powered by WebAssembly to extract metadata from files in browsers and Node.js environments using zeroperl</span></li><li><a href=https://github.com/Lakr233/FlowDown>Lakr233/FlowDown</a><span> https://flowdown.ai/</span></li><li><a href=https://github.com/lukakerr/NSWindowStyles>lukakerr/NSWindowStyles</a><span> A showcase of the many different styles of windows possible with NSWindow on macOS</span></li></ul>
       </details>
     </td>
   </tr>
@@ -79,6 +79,6 @@ Rank: [ PROGRESS ██████████] S
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 8/4/25, 8:12 AM<br>Next refresh: 8/5/25, 8:12 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 8/5/25, 8:12 AM<br>Next refresh: 8/6/25, 8:12 AM</p>
   </samp>
 </p>
