@@ -21,8 +21,8 @@ importers:
         specifier: 24.3.0
         version: 24.3.0
       axios:
-        specifier: 1.11.0
-        version: 1.11.0
+        specifier: 1.12.0
+        version: 1.12.0
       dayjs:
         specifier: 1.11.13
         version: 1.11.13
@@ -34,7 +34,7 @@ importers:
         version: 4.17.21
       retry-axios:
         specifier: 3.2.1
-        version: 3.2.1(axios@1.11.0)
+        version: 3.2.1(axios@1.12.0)
       sponsorkit:
         specifier: 17.0.0
         version: 17.0.0
@@ -376,8 +376,8 @@ packages:
   asynckit@0.4.0:
     resolution: {integrity: sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==}
 
-  axios@1.11.0:
-    resolution: {integrity: sha512-1Lx3WLFQWm3ooKDYZD1eXmoGO9fxYQjrycfHFC8P0sCfQVXyROp0p9PFWBehewBOdCwHc+f/b8I0fMto5eSfwA==}
+  axios@1.12.0:
+    resolution: {integrity: sha512-oXTDccv8PcfjZmPGlWsPSwtOJCZ/b6W5jAMCNcfwJbCzDckwG0jrYJFaWH1yvivfCXjVzV/SPDEhMB3Q+DSurg==}
 
   cac@6.7.14:
     resolution: {integrity: sha512-b6Ilus+c3RrdDk+JhLKUAQfzzgLEPy6wcXqS7f/xe1EETvsDP6GORG7SFuOs6cID5YkqchW/LXZbX5bc8j7ZcQ==}
@@ -865,7 +865,7 @@ snapshots:
 
   asynckit@0.4.0: {}
 
-  axios@1.11.0:
+  axios@1.12.0:
     dependencies:
       follow-redirects: 1.15.6
       form-data: 4.0.4
@@ -1094,9 +1094,9 @@ snapshots:
 
   resolve-pkg-maps@1.0.0: {}
 
-  retry-axios@3.2.1(axios@1.11.0):
+  retry-axios@3.2.1(axios@1.12.0):
     dependencies:
-      axios: 1.11.0
+      axios: 1.12.0
 
   semver@7.7.2: {}
 
