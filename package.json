@@ -23,18 +23,18 @@
     "@mx-space/api-client": "1.17.0",
     "@types/html-minifier": "4.0.5",
     "@types/lodash-es": "4.17.12",
-    "@types/node": "24.6.2",
-    "axios": "1.12.0",
-    "dayjs": "1.11.13",
+    "@types/node": "24.7.0",
+    "axios": "1.12.2",
+    "dayjs": "1.11.18",
     "html-minifier": "4.0.0",
     "lodash-es": "4.17.21",
     "retry-axios": "3.2.1",
     "sponsorkit": "17.0.0",
-    "typescript": "5.9.2"
+    "typescript": "5.9.3"
   },
   "devDependencies": {
     "@types/markdown-it": "14.1.2",
     "markdown-it": "14.1.0",
-    "tsx": "4.20.2"
+    "tsx": "4.20.6"
   }
 }
