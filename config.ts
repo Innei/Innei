@@ -2,7 +2,7 @@ export const opensource = {
   active: [
     'Innei/Shiro',
     'Afilmory/Afilmory',
-    'mx-space/core',
+    'Torrent-Vibe/Torrent-Vibe',
     'RSSNext/follow',
     // "mx-space/kami",
     // 'Innei/book-ssg-template',
