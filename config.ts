@@ -34,7 +34,7 @@ export const github = {
 
 export const mxSpace = {
   url: 'https://innei.in',
-  api: 'https://api.innei.ren/v2',
+  api: 'https://mx.innei.in/api/v2',
 }
 
 export const timeZone = 'Asia/Shanghai'
