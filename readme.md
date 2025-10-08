@@ -17,8 +17,8 @@ Skills:                                                ／　　　　 |
   ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
   └─ Tools: Neovim, Cursor
 GitHub Stats:
-  ├─ Stars Earned: 5633
-  ├─ Commits (This Year): 4508
+  ├─ Stars Earned: 5637
+  ├─ Commits (This Year): 4513
   ├─ Total PRs: 694
   ├─ Total Issues: 345
   └─ Contributed to (Last Year): 32
@@ -38,26 +38,26 @@ Rank: [ PROGRESS ██████████] S
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3977</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 1383</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 95</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 34641</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3979</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 1385</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 96</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 34662</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/vue-react-wrapper target=_blank>Innei/vue-react-wrapper</a> (<b>★ 14</b>)<br>↳ <i>Use react component in vue 3 and data binding.</i></li><li><a href=https://github.com/Innei/candy target=_blank>Innei/candy</a> (<a href=https://candy-git-demo.innei.vercel.app/ target=_blank>demo</a>) (<b>★ 23</b>)<br>↳ <i>Simple and cute static blog generator.</i></li><li><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank>reactify-component/react-shortcut-guide</a> (<a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>demo</a>) (<b>★ 10</b>)<br>↳ <i>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/pageproxy target=_blank>Innei/pageproxy</a> (<b>★ 0</b>)<br>↳ <i>page proxy, dynamic inject context for spa. inject context to page.</i></li><li><a href=https://github.com/reactify-component/react-message target=_blank>reactify-component/react-message</a> (<a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>demo</a>) (<b>★ 9</b>)<br>↳ <i>💬 React Message is a 🚀 React component library for displaying customizable messages and notifications to users. It's easy to integrate and supports features like animations and timeout.</i></li><li><a href=https://github.com/Innei/vue-react-wrapper target=_blank>Innei/vue-react-wrapper</a> (<b>★ 14</b>)<br>↳ <i>Use react component in vue 3 and data binding.</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
       <details open>
         <summary>Recent Posts</summary>
         <br />
-          <ul><li><span><a href=https://innei.in/notes/197>从代码到古镇，从屏幕到舞台</a></span> - 9/1/25</li><li><span><a href=https://innei.in/posts/tech/tailwindcss-v4-color-system-theme-switching-guide>TailwindCSS v4 全新颜色系统与主题切换</a></span> - 8/1/25</li><li><span><a href=https://innei.in/notes/196>在废土中修路，在代码中造梦</a></span> - 7/25/25</li><li><span><a href=https://innei.in/posts/tech/ai-coding-methodology-systematic-practice>AI 编码方法论：从探索到精进的系统化实践</a></span> - 7/17/25</li><li><span><a href=https://innei.in/notes/195>夏日南京游AI乐章</a></span> - 7/12/25</li></ul>
+          <ul><li><span><a href=https://innei.in/notes/198>平淡与忙碌的交织</a></span> - 10/7/25</li><li><span><a href=https://innei.in/notes/197>从代码到古镇，从屏幕到舞台</a></span> - 9/1/25</li><li><span><a href=https://innei.in/posts/tech/tailwindcss-v4-color-system-theme-switching-guide>TailwindCSS v4 全新颜色系统与主题切换</a></span> - 8/1/25</li><li><span><a href=https://innei.in/notes/196>在废土中修路，在代码中造梦</a></span> - 7/25/25</li><li><span><a href=https://innei.in/posts/tech/ai-coding-methodology-systematic-practice>AI 编码方法论：从探索到精进的系统化实践</a></span> - 7/17/25</li></ul>
       </details>
       <br />
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/shareAI-lab/analysis_claude_code>shareAI-lab/analysis_claude_code</a><span> 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent 架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。</span></li><li><a href=https://github.com/Meridius-Labs/electron-liquid-glass>Meridius-Labs/electron-liquid-glass</a><span> ⚛️  Electron bindings for Apple Liquid Glass</span></li><li><a href=https://github.com/madebyankur/lisere>madebyankur/lisere</a><span> Liseré is a lightweight and composable React component for text highlighting.</span></li><li><a href=https://github.com/betomoedano/snapai>betomoedano/snapai</a><span> AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models.</span></li><li><a href=https://github.com/brennercruvinel/CCPlugins>brennercruvinel/CCPlugins</a><span> Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.</span></li></ul>
+          <ul><li><a href=https://github.com/Ciechan/BCGenieEffect>Ciechan/BCGenieEffect</a><span> An OSX style genie effect inside your iOS app.</span></li><li><a href=https://github.com/Meridius-Labs/electron-liquid-glass>Meridius-Labs/electron-liquid-glass</a><span> ⚛️  Electron bindings for Apple Liquid Glass</span></li><li><a href=https://github.com/specstoryai/getspecstory>specstoryai/getspecstory</a><span> Install our local first extensions for favorite AI IDE or Terminal Agent. Sync your conversations to the cloud. File issues and requests.</span></li><li><a href=https://github.com/HugoRCD/nuxt-ui-chat>HugoRCD/nuxt-ui-chat</a><span> Nuxt UI app using the aisdk v5: streaming AI chat, multi-model support, AI Gateway, and generative UI</span></li><li><a href=https://github.com/6over3/exiftool>6over3/exiftool</a><span> ExifTool powered by WebAssembly to extract metadata from files in browsers and Node.js environments using zeroperl</span></li></ul>
       </details>
     </td>
   </tr>
@@ -79,6 +79,6 @@ Rank: [ PROGRESS ██████████] S
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 10/7/25, 8:10 AM<br>Next refresh: 10/8/25, 8:10 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 10/8/25, 8:10 AM<br>Next refresh: 10/9/25, 8:10 AM</p>
   </samp>
 </p>
