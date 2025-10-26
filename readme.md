@@ -17,8 +17,8 @@ Skills:                                                ／　　　　 |
   ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
   └─ Tools: Neovim, Cursor
 GitHub Stats:
-  ├─ Stars Earned: 5713
-  ├─ Commits (This Year): 4602
+  ├─ Stars Earned: 5715
+  ├─ Commits (This Year): 4605
   ├─ Total PRs: 699
   ├─ Total Issues: 347
   └─ Contributed to (Last Year): 32
@@ -38,13 +38,13 @@ Rank: [ PROGRESS ██████████] S
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3995</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 1795</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 112</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 35331</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3995</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 1811</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 112</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 35348</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/reactify-component/react-message target=_blank>reactify-component/react-message</a> (<a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>demo</a>) (<b>★ 9</b>)<br>↳ <i>💬 React Message is a 🚀 React component library for displaying customizable messages and notifications to users. It's easy to integrate and supports features like animations and timeout.</i></li><li><a href=https://github.com/Innei/next-async target=_blank>Innei/next-async</a> (<b>★ 0</b>)<br>↳ <i>A simple implementation of koa middleware.</i></li><li><a href=https://github.com/Innei/animate-uri target=_blank>Innei/animate-uri</a> (<a href=https://innei.github.io/animate-uri/ target=_blank>demo</a>) (<b>★ 23</b>)<br>↳ <i>Animate your url transitions for that extra flair. 🔨👴</i></li></ul>
+          <ul><li><a href=https://github.com/reactify-component/react-message target=_blank>reactify-component/react-message</a> (<a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>demo</a>) (<b>★ 9</b>)<br>↳ <i>💬 React Message is a 🚀 React component library for displaying customizable messages and notifications to users. It's easy to integrate and supports features like animations and timeout.</i></li><li><a href=https://github.com/Innei/next-async target=_blank>Innei/next-async</a> (<b>★ 0</b>)<br>↳ <i>A simple implementation of koa middleware.</i></li><li><a href=https://github.com/Innei/pageproxy target=_blank>Innei/pageproxy</a> (<b>★ 0</b>)<br>↳ <i>page proxy, dynamic inject context for spa. inject context to page.</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
@@ -57,7 +57,7 @@ Rank: [ PROGRESS ██████████] S
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/coleam00/context-engineering-intro>coleam00/context-engineering-intro</a><span> Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!</span></li><li><a href=https://github.com/contains-studio/agents>contains-studio/agents</a><span> sharing current agents in use</span></li><li><a href=https://github.com/Lakr233/FlowDown>Lakr233/FlowDown</a><span> https://flowdown.ai/</span></li><li><a href=https://github.com/shareAI-lab/analysis_claude_code>shareAI-lab/analysis_claude_code</a><span> 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent 架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。</span></li><li><a href=https://github.com/6over3/exiftool>6over3/exiftool</a><span> ExifTool powered by WebAssembly to extract metadata from files in browsers and Node.js environments using zeroperl</span></li></ul>
+          <ul><li><a href=https://github.com/zilliztech/claude-context>zilliztech/claude-context</a><span> Code search MCP for Claude Code. Make entire codebase the context for any coding agent.</span></li><li><a href=https://github.com/innei-template/smart-webapp-template>innei-template/smart-webapp-template</a><span> Modern WebApp Template Optimized for AI-Assisted Development</span></li><li><a href=https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools>x1xhlol/system-prompts-and-models-of-ai-tools</a><span> FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models</span></li><li><a href=https://github.com/opactorai/Claudable>opactorai/Claudable</a><span> Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.</span></li><li><a href=https://github.com/madebyankur/lisere>madebyankur/lisere</a><span> Liseré is a lightweight and composable React component for text highlighting.</span></li></ul>
       </details>
     </td>
   </tr>
@@ -79,6 +79,6 @@ Rank: [ PROGRESS ██████████] S
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 10/25/25, 8:10 AM<br>Next refresh: 10/26/25, 8:10 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 10/26/25, 8:11 AM<br>Next refresh: 10/27/25, 8:11 AM</p>
   </samp>
 </p>
