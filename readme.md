@@ -17,9 +17,9 @@ Skills:                                                ／　　　　 |
   ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
   └─ Tools: Neovim, Cursor
 GitHub Stats:
-  ├─ Stars Earned: 5716
-  ├─ Commits (This Year): 4629
-  ├─ Total PRs: 701
+  ├─ Stars Earned: 5717
+  ├─ Commits (This Year): 4636
+  ├─ Total PRs: 702
   ├─ Total Issues: 347
   └─ Contributed to (Last Year): 32
 
@@ -38,13 +38,13 @@ Rank: [ PROGRESS ██████████] S
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3996</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 1855</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 118</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 35468</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 3997</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 1867</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 118</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 35502</b>)<br>↳ <i>🧡 Follow everything in one place</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/shuffle-article target=_blank>Innei/shuffle-article</a> (<a href=https://innei.github.io/shuffle-article/ target=_blank>demo</a>) (<b>★ 165</b>)<br>↳ <i>在 DOM 上打乱文字，而非视觉上。</i></li><li><a href=https://github.com/Innei/pageproxy target=_blank>Innei/pageproxy</a> (<b>★ 0</b>)<br>↳ <i>page proxy, dynamic inject context for spa. inject context to page.</i></li><li><a href=https://github.com/Innei/candy target=_blank>Innei/candy</a> (<a href=https://candy-git-demo.innei.vercel.app/ target=_blank>demo</a>) (<b>★ 23</b>)<br>↳ <i>Simple and cute static blog generator.</i></li></ul>
+          <ul><li><a href=https://github.com/reactify-component/react-message target=_blank>reactify-component/react-message</a> (<a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>demo</a>) (<b>★ 9</b>)<br>↳ <i>💬 React Message is a 🚀 React component library for displaying customizable messages and notifications to users. It's easy to integrate and supports features like animations and timeout.</i></li><li><a href=https://github.com/Innei/vue-react-wrapper target=_blank>Innei/vue-react-wrapper</a> (<b>★ 14</b>)<br>↳ <i>Use react component in vue 3 and data binding.</i></li><li><a href=https://github.com/Innei/animate-uri target=_blank>Innei/animate-uri</a> (<a href=https://innei.github.io/animate-uri/ target=_blank>demo</a>) (<b>★ 23</b>)<br>↳ <i>Animate your url transitions for that extra flair. 🔨👴</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
@@ -57,7 +57,7 @@ Rank: [ PROGRESS ██████████] S
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/contains-studio/agents>contains-studio/agents</a><span> sharing current agents in use</span></li><li><a href=https://github.com/brennercruvinel/CCPlugins>brennercruvinel/CCPlugins</a><span> Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.</span></li><li><a href=https://github.com/zilliztech/claude-context>zilliztech/claude-context</a><span> Code search MCP for Claude Code. Make entire codebase the context for any coding agent.</span></li><li><a href=https://github.com/6over3/exiftool>6over3/exiftool</a><span> ExifTool powered by WebAssembly to extract metadata from files in browsers and Node.js environments using zeroperl</span></li><li><a href=https://github.com/rdev/liquid-glass-react>rdev/liquid-glass-react</a><span> Apple's Liquid Glass effect for React</span></li></ul>
+          <ul><li><a href=https://github.com/DavidHDev/react-bits>DavidHDev/react-bits</a><span> An open source collection of animated, interactive & fully customizable React components for building memorable websites.</span></li><li><a href=https://github.com/Effect-TS/effect>Effect-TS/effect</a><span> Build production-ready applications in TypeScript</span></li><li><a href=https://github.com/shareAI-lab/analysis_claude_code>shareAI-lab/analysis_claude_code</a><span> 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent 架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。</span></li><li><a href=https://github.com/innei-template/smart-webapp-template>innei-template/smart-webapp-template</a><span> Modern WebApp Template Optimized for AI-Assisted Development</span></li><li><a href=https://github.com/HugoRCD/nuxt-ui-chat>HugoRCD/nuxt-ui-chat</a><span> Nuxt UI app using the aisdk v5: streaming AI chat, multi-model support, AI Gateway, and generative UI</span></li></ul>
       </details>
     </td>
   </tr>
@@ -79,6 +79,6 @@ Rank: [ PROGRESS ██████████] S
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 10/30/25, 8:11 AM<br>Next refresh: 10/31/25, 8:11 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 10/31/25, 8:10 AM<br>Next refresh: 11/1/25, 8:10 AM</p>
   </samp>
 </p>
