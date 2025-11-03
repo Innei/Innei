@@ -17,8 +17,8 @@ Skills:                                                ／　　　　 |
   ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
   └─ Tools: Neovim, Cursor
 GitHub Stats:
-  ├─ Stars Earned: 5721
-  ├─ Commits (This Year): 4651
+  ├─ Stars Earned: 5724
+  ├─ Commits (This Year): 4660
   ├─ Total PRs: 705
   ├─ Total Issues: 347
   └─ Contributed to (Last Year): 32
@@ -38,13 +38,13 @@ Rank: [ PROGRESS ██████████] S
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4001</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 1871</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 119</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 35536</b>)<br>↳ <i>🧡 Folo is the AI Reader</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4003</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 1900</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 119</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 35551</b>)<br>↳ <i>🧡 Folo is the AI Reader</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/reactify-component/react-typewriter target=_blank>reactify-component/react-typewriter</a> (<a href=https://react-typewriter.vercel.app/ target=_blank>demo</a>) (<b>★ 7</b>)<br>↳ <i>A simple component impl typewriter effect</i></li><li><a href=https://github.com/Innei/simple-clock target=_blank>Innei/simple-clock</a> (<a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>demo</a>) (<b>★ 2</b>)</li><li><a href=https://github.com/Innei/vue-react-wrapper target=_blank>Innei/vue-react-wrapper</a> (<b>★ 14</b>)<br>↳ <i>Use react component in vue 3 and data binding.</i></li></ul>
+          <ul><li><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank>reactify-component/react-shortcut-guide</a> (<a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>demo</a>) (<b>★ 10</b>)<br>↳ <i>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</i></li><li><a href=https://github.com/Innei/shuffle-article target=_blank>Innei/shuffle-article</a> (<a href=https://innei.github.io/shuffle-article/ target=_blank>demo</a>) (<b>★ 166</b>)<br>↳ <i>在 DOM 上打乱文字，而非视觉上。</i></li><li><a href=https://github.com/Innei/vue-react-wrapper target=_blank>Innei/vue-react-wrapper</a> (<b>★ 14</b>)<br>↳ <i>Use react component in vue 3 and data binding.</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
@@ -57,7 +57,7 @@ Rank: [ PROGRESS ██████████] S
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/QiuChenly/CoreInject>QiuChenly/CoreInject</a><span> 美好世界你我相伴。同性恋🏳️‍🌈看过来，在这里找到我们的最爱！</span></li><li><a href=https://github.com/innei-template/smart-webapp-template>innei-template/smart-webapp-template</a><span> Modern WebApp Template Optimized for AI-Assisted Development</span></li><li><a href=https://github.com/panphora/overtype>panphora/overtype</a><span> The markdown editor that's just a textarea https://overtype.dev</span></li><li><a href=https://github.com/6over3/exiftool>6over3/exiftool</a><span> ExifTool powered by WebAssembly to extract metadata from files in browsers and Node.js environments using zeroperl</span></li><li><a href=https://github.com/opactorai/Claudable>opactorai/Claudable</a><span> Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.</span></li></ul>
+          <ul><li><a href=https://github.com/betomoedano/snapai>betomoedano/snapai</a><span> AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models.</span></li><li><a href=https://github.com/zilliztech/claude-context>zilliztech/claude-context</a><span> Code search MCP for Claude Code. Make entire codebase the context for any coding agent.</span></li><li><a href=https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools>x1xhlol/system-prompts-and-models-of-ai-tools</a><span> FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models</span></li><li><a href=https://github.com/QiuChenly/CoreInject>QiuChenly/CoreInject</a><span> 美好世界你我相伴。同性恋🏳️‍🌈看过来，在这里找到我们的最爱！</span></li><li><a href=https://github.com/brennercruvinel/CCPlugins>brennercruvinel/CCPlugins</a><span> Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.</span></li></ul>
       </details>
     </td>
   </tr>
@@ -79,6 +79,6 @@ Rank: [ PROGRESS ██████████] S
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 11/2/25, 8:11 AM<br>Next refresh: 11/3/25, 8:11 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 11/3/25, 8:11 AM<br>Next refresh: 11/4/25, 8:11 AM</p>
   </samp>
 </p>
