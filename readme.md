@@ -17,8 +17,8 @@ Skills:                                                ／　　　　 |
   ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
   └─ Tools: Neovim, Cursor
 GitHub Stats:
-  ├─ Stars Earned: 5743
-  ├─ Commits (This Year): 5053
+  ├─ Stars Earned: 5746
+  ├─ Commits (This Year): 5062
   ├─ Total PRs: 713
   ├─ Total Issues: 347
   └─ Contributed to (Last Year): 32
@@ -38,13 +38,13 @@ Rank: [ PROGRESS ██████████] S
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4018</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2005</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 121</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 35749</b>)<br>↳ <i>🧡 Folo is the AI Reader</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4019</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2008</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 121</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 35773</b>)<br>↳ <i>🧡 Folo is the AI Reader</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/simple-clock target=_blank>Innei/simple-clock</a> (<a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>demo</a>) (<b>★ 2</b>)</li><li><a href=https://github.com/Innei/candy target=_blank>Innei/candy</a> (<a href=https://candy-git-demo.innei.vercel.app/ target=_blank>demo</a>) (<b>★ 23</b>)<br>↳ <i>Simple and cute static blog generator.</i></li><li><a href=https://github.com/Innei/animate-uri target=_blank>Innei/animate-uri</a> (<a href=https://innei.github.io/animate-uri/ target=_blank>demo</a>) (<b>★ 23</b>)<br>↳ <i>Animate your url transitions for that extra flair. 🔨👴</i></li></ul>
+          <ul><li><a href=https://github.com/reactify-component/react-typewriter target=_blank>reactify-component/react-typewriter</a> (<a href=https://react-typewriter.vercel.app/ target=_blank>demo</a>) (<b>★ 7</b>)<br>↳ <i>A simple component impl typewriter effect</i></li><li><a href=https://github.com/Innei/pageproxy target=_blank>Innei/pageproxy</a> (<b>★ 0</b>)<br>↳ <i>page proxy, dynamic inject context for spa. inject context to page.</i></li><li><a href=https://github.com/reactify-component/react-message target=_blank>reactify-component/react-message</a> (<a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>demo</a>) (<b>★ 9</b>)<br>↳ <i>💬 React Message is a 🚀 React component library for displaying customizable messages and notifications to users. It's easy to integrate and supports features like animations and timeout.</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
@@ -57,7 +57,7 @@ Rank: [ PROGRESS ██████████] S
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/DavidHDev/react-bits>DavidHDev/react-bits</a><span> An open source collection of animated, interactive & fully customizable React components for building memorable websites.</span></li><li><a href=https://github.com/betomoedano/snapai>betomoedano/snapai</a><span> AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models.</span></li><li><a href=https://github.com/jujumilk3/leaked-system-prompts>jujumilk3/leaked-system-prompts</a><span> Collection of leaked system prompts</span></li><li><a href=https://github.com/contains-studio/agents>contains-studio/agents</a><span> sharing current agents in use</span></li><li><a href=https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools>x1xhlol/system-prompts-and-models-of-ai-tools</a><span> FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models</span></li></ul>
+          <ul><li><a href=https://github.com/madebyankur/lisere>madebyankur/lisere</a><span> Liseré is a lightweight and composable React component for text highlighting.</span></li><li><a href=https://github.com/DavidHDev/react-bits>DavidHDev/react-bits</a><span> An open source collection of animated, interactive & fully customizable React components for building memorable websites.</span></li><li><a href=https://github.com/shareAI-lab/analysis_claude_code>shareAI-lab/analysis_claude_code</a><span> 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent 架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。</span></li><li><a href=https://github.com/QiuChenly/CoreInject>QiuChenly/CoreInject</a><span> 美好世界你我相伴。同性恋🏳️‍🌈看过来，在这里找到我们的最爱！</span></li><li><a href=https://github.com/HugoRCD/nuxt-ui-chat>HugoRCD/nuxt-ui-chat</a><span> Nuxt UI app using the aisdk v5: streaming AI chat, multi-model support, AI Gateway, and generative UI</span></li></ul>
       </details>
     </td>
   </tr>
@@ -79,6 +79,6 @@ Rank: [ PROGRESS ██████████] S
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 11/13/25, 8:10 AM<br>Next refresh: 11/14/25, 8:10 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 11/14/25, 8:10 AM<br>Next refresh: 11/15/25, 8:10 AM</p>
   </samp>
 </p>
