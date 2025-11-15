@@ -17,8 +17,8 @@ Skills:                                                ／　　　　 |
   ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
   └─ Tools: Neovim, Cursor
 GitHub Stats:
-  ├─ Stars Earned: 5746
-  ├─ Commits (This Year): 5062
+  ├─ Stars Earned: 5748
+  ├─ Commits (This Year): 5084
   ├─ Total PRs: 713
   ├─ Total Issues: 347
   └─ Contributed to (Last Year): 32
@@ -38,13 +38,13 @@ Rank: [ PROGRESS ██████████] S
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4019</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2008</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 121</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 35773</b>)<br>↳ <i>🧡 Folo is the AI Reader</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4020</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2012</b>)<br>↳ <i>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 121</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 35794</b>)<br>↳ <i>🧡 Folo is the AI Reader</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/reactify-component/react-typewriter target=_blank>reactify-component/react-typewriter</a> (<a href=https://react-typewriter.vercel.app/ target=_blank>demo</a>) (<b>★ 7</b>)<br>↳ <i>A simple component impl typewriter effect</i></li><li><a href=https://github.com/Innei/pageproxy target=_blank>Innei/pageproxy</a> (<b>★ 0</b>)<br>↳ <i>page proxy, dynamic inject context for spa. inject context to page.</i></li><li><a href=https://github.com/reactify-component/react-message target=_blank>reactify-component/react-message</a> (<a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>demo</a>) (<b>★ 9</b>)<br>↳ <i>💬 React Message is a 🚀 React component library for displaying customizable messages and notifications to users. It's easy to integrate and supports features like animations and timeout.</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/next-async target=_blank>Innei/next-async</a> (<b>★ 0</b>)<br>↳ <i>A simple implementation of koa middleware.</i></li><li><a href=https://github.com/Innei/shuffle-article target=_blank>Innei/shuffle-article</a> (<a href=https://innei.github.io/shuffle-article/ target=_blank>demo</a>) (<b>★ 166</b>)<br>↳ <i>在 DOM 上打乱文字，而非视觉上。</i></li><li><a href=https://github.com/Innei/pageproxy target=_blank>Innei/pageproxy</a> (<b>★ 0</b>)<br>↳ <i>page proxy, dynamic inject context for spa. inject context to page.</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
@@ -57,7 +57,7 @@ Rank: [ PROGRESS ██████████] S
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/madebyankur/lisere>madebyankur/lisere</a><span> Liseré is a lightweight and composable React component for text highlighting.</span></li><li><a href=https://github.com/DavidHDev/react-bits>DavidHDev/react-bits</a><span> An open source collection of animated, interactive & fully customizable React components for building memorable websites.</span></li><li><a href=https://github.com/shareAI-lab/analysis_claude_code>shareAI-lab/analysis_claude_code</a><span> 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent 架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。</span></li><li><a href=https://github.com/QiuChenly/CoreInject>QiuChenly/CoreInject</a><span> 美好世界你我相伴。同性恋🏳️‍🌈看过来，在这里找到我们的最爱！</span></li><li><a href=https://github.com/HugoRCD/nuxt-ui-chat>HugoRCD/nuxt-ui-chat</a><span> Nuxt UI app using the aisdk v5: streaming AI chat, multi-model support, AI Gateway, and generative UI</span></li></ul>
+          <ul><li><a href=https://github.com/Effect-TS/effect>Effect-TS/effect</a><span> Build production-ready applications in TypeScript</span></li><li><a href=https://github.com/Lakr233/FlowDown>Lakr233/FlowDown</a><span> https://flowdown.ai/</span></li><li><a href=https://github.com/HugoRCD/nuxt-ui-chat>HugoRCD/nuxt-ui-chat</a><span> Nuxt UI app using the aisdk v5: streaming AI chat, multi-model support, AI Gateway, and generative UI</span></li><li><a href=https://github.com/shadcnblocks/kibo>shadcnblocks/kibo</a><span> A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.</span></li><li><a href=https://github.com/contains-studio/agents>contains-studio/agents</a><span> sharing current agents in use</span></li></ul>
       </details>
     </td>
   </tr>
@@ -79,6 +79,6 @@ Rank: [ PROGRESS ██████████] S
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 11/14/25, 8:10 AM<br>Next refresh: 11/15/25, 8:10 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 11/15/25, 8:10 AM<br>Next refresh: 11/16/25, 8:10 AM</p>
   </samp>
 </p>
