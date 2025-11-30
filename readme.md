@@ -17,9 +17,9 @@ Skills:                                                ／　　　　 |
   ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
   └─ Tools: Neovim, Cursor
 GitHub Stats:
-  ├─ Stars Earned: 5771
-  ├─ Commits (This Year): 5501
-  ├─ Total PRs: 713
+  ├─ Stars Earned: 5772
+  ├─ Commits (This Year): 5512
+  ├─ Total PRs: 714
   ├─ Total Issues: 349
   └─ Contributed to (Last Year): 32
 
@@ -38,13 +38,13 @@ Rank: [ PROGRESS ██████████] S
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4031</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2074</b>)<br>↳ <i>Afilmory (/əˈfɪlməri/, "uh-FIL-muh-ree") is a term created for personal photography websites, blending Auto Focus (AF), aperture (light control), film (vintage medium), and memory (captured moments).</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 120</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 36000</b>)<br>↳ <i>🧡 Folo is the AI Reader</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4032</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2076</b>)<br>↳ <i>Afilmory (/əˈfɪlməri/, "uh-FIL-muh-ree") is a term created for personal photography websites, blending Auto Focus (AF), aperture (light control), film (vintage medium), and memory (captured moments).</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 120</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/RSSNext/Folo target=_blank>RSSNext/Folo</a> (<b>★ 36012</b>)<br>↳ <i>🧡 Folo is the AI Reader</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/vue-react-wrapper target=_blank>Innei/vue-react-wrapper</a> (<b>★ 14</b>)<br>↳ <i>Use react component in vue 3 and data binding.</i></li><li><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank>reactify-component/react-shortcut-guide</a> (<a href=https://reactify-component.github.io/react-shortcut-guide/ target=_blank>demo</a>) (<b>★ 10</b>)<br>↳ <i>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</i></li><li><a href=https://github.com/reactify-component/react-message target=_blank>reactify-component/react-message</a> (<a href=https://react-message-deeab158i-react-message.vercel.app/ target=_blank>demo</a>) (<b>★ 9</b>)<br>↳ <i>💬 React Message is a 🚀 React component library for displaying customizable messages and notifications to users. It's easy to integrate and supports features like animations and timeout.</i></li></ul>
+          <ul><li><a href=https://github.com/reactify-component/react-typewriter target=_blank>reactify-component/react-typewriter</a> (<a href=https://react-typewriter.vercel.app/ target=_blank>demo</a>) (<b>★ 7</b>)<br>↳ <i>A simple component impl typewriter effect</i></li><li><a href=https://github.com/Innei/shuffle-article target=_blank>Innei/shuffle-article</a> (<a href=https://innei.github.io/shuffle-article/ target=_blank>demo</a>) (<b>★ 166</b>)<br>↳ <i>在 DOM 上打乱文字，而非视觉上。</i></li><li><a href=https://github.com/Innei/candy target=_blank>Innei/candy</a> (<a href=https://candy-git-demo.innei.vercel.app/ target=_blank>demo</a>) (<b>★ 23</b>)<br>↳ <i>Simple and cute static blog generator.</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
@@ -57,7 +57,7 @@ Rank: [ PROGRESS ██████████] S
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/elevenlabs/ui>elevenlabs/ui</a><span> ElevenLabs UI is a component library and custom registry built on top of shadcn/ui to help you build multimodal agents faster.</span></li><li><a href=https://github.com/zilliztech/claude-context>zilliztech/claude-context</a><span> Code search MCP for Claude Code. Make entire codebase the context for any coding agent.</span></li><li><a href=https://github.com/madebyankur/lisere>madebyankur/lisere</a><span> Liseré is a lightweight and composable React component for text highlighting.</span></li><li><a href=https://github.com/Effect-TS/effect>Effect-TS/effect</a><span> Build production-ready applications in TypeScript</span></li><li><a href=https://github.com/alyssaxuu/screenity>alyssaxuu/screenity</a><span> The free and privacy-friendly screen recorder with no limits 🎥</span></li></ul>
+          <ul><li><a href=https://github.com/innei-template/smart-webapp-template>innei-template/smart-webapp-template</a><span> Modern WebApp Template Optimized for AI-Assisted Development</span></li><li><a href=https://github.com/Meridius-Labs/electron-liquid-glass>Meridius-Labs/electron-liquid-glass</a><span> ⚛️  Electron bindings for Apple Liquid Glass</span></li><li><a href=https://github.com/betomoedano/snapai>betomoedano/snapai</a><span> AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models.</span></li><li><a href=https://github.com/panphora/overtype>panphora/overtype</a><span> The markdown editor that's just a textarea https://overtype.dev</span></li><li><a href=https://github.com/madebyankur/lisere>madebyankur/lisere</a><span> Liseré is a lightweight and composable React component for text highlighting.</span></li></ul>
       </details>
     </td>
   </tr>
@@ -79,6 +79,6 @@ Rank: [ PROGRESS ██████████] S
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 11/29/25, 8:10 AM<br>Next refresh: 11/30/25, 8:10 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 11/30/25, 8:12 AM<br>Next refresh: 12/1/25, 8:12 AM</p>
   </samp>
 </p>
