@@ -149361,10 +149361,10 @@
   },
   {
     "sponsor": {
-      "login": "FujiwaraChika0303",
+      "login": "KurisuRakko",
       "name": "Yukinoshita",
       "avatarUrl": "https://avatars.githubusercontent.com/u/53087601?u=dfacc29c620bc21492941eeee84767c1ec22e7ea&v=4",
-      "linkUrl": "https://github.com/FujiwaraChika0303",
+      "linkUrl": "https://github.com/KurisuRakko",
       "type": "User",
       "avatarBuffer": {
         "type": "Buffer",
@@ -365610,7 +365610,7 @@
       }
     },
     "isOneTime": true,
-    "monthlyDollars": 10,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "$10 one time",
     "createdAt": "2025-11-08T07:44:15Z",
