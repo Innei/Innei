@@ -1,7 +1,7 @@
 ```bash
 $ cat /etc/passwd | grep innei
 > A creative developer who is passionate about open source and building beautiful things.
-> Digital Nomad. Aspiring to be a design engineer.
+> Digital Nomad. Design engineer. AI Commander.
 
 $ neofetch
 
