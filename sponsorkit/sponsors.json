@@ -411170,7 +411170,7 @@
       }
     },
     "isOneTime": false,
-    "monthlyDollars": 5,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "$5 a month",
     "createdAt": "2025-12-02T08:13:55Z",
