@@ -17,9 +17,9 @@ Skills:                                                ／　　　　 |
   ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
   └─ Tools: Neovim, Cursor
 GitHub Stats:
-  ├─ Stars Earned: 5870
-  ├─ Commits (This Year): 7399
-  ├─ Total PRs: 784
+  ├─ Stars Earned: 5874
+  ├─ Commits (This Year): 7406
+  ├─ Total PRs: 787
   ├─ Total Issues: 350
   └─ Contributed to (Last Year): 32
 
@@ -38,13 +38,13 @@ Rank: [ PROGRESS ██████████] S
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4097</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2352</b>)<br>↳ <i>Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 136</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/lobehub/lobe-chat target=_blank>lobehub/lobe-chat</a> (<b>★ 69589</b>)<br>↳ <i>🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4096</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2357</b>)<br>↳ <i>Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 137</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/lobehub/lobe-chat target=_blank>lobehub/lobe-chat</a> (<b>★ 69641</b>)<br>↳ <i>🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/exif-tools target=_blank>Innei/exif-tools</a> (<a href=https://exif-transfer.vercel.app target=_blank>demo</a>) (<b>★ 23</b>)<br>↳ <i>A modern web application for reading, editing, and transferring EXIF metadata between images.</i></li><li><a href=https://github.com/Innei/Pastel target=_blank>Innei/Pastel</a> (<a href=https://pastel.innei.dev target=_blank>demo</a>) (<b>★ 80</b>)<br>↳ <i>A comprehensive kawaii-inspired color system with OKLCH color space support, TypeScript definitions, and TailwindCSS v4 integration. Features a cute & kawaii aesthetic with soft, pastel tones.</i></li><li><a href=https://github.com/Innei/ProcessReporter target=_blank>Innei/ProcessReporter</a> (<b>★ 21</b>)<br>↳ <i>A macOS application built with AppKit/Cocoa that monitors and reports real-time system activity.</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/apple-uikit-colors target=_blank>Innei/apple-uikit-colors</a> (<b>★ 30</b>)<br>↳ <i>A cross-platform color system for React Native and React Native Web that provides iOS/macOS-style semantic colors with dark mode support</i></li><li><a href=https://github.com/Innei/ProcessReporter target=_blank>Innei/ProcessReporter</a> (<b>★ 21</b>)<br>↳ <i>A macOS application built with AppKit/Cocoa that monitors and reports real-time system activity.</i></li><li><a href=https://github.com/Innei/bump-version target=_blank>Innei/bump-version</a> (<b>★ 35</b>)<br>↳ <i>A more useful and easy-to-use bump version cli.</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
@@ -57,7 +57,7 @@ Rank: [ PROGRESS ██████████] S
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/cosscom/coss>cosscom/coss</a><span> coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet.</span></li><li><a href=https://github.com/Meridius-Labs/electron-liquid-glass>Meridius-Labs/electron-liquid-glass</a><span> ⚛️  Electron bindings for Apple Liquid Glass</span></li><li><a href=https://github.com/betomoedano/snapai>betomoedano/snapai</a><span> AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models.</span></li><li><a href=https://github.com/brennercruvinel/CCPlugins>brennercruvinel/CCPlugins</a><span> Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.</span></li><li><a href=https://github.com/panphora/overtype>panphora/overtype</a><span> The markdown editor that's just a textarea https://overtype.dev</span></li></ul>
+          <ul><li><a href=https://github.com/Meridius-Labs/electron-liquid-glass>Meridius-Labs/electron-liquid-glass</a><span> ⚛️  Electron bindings for Apple Liquid Glass</span></li><li><a href=https://github.com/cosscom/coss>cosscom/coss</a><span> coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet.</span></li><li><a href=https://github.com/jujumilk3/leaked-system-prompts>jujumilk3/leaked-system-prompts</a><span> Collection of leaked system prompts</span></li><li><a href=https://github.com/usesend/useSend>usesend/useSend</a><span> Open source alternative to Resend, Sendgrid, Postmark etc.</span></li><li><a href=https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools>x1xhlol/system-prompts-and-models-of-ai-tools</a><span> FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models</span></li></ul>
       </details>
     </td>
   </tr>
@@ -79,6 +79,6 @@ Rank: [ PROGRESS ██████████] S
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 12/30/25, 8:11 AM<br>Next refresh: 12/31/25, 8:11 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 12/31/25, 8:12 AM<br>Next refresh: 1/1/26, 8:12 AM</p>
   </samp>
 </p>
