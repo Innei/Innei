@@ -17,8 +17,8 @@ Skills:                                                ／　　　　 |
   ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
   └─ Tools: Neovim, Cursor
 GitHub Stats:
-  ├─ Stars Earned: 5876
-  ├─ Commits (This Year): 0
+  ├─ Stars Earned: 5878
+  ├─ Commits (This Year): 8
   ├─ Total PRs: 793
   ├─ Total Issues: 350
   └─ Contributed to (Last Year): 18
@@ -38,13 +38,13 @@ Rank: [ PROGRESS ████████  ] A
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4098</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2363</b>)<br>↳ <i>Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 137</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/lobehub/lobe-chat target=_blank>lobehub/lobe-chat</a> (<b>★ 69668</b>)<br>↳ <i>🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4099</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2371</b>)<br>↳ <i>Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 137</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/lobehub/lobe-chat target=_blank>lobehub/lobe-chat</a> (<b>★ 69694</b>)<br>↳ <i>🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/vite-plugin-route-builder target=_blank>Innei/vite-plugin-route-builder</a> (<b>★ 5</b>)</li><li><a href=https://github.com/Innei/linear target=_blank>Innei/linear</a> (<a href=https://linear.innei.dev target=_blank>demo</a>) (<b>★ 19</b>)<br>↳ <i>A more user-friendly GitHub notification management tool (WIP)</i></li><li><a href=https://github.com/Innei/face-mask-web target=_blank>Innei/face-mask-web</a> (<a href=https://face-mask-web.vercel.app target=_blank>demo</a>) (<b>★ 19</b>)<br>↳ <i>An AI-based face detection and Emoji replacement web-app</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/electron-ipc-decorator target=_blank>Innei/electron-ipc-decorator</a> (<b>★ 114</b>)<br>↳ <i>A TypeScript-first decorator library that simplifies Electron IPC communication with type safety and automatic proxy generation</i></li><li><a href=https://github.com/Innei/css-spring-generator target=_blank>Innei/css-spring-generator</a> (<a href=https://css-spring-generator.vercel.app target=_blank>demo</a>) (<b>★ 0</b>)</li><li><a href=https://github.com/Innei/vite-plugin-route-builder target=_blank>Innei/vite-plugin-route-builder</a> (<b>★ 5</b>)</li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
@@ -57,7 +57,7 @@ Rank: [ PROGRESS ████████  ] A
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/opactorai/Claudable>opactorai/Claudable</a><span> Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.</span></li><li><a href=https://github.com/cosscom/coss>cosscom/coss</a><span> coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet.</span></li><li><a href=https://github.com/usesend/useSend>usesend/useSend</a><span> Open source alternative to Resend, Sendgrid, Postmark etc.</span></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe>Torrent-Vibe/Torrent-Vibe</a><span> Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</span></li><li><a href=https://github.com/exiftool/exiftool>exiftool/exiftool</a><span> ExifTool meta information reader/writer</span></li></ul>
+          <ul><li><a href=https://github.com/opactorai/Claudable>opactorai/Claudable</a><span> Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.</span></li><li><a href=https://github.com/sumimakito/clustr>sumimakito/clustr</a><span> Stream UTF-8 bytes and read grapheme clusters safely</span></li><li><a href=https://github.com/panphora/overtype>panphora/overtype</a><span> The markdown editor that's just a textarea https://overtype.dev</span></li><li><a href=https://github.com/tjx666/ai-rules>tjx666/ai-rules</a><span> self use ai rules</span></li><li><a href=https://github.com/betomoedano/snapai>betomoedano/snapai</a><span> AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models.</span></li></ul>
       </details>
     </td>
   </tr>
@@ -79,6 +79,6 @@ Rank: [ PROGRESS ████████  ] A
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 1/1/26, 8:13 AM<br>Next refresh: 1/2/26, 8:13 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 1/2/26, 8:12 AM<br>Next refresh: 1/3/26, 8:12 AM</p>
   </samp>
 </p>
