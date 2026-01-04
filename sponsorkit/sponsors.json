@@ -393733,7 +393733,7 @@
       "login": "AprilNEA",
       "name": "AprilNEA",
       "avatarUrl": "https://avatars.githubusercontent.com/u/37977109?u=836ec23060f896e6f7d25beab1411934419c77a6&v=4",
-      "websiteUrl": "https://sku.moe",
+      "websiteUrl": "https://aprilnea.me",
       "linkUrl": "https://github.com/AprilNEA",
       "type": "User",
       "avatarBuffer": {
@@ -423111,7 +423111,7 @@
       }
     },
     "isOneTime": true,
-    "monthlyDollars": 10,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "$10 one time",
     "createdAt": "2025-12-02T17:09:01Z",
@@ -428968,7 +428968,7 @@
       }
     },
     "isOneTime": true,
-    "monthlyDollars": 5,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "$5 one time",
     "createdAt": "2025-12-03T22:44:12Z",
