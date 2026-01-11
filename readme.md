@@ -17,13 +17,13 @@ Skills:                                                ／　　　　 |
   ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
   └─ Tools: Neovim, Cursor
 GitHub Stats:
-  ├─ Stars Earned: 5892
-  ├─ Commits (This Year): 86
-  ├─ Total PRs: 824
+  ├─ Stars Earned: 5894
+  ├─ Commits (This Year): 110
+  ├─ Total PRs: 828
   ├─ Total Issues: 351
   └─ Contributed to (Last Year): 18
 
-Rank: [ PROGRESS █████████ ] A
+Rank: [ PROGRESS █████████ ] A+
 ```
 
 <p align="center">
@@ -38,13 +38,13 @@ Rank: [ PROGRESS █████████ ] A
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4108</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2387</b>)<br>↳ <i>Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 139</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/lobehub/lobe-chat target=_blank>lobehub/lobe-chat</a> (<b>★ 69955</b>)<br>↳ <i>🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4108</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2388</b>)<br>↳ <i>Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 139</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/lobehub/lobe-chat target=_blank>lobehub/lobe-chat</a> (<b>★ 69986</b>)<br>↳ <i>🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/linear target=_blank>Innei/linear</a> (<a href=https://linear.innei.dev target=_blank>demo</a>) (<b>★ 19</b>)<br>↳ <i>A more user-friendly GitHub notification management tool (WIP)</i></li><li><a href=https://github.com/Innei/Pastel target=_blank>Innei/Pastel</a> (<a href=https://pastel.innei.dev target=_blank>demo</a>) (<b>★ 82</b>)<br>↳ <i>A comprehensive kawaii-inspired color system with OKLCH color space support, TypeScript definitions, and TailwindCSS v4 integration. Features a cute & kawaii aesthetic with soft, pastel tones.</i></li><li><a href=https://github.com/Innei/bump-version target=_blank>Innei/bump-version</a> (<b>★ 35</b>)<br>↳ <i>A more useful and easy-to-use bump version cli.</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/apple-uikit-colors target=_blank>Innei/apple-uikit-colors</a> (<b>★ 30</b>)<br>↳ <i>A cross-platform color system for React Native and React Native Web that provides iOS/macOS-style semantic colors with dark mode support</i></li><li><a href=https://github.com/Innei/Pastel target=_blank>Innei/Pastel</a> (<a href=https://pastel.innei.dev target=_blank>demo</a>) (<b>★ 82</b>)<br>↳ <i>A comprehensive kawaii-inspired color system with OKLCH color space support, TypeScript definitions, and TailwindCSS v4 integration. Features a cute & kawaii aesthetic with soft, pastel tones.</i></li><li><a href=https://github.com/Innei/bump-version target=_blank>Innei/bump-version</a> (<b>★ 35</b>)<br>↳ <i>A more useful and easy-to-use bump version cli.</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
@@ -57,7 +57,7 @@ Rank: [ PROGRESS █████████ ] A
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/github/spec-kit>github/spec-kit</a><span> 💫 Toolkit to help you get started with Spec-Driven Development</span></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe>Torrent-Vibe/Torrent-Vibe</a><span> Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</span></li><li><a href=https://github.com/panphora/overtype>panphora/overtype</a><span> The markdown editor that's just a textarea https://overtype.dev</span></li><li><a href=https://github.com/cosscom/coss>cosscom/coss</a><span> coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet.</span></li><li><a href=https://github.com/usesend/useSend>usesend/useSend</a><span> Open source alternative to Resend, Sendgrid, Postmark etc.</span></li></ul>
+          <ul><li><a href=https://github.com/Meridius-Labs/electron-liquid-glass>Meridius-Labs/electron-liquid-glass</a><span> ⚛️  Electron bindings for Apple Liquid Glass</span></li><li><a href=https://github.com/HoshinoSuzumi/chronoframe>HoshinoSuzumi/chronoframe</a><span> Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.</span></li><li><a href=https://github.com/promptfoo/promptfoo>promptfoo/promptfoo</a><span> Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.</span></li><li><a href=https://github.com/opactorai/Claudable>opactorai/Claudable</a><span> Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.</span></li><li><a href=https://github.com/intellectronica/ruler>intellectronica/ruler</a><span> Ruler — apply the same rules to all coding agents</span></li></ul>
       </details>
     </td>
   </tr>
@@ -79,6 +79,6 @@ Rank: [ PROGRESS █████████ ] A
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 1/10/26, 8:11 AM<br>Next refresh: 1/11/26, 8:11 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 1/11/26, 8:13 AM<br>Next refresh: 1/12/26, 8:13 AM</p>
   </samp>
 </p>
