@@ -18,8 +18,8 @@ Skills:                                                ／　　　　 |
   └─ Tools: Neovim, Cursor
 GitHub Stats:
   ├─ Stars Earned: 5903
-  ├─ Commits (This Year): 266
-  ├─ Total PRs: 851
+  ├─ Commits (This Year): 278
+  ├─ Total PRs: 854
   ├─ Total Issues: 352
   └─ Contributed to (Last Year): 18
 
@@ -38,13 +38,13 @@ Rank: [ PROGRESS █████████ ] A+
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4111</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2401</b>)<br>↳ <i>Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 142</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/lobehub/lobe-chat target=_blank>lobehub/lobe-chat</a> (<b>★ 70229</b>)<br>↳ <i>🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4111</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2402</b>)<br>↳ <i>Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 142</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/lobehub/lobe-chat target=_blank>lobehub/lobe-chat</a> (<b>★ 70252</b>)<br>↳ <i>🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/css-spring-generator target=_blank>Innei/css-spring-generator</a> (<a href=https://css-spring-generator.vercel.app target=_blank>demo</a>) (<b>★ 0</b>)</li><li><a href=https://github.com/Innei/ProcessReporter target=_blank>Innei/ProcessReporter</a> (<b>★ 23</b>)<br>↳ <i>A macOS application built with AppKit/Cocoa that monitors and reports real-time system activity.</i></li><li><a href=https://github.com/Innei/electron-ipc-decorator target=_blank>Innei/electron-ipc-decorator</a> (<b>★ 118</b>)<br>↳ <i>A TypeScript-first decorator library that simplifies Electron IPC communication with type safety and automatic proxy generation</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Pastel target=_blank>Innei/Pastel</a> (<a href=https://pastel.innei.dev target=_blank>demo</a>) (<b>★ 82</b>)<br>↳ <i>A comprehensive kawaii-inspired color system with OKLCH color space support, TypeScript definitions, and TailwindCSS v4 integration. Features a cute & kawaii aesthetic with soft, pastel tones.</i></li><li><a href=https://github.com/Innei/bump-version target=_blank>Innei/bump-version</a> (<b>★ 35</b>)<br>↳ <i>A more useful and easy-to-use bump version cli.</i></li><li><a href=https://github.com/Innei/linear target=_blank>Innei/linear</a> (<a href=https://linear.innei.dev target=_blank>demo</a>) (<b>★ 19</b>)<br>↳ <i>A more user-friendly GitHub notification management tool (WIP)</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
@@ -57,7 +57,7 @@ Rank: [ PROGRESS █████████ ] A+
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools>x1xhlol/system-prompts-and-models-of-ai-tools</a><span> FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models</span></li><li><a href=https://github.com/spiritLHLS/ecs>spiritLHLS/ecs</a><span> VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs</span></li><li><a href=https://github.com/usesend/useSend>usesend/useSend</a><span> Open source alternative to Resend, Sendgrid, Postmark etc.</span></li><li><a href=https://github.com/tw93/Mole>tw93/Mole</a><span> 🐹 Deep clean and optimize your Mac.</span></li><li><a href=https://github.com/coollabsio/coolify>coollabsio/coolify</a><span> An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.</span></li></ul>
+          <ul><li><a href=https://github.com/lbjlaq/Antigravity-Manager>lbjlaq/Antigravity-Manager</a><span> Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</span></li><li><a href=https://github.com/kepano/obsidian-skills>kepano/obsidian-skills</a><span> Agent skills for Obsidian</span></li><li><a href=https://github.com/coollabsio/coolify>coollabsio/coolify</a><span> An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.</span></li><li><a href=https://github.com/tambo-ai/tambo>tambo-ai/tambo</a><span> Generative UI SDK for React</span></li><li><a href=https://github.com/cosscom/coss>cosscom/coss</a><span> coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet.</span></li></ul>
       </details>
     </td>
   </tr>
@@ -79,6 +79,6 @@ Rank: [ PROGRESS █████████ ] A+
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 1/18/26, 8:13 AM<br>Next refresh: 1/19/26, 8:13 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 1/19/26, 8:12 AM<br>Next refresh: 1/20/26, 8:12 AM</p>
   </samp>
 </p>
