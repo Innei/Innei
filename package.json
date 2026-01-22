@@ -27,7 +27,7 @@
     "axios": "1.12.2",
     "dayjs": "1.11.18",
     "html-minifier": "4.0.0",
-    "lodash-es": "4.17.21",
+    "lodash-es": "4.17.23",
     "retry-axios": "3.2.1",
     "sponsorkit": "17.0.0",
     "typescript": "5.9.3"
