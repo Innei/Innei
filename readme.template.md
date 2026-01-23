@@ -13,9 +13,9 @@ Status: Digital Nomad                                  ／` ミ＿xノ
 Skills:                                                ／　　　　 |
   ├─ Langs: TypeScript, Swift                          (　 ヽ＿ヽ_)__)
   ├─ Frontend: React, Next.js                          ＼二 )
-  ├─ Backend: NestJS, Node.js, Prisma
+  ├─ Backend: NestJS, Node.js, Drizzle
   ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
-  └─ Tools: Neovim, Cursor
+  └─ Agent: Cursor, Claude Code, Codex
 GitHub Stats:
   ├─ Stars Earned: <!-- GH_STARS -->
   ├─ Commits (This Year): <!-- GH_COMMITS_THIS_YEAR -->
