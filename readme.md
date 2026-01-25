@@ -18,8 +18,8 @@ Skills:                                                ／　　　　 |
   └─ Agent: Cursor, Claude Code, Codex
 GitHub Stats:
   ├─ Stars Earned: 5906
-  ├─ Commits (This Year): 540
-  ├─ Total PRs: 887
+  ├─ Commits (This Year): 512
+  ├─ Total PRs: 893
   ├─ Total Issues: 353
   └─ Contributed to (Last Year): 18
 
@@ -38,13 +38,13 @@ Rank: [ PROGRESS ██████████] A+
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4114</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2410</b>)<br>↳ <i>Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 142</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/lobehub/lobe-chat target=_blank>lobehub/lobe-chat</a> (<b>★ 70446</b>)<br>↳ <i>🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4114</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2411</b>)<br>↳ <i>Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 142</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/lobehub/lobe-chat target=_blank>lobehub/lobe-chat</a> (<b>★ 70483</b>)<br>↳ <i>🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/linear target=_blank>Innei/linear</a> (<a href=https://linear.innei.dev target=_blank>demo</a>) (<b>★ 19</b>)<br>↳ <i>A more user-friendly GitHub notification management tool (WIP)</i></li><li><a href=https://github.com/Innei/bump-version target=_blank>Innei/bump-version</a> (<b>★ 35</b>)<br>↳ <i>A more useful and easy-to-use bump version cli.</i></li><li><a href=https://github.com/Innei/css-spring-generator target=_blank>Innei/css-spring-generator</a> (<a href=https://css-spring-generator.vercel.app target=_blank>demo</a>) (<b>★ 0</b>)</li></ul>
+          <ul><li><a href=https://github.com/Innei/exif-tools target=_blank>Innei/exif-tools</a> (<a href=https://exif-transfer.vercel.app target=_blank>demo</a>) (<b>★ 24</b>)<br>↳ <i>A modern web application for reading, editing, and transferring EXIF metadata between images.</i></li><li><a href=https://github.com/Innei/linear target=_blank>Innei/linear</a> (<a href=https://linear.innei.dev target=_blank>demo</a>) (<b>★ 19</b>)<br>↳ <i>A more user-friendly GitHub notification management tool (WIP)</i></li><li><a href=https://github.com/Innei/Pastel target=_blank>Innei/Pastel</a> (<a href=https://pastel.innei.dev target=_blank>demo</a>) (<b>★ 83</b>)<br>↳ <i>A comprehensive kawaii-inspired color system with OKLCH color space support, TypeScript definitions, and TailwindCSS v4 integration. Features a cute & kawaii aesthetic with soft, pastel tones.</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
@@ -57,7 +57,7 @@ Rank: [ PROGRESS ██████████] A+
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/wzhudev/reverse-linear-sync-engine>wzhudev/reverse-linear-sync-engine</a><span> A reverse engineering of Linear's sync engine. Endorsed by Tuomas.</span></li><li><a href=https://github.com/paper-design/shaders>paper-design/shaders</a><span> Zero-dependency canvas shaders that can be installed from npm or designed in Paper</span></li><li><a href=https://github.com/code-yeongyu/oh-my-opencode>code-yeongyu/oh-my-opencode</a><span> The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.</span></li><li><a href=https://github.com/cosscom/coss>cosscom/coss</a><span> coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet.</span></li><li><a href=https://github.com/exiftool/exiftool>exiftool/exiftool</a><span> ExifTool meta information reader/writer</span></li></ul>
+          <ul><li><a href=https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering>muratcankoylan/Agent-Skills-for-Context-Engineering</a><span> A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.</span></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe>Torrent-Vibe/Torrent-Vibe</a><span> Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</span></li><li><a href=https://github.com/tambo-ai/tambo>tambo-ai/tambo</a><span> Generative UI SDK for React</span></li><li><a href=https://github.com/pierrecomputer/pierre>pierrecomputer/pierre</a><span> pierre’s open source code</span></li><li><a href=https://github.com/nguyenphutrong/quotio>nguyenphutrong/quotio</a><span> Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.</span></li></ul>
       </details>
     </td>
   </tr>
@@ -79,6 +79,6 @@ Rank: [ PROGRESS ██████████] A+
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 1/24/26, 8:11 AM<br>Next refresh: 1/25/26, 8:11 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 1/25/26, 8:13 AM<br>Next refresh: 1/26/26, 8:13 AM</p>
   </samp>
 </p>
