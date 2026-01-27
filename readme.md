@@ -17,9 +17,9 @@ Skills:                                                ／　　　　 |
   ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
   └─ Agent: Cursor, Claude Code, Codex
 GitHub Stats:
-  ├─ Stars Earned: 5907
-  ├─ Commits (This Year): 546
-  ├─ Total PRs: 898
+  ├─ Stars Earned: 5910
+  ├─ Commits (This Year): 684
+  ├─ Total PRs: 902
   ├─ Total Issues: 353
   └─ Contributed to (Last Year): 18
 
@@ -38,13 +38,13 @@ Rank: [ PROGRESS ██████████] A+
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4114</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2412</b>)<br>↳ <i>Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 142</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/lobehub/lobe-chat target=_blank>lobehub/lobe-chat</a> (<b>★ 70505</b>)<br>↳ <i>🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4115</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2413</b>)<br>↳ <i>Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 142</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/lobehub/lobe-chat target=_blank>lobehub/lobe-chat</a> (<b>★ 70539</b>)<br>↳ <i>:exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/exif-tools target=_blank>Innei/exif-tools</a> (<a href=https://exif-transfer.vercel.app target=_blank>demo</a>) (<b>★ 24</b>)<br>↳ <i>A modern web application for reading, editing, and transferring EXIF metadata between images.</i></li><li><a href=https://github.com/Innei/linear target=_blank>Innei/linear</a> (<a href=https://linear.innei.dev target=_blank>demo</a>) (<b>★ 19</b>)<br>↳ <i>A more user-friendly GitHub notification management tool (WIP)</i></li><li><a href=https://github.com/Innei/electron-ipc-decorator target=_blank>Innei/electron-ipc-decorator</a> (<b>★ 119</b>)<br>↳ <i>A TypeScript-first decorator library that simplifies Electron IPC communication with type safety and automatic proxy generation</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/linear target=_blank>Innei/linear</a> (<a href=https://linear.innei.dev target=_blank>demo</a>) (<b>★ 19</b>)<br>↳ <i>A more user-friendly GitHub notification management tool (WIP)</i></li><li><a href=https://github.com/Innei/vite-plugin-route-builder target=_blank>Innei/vite-plugin-route-builder</a> (<b>★ 5</b>)</li><li><a href=https://github.com/Innei/exif-tools target=_blank>Innei/exif-tools</a> (<a href=https://exif-transfer.vercel.app target=_blank>demo</a>) (<b>★ 24</b>)<br>↳ <i>A modern web application for reading, editing, and transferring EXIF metadata between images.</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
@@ -57,7 +57,7 @@ Rank: [ PROGRESS ██████████] A+
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/HoshinoSuzumi/chronoframe>HoshinoSuzumi/chronoframe</a><span> Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.</span></li><li><a href=https://github.com/exiftool/exiftool>exiftool/exiftool</a><span> ExifTool meta information reader/writer</span></li><li><a href=https://github.com/github/spec-kit>github/spec-kit</a><span> 💫 Toolkit to help you get started with Spec-Driven Development</span></li><li><a href=https://github.com/pierrecomputer/pierre>pierrecomputer/pierre</a><span> pierre’s open source code</span></li><li><a href=https://github.com/usesend/useSend>usesend/useSend</a><span> Open source alternative to Resend, Sendgrid, Postmark etc.</span></li></ul>
+          <ul><li><a href=https://github.com/lbjlaq/Antigravity-Manager>lbjlaq/Antigravity-Manager</a><span> Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</span></li><li><a href=https://github.com/aidenybai/react-grab>aidenybai/react-grab</a><span> Select context for coding agents directly from your website</span></li><li><a href=https://github.com/exiftool/exiftool>exiftool/exiftool</a><span> ExifTool meta information reader/writer</span></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe>Torrent-Vibe/Torrent-Vibe</a><span> Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</span></li><li><a href=https://github.com/code-yeongyu/oh-my-opencode>code-yeongyu/oh-my-opencode</a><span> The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.</span></li></ul>
       </details>
     </td>
   </tr>
@@ -79,6 +79,6 @@ Rank: [ PROGRESS ██████████] A+
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 1/26/26, 8:13 AM<br>Next refresh: 1/27/26, 8:13 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 1/27/26, 8:13 AM<br>Next refresh: 1/28/26, 8:13 AM</p>
   </samp>
 </p>
