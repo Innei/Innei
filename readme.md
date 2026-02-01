@@ -18,8 +18,8 @@ Skills:                                                ／　　　　 |
   └─ Agent: Cursor, Claude Code, Codex
 GitHub Stats:
   ├─ Stars Earned: 5909
-  ├─ Commits (This Year): 830
-  ├─ Total PRs: 908
+  ├─ Commits (This Year): 905
+  ├─ Total PRs: 910
   ├─ Total Issues: 354
   └─ Contributed to (Last Year): 18
 
@@ -38,13 +38,13 @@ Rank: [ PROGRESS ██████████] A+
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4114</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2417</b>)<br>↳ <i>Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 142</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/lobehub/lobehub target=_blank>lobehub/lobehub</a> (<b>★ 71554</b>)<br>↳ <i>The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4114</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2417</b>)<br>↳ <i>Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 142</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/lobehub/lobehub target=_blank>lobehub/lobehub</a> (<b>★ 71755</b>)<br>↳ <i>The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/linear target=_blank>Innei/linear</a> (<a href=https://linear.innei.dev target=_blank>demo</a>) (<b>★ 19</b>)<br>↳ <i>A more user-friendly GitHub notification management tool (WIP)</i></li><li><a href=https://github.com/Innei/bump-version target=_blank>Innei/bump-version</a> (<b>★ 35</b>)<br>↳ <i>A more useful and easy-to-use bump version cli.</i></li><li><a href=https://github.com/Innei/Pastel target=_blank>Innei/Pastel</a> (<a href=https://pastel.innei.dev target=_blank>demo</a>) (<b>★ 83</b>)<br>↳ <i>A comprehensive kawaii-inspired color system with OKLCH color space support, TypeScript definitions, and TailwindCSS v4 integration. Features a cute & kawaii aesthetic with soft, pastel tones.</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/electron-ipc-decorator target=_blank>Innei/electron-ipc-decorator</a> (<b>★ 120</b>)<br>↳ <i>A TypeScript-first decorator library that simplifies Electron IPC communication with type safety and automatic proxy generation</i></li><li><a href=https://github.com/Innei/face-mask-web target=_blank>Innei/face-mask-web</a> (<a href=https://face-mask-web.vercel.app target=_blank>demo</a>) (<b>★ 19</b>)<br>↳ <i>An AI-based face detection and Emoji replacement web-app</i></li><li><a href=https://github.com/Innei/bump-version target=_blank>Innei/bump-version</a> (<b>★ 35</b>)<br>↳ <i>A more useful and easy-to-use bump version cli.</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
@@ -57,7 +57,7 @@ Rank: [ PROGRESS ██████████] A+
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/vercel-labs/agent-skills>vercel-labs/agent-skills</a><span> Vercel's official collection of agent skills</span></li><li><a href=https://github.com/vercel-labs/json-render>vercel-labs/json-render</a><span> AI → JSON → UI</span></li><li><a href=https://github.com/github/spec-kit>github/spec-kit</a><span> 💫 Toolkit to help you get started with Spec-Driven Development</span></li><li><a href=https://github.com/AndrewPrifer/progressive-blur>AndrewPrifer/progressive-blur</a><span> Drop-in progressive (gradient) backdrop blur for React</span></li><li><a href=https://github.com/Open-Dev-Society/OpenStock>Open-Dev-Society/OpenStock</a><span> OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.</span></li></ul>
+          <ul><li><a href=https://github.com/coollabsio/coolify>coollabsio/coolify</a><span> An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.</span></li><li><a href=https://github.com/exiftool/exiftool>exiftool/exiftool</a><span> ExifTool meta information reader/writer</span></li><li><a href=https://github.com/lbjlaq/Antigravity-Manager>lbjlaq/Antigravity-Manager</a><span> Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</span></li><li><a href=https://github.com/kepano/obsidian-skills>kepano/obsidian-skills</a><span> Agent skills for Obsidian</span></li><li><a href=https://github.com/tambo-ai/tambo>tambo-ai/tambo</a><span> Generative UI SDK for React</span></li></ul>
       </details>
     </td>
   </tr>
@@ -79,6 +79,6 @@ Rank: [ PROGRESS ██████████] A+
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 1/31/26, 8:14 AM<br>Next refresh: 2/1/26, 8:14 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 2/1/26, 8:16 AM<br>Next refresh: 2/2/26, 8:16 AM</p>
   </samp>
 </p>
