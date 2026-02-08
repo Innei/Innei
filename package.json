@@ -2,7 +2,7 @@
   "name": "innei",
   "private": true,
   "description": "Innei's profile",
-  "packageManager": "pnpm@10.18.0",
+  "packageManager": "pnpm@10.28.2",
   "type": "module",
   "scripts": {
     "dev": "tsx watch index.ts",
@@ -20,11 +20,11 @@
   },
   "homepage": "https://github.com/Innei/Innei#readme",
   "dependencies": {
-    "@mx-space/api-client": "1.17.0",
+    "@mx-space/api-client": "1.21.2",
     "@types/html-minifier": "4.0.5",
     "@types/lodash-es": "4.17.12",
-    "@types/node": "24.7.0",
-    "axios": "1.12.2",
+    "@types/node": "24.10.10",
+    "axios": "1.13.4",
     "dayjs": "1.11.18",
     "html-minifier": "4.0.0",
     "lodash-es": "4.17.23",
@@ -35,6 +35,6 @@
   "devDependencies": {
     "@types/markdown-it": "14.1.2",
     "markdown-it": "14.1.0",
-    "tsx": "4.20.6"
+    "tsx": "4.21.0"
   }
 }
