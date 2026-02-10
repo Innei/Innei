@@ -5,9 +5,9 @@ import { minify } from 'html-minifier'
 import { shuffle } from 'lodash-es'
 import MarkdownIt from 'markdown-it'
 import * as rax from 'retry-axios'
-import { github, motto, mxSpace, opensource, timeZone } from './config'
-import { COMMNETS } from './constants'
-import { GRepo } from './types'
+import { github, motto, mxSpace, opensource, timeZone } from './config.js'
+import { COMMNETS } from './constants.js'
+import type { GRepo } from './types.js'
 import {
   AggregateController,
   createClient,
@@ -22,6 +22,10 @@ const mxClient = createClient(axiosAdaptor)(mxSpace.api, {
 
 axiosAdaptor.default.interceptors.request.use((req) => {
   req.headers && (req.headers['User-Agent'] = 'Innei profile')
+  if (mxSpace.lang) {
+    req.params = { ...req.params, lang: mxSpace.lang }
+    req.headers['Accept-Language'] = mxSpace.lang
+  }
   return req
 })
 
