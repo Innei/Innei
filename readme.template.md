@@ -77,6 +77,10 @@ Rank: <!-- GH_RANK_NODE -->
   <a href="https://innei.in" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-232323?style=for-the-badge&logo=rss&logoColor=white" /></a>
 </p>
 
+<p align="right">
+  <img src="./innei-signature.svg" alt="innei" width="160" />
+</p>
+
 <p align="center">
   <samp>
     <!-- footer_inject -->
