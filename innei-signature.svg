@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg viewBox="0 0 270 105" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
-    @keyframes draw {
-      from { stroke-dashoffset: 1 }
-      to   { stroke-dashoffset: 0 }
+    @keyframes draw-loop {
+      0%, 6%    { stroke-dashoffset: 1.5 }
+      24%, 50%  { stroke-dashoffset: 0 }
+      72%, 100% { stroke-dashoffset: -1.5 }
     }
-    @keyframes dot-in {
-      0%   { stroke-dashoffset: 1; opacity: 0 }
-      50%  { opacity: 1 }
-      100% { stroke-dashoffset: 0; opacity: 1 }
+    @keyframes dot-loop-1 {
+      0%, 24%   { opacity: 0; stroke-dashoffset: 1 }
+      26%, 50%  { opacity: 1; stroke-dashoffset: 0 }
+      58%, 100% { opacity: 0; stroke-dashoffset: 1 }
+    }
+    @keyframes dot-loop-2 {
+      0%, 27%   { opacity: 0; stroke-dashoffset: 1 }
+      29%, 50%  { opacity: 1; stroke-dashoffset: 0 }
+      58%, 100% { opacity: 0; stroke-dashoffset: 1 }
     }
     .mask-stroke {
       stroke-dasharray: 1 2;
       stroke-dashoffset: 1;
-      animation: draw 0.9s cubic-bezier(0.35, 0, 0.15, 1) 0.3s forwards;
+      animation: draw-loop 5s cubic-bezier(0.35, 0, 0.15, 1) infinite;
     }
     .dot {
       stroke-dasharray: 1 2;
       stroke-dashoffset: 1;
       opacity: 0;
     }
-    .dot-1 {
-      animation: dot-in 0.1s ease-out 1.2s forwards;
-    }
-    .dot-2 {
-      animation: dot-in 0.1s ease-out 1.35s forwards;
-    }
+    .dot-1 { animation: dot-loop-1 5s ease-out infinite }
+    .dot-2 { animation: dot-loop-2 5s ease-out infinite }
   </style>
 
   <defs>
