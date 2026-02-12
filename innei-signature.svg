@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg viewBox="0 0 270 105" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
+    /* Light: dark stroke on light background */
+    svg { color: #111; }
+    @media (prefers-color-scheme: dark) {
+      svg { color: #e5e5e5; }
+    }
+
     @keyframes draw-loop {
       0%, 6%    { stroke-dashoffset: 1.5 }
       24%, 50%  { stroke-dashoffset: 0 }
