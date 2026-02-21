@@ -17,9 +17,9 @@ Skills:                                                ／　　　　 |
   ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
   └─ Agent: Cursor, Claude Code, Codex
 GitHub Stats:
-  ├─ Stars Earned: 5963
-  ├─ Commits (This Year): 1515
-  ├─ Total PRs: 971
+  ├─ Stars Earned: 5965
+  ├─ Commits (This Year): 1572
+  ├─ Total PRs: 973
   ├─ Total Issues: 354
   └─ Contributed to (Last Year): 18
 
@@ -38,13 +38,13 @@ Rank: [ PROGRESS ██████████] S
       <details open>
         <summary>What I'm Hacking On</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4133</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2426</b>)<br>↳ <i>Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 146</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/lobehub/lobehub target=_blank>lobehub/lobehub</a> (<b>★ 72402</b>)<br>↳ <i>The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4135</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2428</b>)<br>↳ <i>Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 146</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/lobehub/lobehub target=_blank>lobehub/lobehub</a> (<b>★ 72429</b>)<br>↳ <i>The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.</i></li></ul>
       </details>
       <br />
       <details>
         <summary>Side Projects & Toys</summary>
         <br />
-          <ul><li><a href=https://github.com/Innei/electron-ipc-decorator target=_blank>Innei/electron-ipc-decorator</a> (<b>★ 123</b>)<br>↳ <i>A TypeScript-first decorator library that simplifies Electron IPC communication with type safety and automatic proxy generation</i></li><li><a href=https://github.com/Innei/css-spring-generator target=_blank>Innei/css-spring-generator</a> (<a href=https://css-spring-generator.vercel.app target=_blank>demo</a>) (<b>★ 0</b>)</li><li><a href=https://github.com/Innei/bump-version target=_blank>Innei/bump-version</a> (<b>★ 35</b>)<br>↳ <i>A more useful and easy-to-use bump version cli.</i></li></ul>
+          <ul><li><a href=https://github.com/Innei/apple-uikit-colors target=_blank>Innei/apple-uikit-colors</a> (<b>★ 30</b>)<br>↳ <i>A cross-platform color system for React Native and React Native Web that provides iOS/macOS-style semantic colors with dark mode support</i></li><li><a href=https://github.com/Innei/ProcessReporter target=_blank>Innei/ProcessReporter</a> (<b>★ 25</b>)<br>↳ <i>A macOS application built with AppKit/Cocoa that monitors and reports real-time system activity.</i></li><li><a href=https://github.com/Innei/exif-tools target=_blank>Innei/exif-tools</a> (<a href=https://exif-transfer.vercel.app target=_blank>demo</a>) (<b>★ 24</b>)<br>↳ <i>A modern web application for reading, editing, and transferring EXIF metadata between images.</i></li></ul>
       </details>
     </td>
     <td valign="top" width="50%">
@@ -57,7 +57,7 @@ Rank: [ PROGRESS ██████████] S
       <details>
         <summary>Recent Discovery</summary>
         <br />
-          <ul><li><a href=https://github.com/nguyenphutrong/quotio>nguyenphutrong/quotio</a><span> Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.</span></li><li><a href=https://github.com/code-yeongyu/oh-my-opencode>code-yeongyu/oh-my-opencode</a><span> the best agent harness</span></li><li><a href=https://github.com/tambo-ai/tambo>tambo-ai/tambo</a><span> Generative UI SDK for React</span></li><li><a href=https://github.com/github/spec-kit>github/spec-kit</a><span> 💫 Toolkit to help you get started with Spec-Driven Development</span></li><li><a href=https://github.com/Open-Dev-Society/OpenStock>Open-Dev-Society/OpenStock</a><span> OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.</span></li></ul>
+          <ul><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe>Torrent-Vibe/Torrent-Vibe</a><span> Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</span></li><li><a href=https://github.com/cosscom/coss>cosscom/coss</a><span> coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet.</span></li><li><a href=https://github.com/aidenybai/react-grab>aidenybai/react-grab</a><span> Select context for coding agents directly from your website</span></li><li><a href=https://github.com/Open-Dev-Society/OpenStock>Open-Dev-Society/OpenStock</a><span> OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.</span></li><li><a href=https://github.com/paper-design/shaders>paper-design/shaders</a><span> Zero-dependency canvas shaders that can be installed from npm or designed in Paper</span></li></ul>
       </details>
     </td>
   </tr>
@@ -83,6 +83,6 @@ Rank: [ PROGRESS ██████████] S
 
 <p align="center">
   <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 2/20/26, 8:14 AM<br>Next refresh: 2/21/26, 8:14 AM</p>
+    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 2/21/26, 8:15 AM<br>Next refresh: 2/22/26, 8:15 AM</p>
   </samp>
 </p>
