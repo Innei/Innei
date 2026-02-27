@@ -1,13 +1,9 @@
 import axios from 'axios'
-import dayjs from 'dayjs'
 import { readFile, rm, writeFile } from 'fs/promises'
-import { minify } from 'html-minifier'
-import { shuffle } from 'lodash-es'
 import MarkdownIt from 'markdown-it'
 import * as rax from 'retry-axios'
 import { github, motto, mxSpace, opensource, timeZone } from './config.js'
 import { COMMNETS } from './constants.js'
-import type { GRepo } from './types.js'
 import {
   AggregateController,
   createClient,
@@ -75,87 +71,29 @@ type GHItem = {
   homepage?: string
 }
 
-type PostItem = {
-  title: string
-  summary: string
-  created: string
-  modified: string
-  id: string
-  slug: string
-  category: {
-    name: string
-    slug: string
-  }
-}
-/**
- * 生成 `开源在` 结构
- */
-function generateOpenSourceSectionHtml<T extends GHItem>(list: T[]) {
-  const lis = list.reduce(
-    (str, cur) =>
-      str +
-      `<li><a href="${cur.html_url}" target="_blank">${
-        cur.full_name
-      }</a> (<b>★ ${cur.stargazers_count || 0}</b>) ${
-        cur.description ? `<br/>↳ <i>${cur.description}</i>` : ''
-      }</li>`,
-    ``,
-  )
-
-  return m`<ul>${lis}</ul>`
+function generateOpenSourceMarkdown<T extends GHItem>(list: T[]) {
+  return list
+    .map(
+      (cur) =>
+        `- **[${cur.full_name}](${cur.html_url})** — ${cur.description || ''} ★${cur.stargazers_count || 0}`,
+    )
+    .join('\n')
 }
 
-/**
- * 生成 `写过的玩具` 结构
- */
-
-function generateToysHTML(list: GRepo[]) {
-  const lis = list.reduce(
-    (str, cur) =>
-      str +
-      `<li><a href="${cur.html_url}" target="_blank">${cur.full_name}</a> ${
-        (cur as any).homepage
-          ? `(<a href="${(cur as any).homepage}" target="_blank">demo</a>)`
-          : ''
-      } (<b>★ ${(cur as any).stargazers_count || 0}</b>) ${
-        (cur as any).description
-          ? `<br/>↳ <i>${(cur as any).description}</i>`
-          : ''
-      }</li>`,
-    ``,
-  )
-  return m`<ul>${lis}</ul>`
-}
-
-/**
- * 生成 Repo  HTML 结构
- */
-
-function generateRepoHTML<T extends GHItem>(item: T) {
-  return `<li><a href="${item.html_url}">${item.full_name}</a>${
-    item.description ? `<span>  ${item.description}</span>` : ''
-  }</li>`
-}
-
-function generatePostItemHTML<T extends Partial<PostModel>>(item: T) {
-  return m`<li><span><a href="${
-    mxSpace.url + '/posts/' + item.category.slug + '/' + item.slug
-  }">${item.title}</a></span> - ${new Date(item.created).toLocaleDateString(
-    undefined,
-    {
-      dateStyle: 'short',
-      timeZone,
-    },
-  )}</li>`
-}
-
-function generateNoteItemHTML<T extends Partial<NoteModel>>(item: T) {
-  return m`<li><span><a href="${mxSpace.url + '/notes/' + item.nid}">${
-    item.title
-  }</a></span> - ${new Date(item.created).toLocaleDateString(undefined, {
+function generatePostItemMarkdown<T extends Partial<PostModel>>(item: T) {
+  const date = new Date(item.created).toLocaleDateString(undefined, {
     dateStyle: 'short',
     timeZone,
-  })}</li>`
+  })
+  return `- [${item.title}](${mxSpace.url}/posts/${item.category.slug}/${item.slug}) — ${date}`
+}
+
+function generateNoteItemMarkdown<T extends Partial<NoteModel>>(item: T) {
+  const date = new Date(item.created).toLocaleDateString(undefined, {
+    dateStyle: 'short',
+    timeZone,
+  })
+  return `- [${item.title}](${mxSpace.url}/notes/${item.nid}) — ${date}`
 }
 
 async function getTotalStars(username: string): Promise<number> {
@@ -203,34 +141,6 @@ async function getTotalIssues(username: string): Promise<number> {
     `/search/issues?q=is:issue+author:${username}`,
   )
   return res.data.total_count
-}
-
-// Contribs
-async function getContributedRepos(username: string): Promise<number> {
-  const lastYear = new Date().getFullYear() - 1
-  const repos = new Set<string>()
-  let page = 1
-  // eslint-disable-next-line no-constant-condition
-  while (true) {
-    try {
-      const res = await gh.get<{ items: { repository_url: string }[] }>(
-        `/search/issues?q=is:pr+author:${username}+-user:${username}+created:${lastYear}-01-01..${lastYear}-12-31&per_page=100&page=${page}`,
-      )
-      if (res.data.items.length === 0) {
-        break
-      }
-      res.data.items.forEach((item) => {
-        repos.add(item.repository_url)
-      })
-      if (res.data.items.length < 100) {
-        break
-      }
-      page++
-    } catch {
-      break
-    }
-  }
-  return repos.size
 }
 
 async function getFollowers(username: string): Promise<number> {
@@ -379,32 +289,19 @@ function calculateRank({
 async function main() {
   const template = await readFile('./readme.template.md', { encoding: 'utf-8' })
   let newContent = template
-  // 获取活跃的开源项目详情
-  const activeOpenSourceDetail: GRepo[] = await Promise.all(
-    opensource.active.map((name) => {
-      return gh.get('/repos/' + name).then((data) => data.data)
-    }),
+
+  const activeOpenSourceDetail: GHItem[] = await Promise.all(
+    opensource.active.map((name) =>
+      gh.get('/repos/' + name).then((data) => data.data),
+    ),
   )
 
-  // 获取写过的玩具开源项目详情
-  const limit = opensource.toys.limit
-  const toys = opensource.toys.random
-    ? shuffle(opensource.toys.repos).slice(0, limit)
-    : opensource.toys.repos.slice(0, limit)
-  const toysProjectDetail: GRepo[] = await Promise.all(
-    toys.map((name) => {
-      return gh.get('/repos/' + name).then((data) => data.data)
-    }),
-  )
-
-  // Github Stats
-  const [stars, commits, prs, issues, contribs, followers, reviews, repos] =
+  const [stars, commits, prs, issues, followers, reviews, repos] =
     await Promise.all([
       getTotalStars(github.name),
       getTotalCommits(github.name),
       getTotalPRs(github.name),
       getTotalIssues(github.name),
-      getContributedRepos(github.name),
       getFollowers(github.name),
       getTotalReviews(github.name),
       getTotalRepos(github.name),
@@ -421,117 +318,35 @@ async function main() {
     followers,
   })
 
-  newContent = newContent
-    .replace(gc('GH_STARS'), stars.toString())
-    .replace(gc('GH_COMMITS_THIS_YEAR'), commits.toString())
-    .replace(gc('GH_PRS'), prs.toString())
-    .replace(gc('GH_ISSUES'), issues.toString())
-    .replace(gc('GH_CONTRIBS'), contribs.toString())
-    .replace(
-      gc('GH_RANK_NODE'),
-      `[ PROGRESS ${'█'.repeat(
-        Math.round((100 - rank.percentile) / 10),
-      )}${' '.repeat(10 - Math.round((100 - rank.percentile) / 10))}] ${
-        rank.level
-      }`,
-    )
+  newContent = newContent.replace(
+    gc('GH_RANK_NODE'),
+    `${'█'.repeat(Math.round((100 - rank.percentile) / 10))} ${rank.level}`,
+  )
 
-  newContent = newContent
-    .replace(
-      gc('OPENSOURCE_DASHBOARD_ACTIVE'),
-      generateOpenSourceSectionHtml(activeOpenSourceDetail),
-    )
-    .replace(gc('OPENSOURCE_TOYS'), generateToysHTML(toysProjectDetail))
+  newContent = newContent.replace(
+    gc('OPENSOURCE_DASHBOARD_ACTIVE'),
+    generateOpenSourceMarkdown(activeOpenSourceDetail),
+  )
 
-  // 获取 Star
-  const star: any[] = await gh
-    .get('/users/' + github.name + '/starred')
+  const posts = await mxClient.aggregate
+    .getTimeline()
     .then((data) => data.data)
+    .then((data) => {
+      const sorted = [
+        ...data.posts.map((i) => ({ ...i, type: 'Post' as const })),
+        ...data.notes.map((i) => ({ ...i, type: 'Note' as const })),
+      ].sort((b, a) => +new Date(a.created) - +new Date(b.created))
+      return sorted
+        .slice(0, 5)
+        .map((cur) =>
+          cur.type === 'Note'
+            ? generateNoteItemMarkdown(cur)
+            : generatePostItemMarkdown(cur),
+        )
+        .join('\n')
+    })
 
-  {
-    // TOP 5
-    const topStar5 = star
-      .slice(0, 5)
-      .reduce((str, cur) => str + generateRepoHTML(cur), '')
-
-    newContent = newContent.replace(
-      gc('RECENT_STAR'),
-      m`
-    <ul>
-${topStar5}
-    </ul>
-    `,
-    )
-
-    // 曾经点过的 Star
-    const random = shuffle(star.slice(5))
-      .slice(0, 5)
-      .reduce((str, cur) => str + generateRepoHTML(cur), '')
-
-    newContent = newContent.replace(
-      gc('RANDOM_GITHUB_STARS'),
-      m`
-      <ul>
-  ${random}
-      </ul>
-      `,
-    )
-  }
-
-  {
-    const posts = await mxClient.aggregate
-      .getTimeline()
-      .then((data) => data.data)
-      .then((data) => {
-        const posts = data.posts
-        const notes = data.notes
-        const sorted = [
-          ...posts.map((i) => ({ ...i, type: 'Post' as const })),
-          ...notes.map((i) => ({ ...i, type: 'Note' as const })),
-        ].sort((b, a) => +new Date(a.created) - +new Date(b.created))
-        return sorted.slice(0, 5).reduce((acc, cur) => {
-          if (cur.type === 'Note') {
-            return acc.concat(generateNoteItemHTML(cur))
-          } else {
-            return acc.concat(generatePostItemHTML(cur))
-          }
-        }, '')
-      })
-
-    newContent = newContent.replace(
-      gc('RECENT_POSTS'),
-      m`
-      <ul>
-  ${posts}
-      </ul>
-      `,
-    )
-  }
-
-  // 注入 FOOTER
-  {
-    const now = new Date()
-    const next = dayjs().add(24, 'h').toDate()
-
-    newContent = newContent.replace(
-      gc('FOOTER'),
-      m`
-    <p align="center">This <i>README</i> <b>refreshes every 24 hours</b> automatically!
-    </br>
-    Refreshed at: ${now.toLocaleString(undefined, {
-      timeStyle: 'short',
-      dateStyle: 'short',
-      timeZone,
-    })}
-    <br/>
-    Next refresh: ${next.toLocaleString(undefined, {
-      timeStyle: 'short',
-      dateStyle: 'short',
-      timeZone,
-    })}</p>
-    `,
-    )
-  }
+  newContent = newContent.replace(gc('RECENT_POSTS'), posts)
 
   newContent = newContent.replace(gc('MOTTO'), motto)
   await rm('./readme.md', { force: true })
@@ -543,16 +358,6 @@ ${topStar5}
 
 function gc(token: keyof typeof COMMNETS) {
   return `<!-- ${COMMNETS[token]} -->`
-}
-
-function m(html: TemplateStringsArray, ...args: any[]) {
-  const str = html.reduce((s, h, i) => s + h + (args[i] ?? ''), '')
-  return minify(str, {
-    removeAttributeQuotes: true,
-    removeEmptyAttributes: true,
-    removeTagWhitespace: true,
-    collapseWhitespace: true,
-  }).trim()
 }
 
 main()
