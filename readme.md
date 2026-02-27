@@ -1,29 +1,13 @@
 ```bash
-$ cat /etc/passwd | grep innei
-> A creative developer who is passionate about open source and building beautiful things.
-> Digital Nomad. Design engineer. AI Commander.
+$ whoami
+innei — design engineer · digital nomad
+building beautiful things with code
 
-$ neofetch
+$ echo $STACK
+TypeScript · React · Next.js · NestJS · Swift
 
-innei@github
-───────────
-OS: macOS, Arch, Ubuntu                                   ／＞　 フ
-Bio: Creative Dev, Open Source Enthusiast                | 　_　_|
-Status: Digital Nomad                                  ／` ミ＿xノ
-Skills:                                                ／　　　　 |
-  ├─ Langs: TypeScript, Swift                          (　 ヽ＿ヽ_)__)
-  ├─ Frontend: React, Next.js                          ＼二 )
-  ├─ Backend: NestJS, Node.js, Drizzle
-  ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
-  └─ Agent: Cursor, Claude Code, Codex
-GitHub Stats:
-  ├─ Stars Earned: 5955
-  ├─ Commits (This Year): 1176
-  ├─ Total PRs: 948
-  ├─ Total Issues: 354
-  └─ Contributed to (Last Year): 18
-
-Rank: [ PROGRESS ██████████] S
+$ rank
+██████████ S
 ```
 
 <p align="center">
@@ -32,36 +16,20 @@ Rank: [ PROGRESS ██████████] S
 
 <br />
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <details open>
-        <summary>What I'm Hacking On</summary>
-        <br />
-          <ul><li><a href=https://github.com/Innei/Shiro target=_blank>Innei/Shiro</a> (<b>★ 4129</b>)<br>↳ <i>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</i></li><li><a href=https://github.com/Afilmory/afilmory target=_blank>Afilmory/afilmory</a> (<b>★ 2427</b>)<br>↳ <i>Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.</i></li><li><a href=https://github.com/Torrent-Vibe/Torrent-Vibe target=_blank>Torrent-Vibe/Torrent-Vibe</a> (<b>★ 142</b>)<br>↳ <i>Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility.</i></li><li><a href=https://github.com/lobehub/lobehub target=_blank>lobehub/lobehub</a> (<b>★ 72244</b>)<br>↳ <i>The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.</i></li></ul>
-      </details>
-      <br />
-      <details>
-        <summary>Side Projects & Toys</summary>
-        <br />
-          <ul><li><a href=https://github.com/Innei/bump-version target=_blank>Innei/bump-version</a> (<b>★ 35</b>)<br>↳ <i>A more useful and easy-to-use bump version cli.</i></li><li><a href=https://github.com/Innei/css-spring-generator target=_blank>Innei/css-spring-generator</a> (<a href=https://css-spring-generator.vercel.app target=_blank>demo</a>) (<b>★ 0</b>)</li><li><a href=https://github.com/Innei/linear target=_blank>Innei/linear</a> (<a href=https://linear.innei.dev target=_blank>demo</a>) (<b>★ 19</b>)<br>↳ <i>A more user-friendly GitHub notification management tool (WIP)</i></li></ul>
-      </details>
-    </td>
-    <td valign="top" width="50%">
-      <details open>
-        <summary>Recent Posts</summary>
-        <br />
-          <ul><li><span><a href=https://innei.in/notes/206>Just Working: Work and Life in the AI Era</a></span> - 1/26/26</li><li><span><a href=https://innei.in/posts/tech/lobehub-performance-dx-optimization>Performance and DX Optimization of LobeHub</a></span> - 1/13/26</li><li><span><a href=https://innei.in/posts/tech/how-to-use-ai-for-assisted-creation>How I Use AI to Assist in Content Creation</a></span> - 12/28/25</li><li><span><a href=https://innei.in/notes/205>2025 · Still on the Road, Beyond the Radius</a></span> - 12/27/25</li><li><span><a href=https://innei.in/notes/204>Seeking Survival in Stability</a></span> - 12/14/25</li></ul>
-      </details>
-      <br />
-      <details>
-        <summary>Recent Discovery</summary>
-        <br />
-          <ul><li><a href=https://github.com/nguyenphutrong/quotio>nguyenphutrong/quotio</a><span> Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.</span></li><li><a href=https://github.com/paper-design/shaders>paper-design/shaders</a><span> Zero-dependency canvas shaders that can be installed from npm or designed in Paper</span></li><li><a href=https://github.com/aidenybai/react-grab>aidenybai/react-grab</a><span> Select context for coding agents directly from your website</span></li><li><a href=https://github.com/lbjlaq/Antigravity-Manager>lbjlaq/Antigravity-Manager</a><span> Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</span></li><li><a href=https://github.com/vercel-labs/agent-skills>vercel-labs/agent-skills</a><span> Vercel's official collection of agent skills</span></li></ul>
-      </details>
-    </td>
-  </tr>
-</table>
+### Featured Work
+
+- **[Innei/Shiro](https://github.com/Innei/Shiro)** — 📜 A minimalist personal website embodying the purity of paper and freshness of snow. ★4138
+- **[Afilmory/afilmory](https://github.com/Afilmory/afilmory)** — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. ★2434
+- **[Torrent-Vibe/Torrent-Vibe](https://github.com/Torrent-Vibe/Torrent-Vibe)** — Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility. ★147
+- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. ★72714
+
+### Recent Writing
+
+- [Memories of Spring Festival When the Festive Atmosphere Was Fading](https://innei.in/notes/207) — 2/17/26
+- [Just Working: Work and Life in the AI Era](https://innei.in/notes/206) — 1/26/26
+- [Performance and DX Optimization at LobeHub](https://innei.in/posts/tech/lobehub-performance-dx-optimization) — 1/13/26
+- [How I Use AI to Assist in Content Creation](https://innei.in/posts/tech/how-to-use-ai-for-assisted-creation) — 12/28/25
+- [2025 · Still on the Road, Beyond the Radius](https://innei.in/notes/205) — 12/27/25
 
 <br />
 
@@ -72,17 +40,11 @@ Rank: [ PROGRESS ██████████] S
 </p>
 
 <p align="center">
-  <a href="https://github.com/innei" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://twitter.com/__oQuery" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://innei.in" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-232323?style=for-the-badge&logo=rss&logoColor=white" /></a>
+  <a href="https://github.com/innei">GitHub</a> ·
+  <a href="https://twitter.com/__oQuery">Twitter</a> ·
+  <a href="https://innei.in">Blog</a>
 </p>
 
 <p align="right">
   <img src="./innei-signature.svg" alt="innei" width="160" />
-</p>
-
-<p align="center">
-  <samp>
-    <p align=center>This <i>README</i> <b>refreshes every 24 hours</b> automatically!<br>Refreshed at: 2/12/26, 5:09 PM<br>Next refresh: 2/13/26, 5:09 PM</p>
-  </samp>
 </p>

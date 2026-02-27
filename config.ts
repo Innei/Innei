@@ -4,28 +4,7 @@ export const opensource = {
     'Afilmory/Afilmory',
     'Torrent-Vibe/Torrent-Vibe',
     'lobehub/lobe-chat',
-    // "mx-space/kami",
-    // 'Innei/book-ssg-template',
-
-    // 'Innei/bump-version',
-    // "Innei/nvim-config-lua",
   ],
-  toys: {
-    limit: 3,
-    random: true,
-    repos: [
-      'Innei/exif-tools',
-      'Innei/vite-plugin-route-builder',
-      'Innei/electron-ipc-decorator',
-      'Innei/Pastel',
-      'Innei/ProcessReporter',
-      'Innei/apple-uikit-colors',
-      'Innei/bump-version',
-      'Innei/css-spring-generator',
-      'Innei/linear',
-      'Innei/face-mask-web',
-    ],
-  },
 }
 export const motto = `<strong>お可愛いこと。</strong>`
 export const github = {
