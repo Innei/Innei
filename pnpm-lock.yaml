@@ -33,8 +33,8 @@ importers:
         specifier: 4.17.23
         version: 4.17.23
       retry-axios:
-        specifier: 3.2.1
-        version: 3.2.1(axios@1.12.2)
+        specifier: 4.0.1
+        version: 4.0.1(axios@1.12.2)
       sponsorkit:
         specifier: 17.0.0
         version: 17.0.0
@@ -583,9 +583,9 @@ packages:
   resolve-pkg-maps@1.0.0:
     resolution: {integrity: sha512-seS2Tj26TBVOC2NIc2rOe2y2ZO7efxITtLZcGSOnHHNOQ7CkiUBfw0Iw2ck6xkIhPwLhKNLS8BO+hEpngQlqzw==}
 
-  retry-axios@3.2.1:
-    resolution: {integrity: sha512-WoIVswbInbTzGPBo+s+8afMMbZHQX72hWvqdq9QeNJDC+6vXhUaoTt+/ZV+/yVmbPBCklinuq4sG0ZTzLMcQqQ==}
-    engines: {node: '>=18'}
+  retry-axios@4.0.1:
+    resolution: {integrity: sha512-IRU9UJ9P7BzW2tWGHT026I3GePfYQaJ6QAkC8QK1tum1BZyQ3LNeKihXKuqhv0eWaxJinXQ0PhfIX0aIj0b8Rw==}
+    engines: {node: '>=20'}
     peerDependencies:
       axios: '*'
 
@@ -1072,7 +1072,7 @@ snapshots:
 
   resolve-pkg-maps@1.0.0: {}
 
-  retry-axios@3.2.1(axios@1.12.2):
+  retry-axios@4.0.1(axios@1.12.2):
     dependencies:
       axios: 1.12.2
 
