@@ -8,19 +8,22 @@
     }
 
     @keyframes draw-loop {
-      0%, 6%    { stroke-dashoffset: 1.5 }
-      24%, 50%  { stroke-dashoffset: 0 }
-      72%, 100% { stroke-dashoffset: -1.5 }
+      0%, 10%   { stroke-dashoffset: 1.5 }
+      30%, 90%  { stroke-dashoffset: 0 }
+      97%       { stroke-dashoffset: -0.7 }
+      100%      { stroke-dashoffset: -1.5 }
     }
     @keyframes dot-loop-1 {
-      0%, 24%   { opacity: 0; stroke-dashoffset: 1 }
-      26%, 50%  { opacity: 1; stroke-dashoffset: 0 }
-      58%, 100% { opacity: 0; stroke-dashoffset: 1 }
+      0%, 30%   { opacity: 0; stroke-dashoffset: 1 }
+      32%, 90%  { opacity: 1; stroke-dashoffset: 0 }
+      98%       { opacity: 0.2; stroke-dashoffset: 0.6 }
+      100%      { opacity: 0; stroke-dashoffset: 1 }
     }
     @keyframes dot-loop-2 {
-      0%, 27%   { opacity: 0; stroke-dashoffset: 1 }
-      29%, 50%  { opacity: 1; stroke-dashoffset: 0 }
-      58%, 100% { opacity: 0; stroke-dashoffset: 1 }
+      0%, 33%   { opacity: 0; stroke-dashoffset: 1 }
+      35%, 90%  { opacity: 1; stroke-dashoffset: 0 }
+      98%       { opacity: 0.2; stroke-dashoffset: 0.6 }
+      100%      { opacity: 0; stroke-dashoffset: 1 }
     }
     .mask-stroke {
       stroke-dasharray: 1 2;
