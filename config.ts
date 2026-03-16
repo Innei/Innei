@@ -1,12 +1,13 @@
 export const opensource = {
   active: [
     'Innei/Shiro',
+    'Innei/Yohaku',
     'Afilmory/Afilmory',
     'Torrent-Vibe/Torrent-Vibe',
     'lobehub/lobe-chat',
   ],
 }
-export const motto = `<strong>お可愛いこと。</strong>`
+export const motto = `<strong>Ich bin bereit, zu sterben, bereit, wieder geboren zu werden.</strong>`
 export const github = {
   name: 'Innei',
 }
