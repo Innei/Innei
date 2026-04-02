@@ -30,8 +30,8 @@ importers:
         specifier: 4.0.0
         version: 4.0.0
       lodash-es:
-        specifier: 4.17.23
-        version: 4.17.23
+        specifier: 4.18.1
+        version: 4.18.1
       retry-axios:
         specifier: 3.2.1
         version: 3.2.1(axios@1.12.2)
@@ -529,8 +529,8 @@ packages:
   linkify-it@5.0.0:
     resolution: {integrity: sha512-5aHCbzQRADcdP+ATqnDuhhJ/MRIqDkZX5pyjFHRRysS8vZ5AbqGEoFIb6pYHPZ+L/OC2Lc+xT8uHVVR5CAK/wQ==}
 
-  lodash-es@4.17.23:
-    resolution: {integrity: sha512-kVI48u3PZr38HdYz98UmfPnXl2DXrpdctLrFLCd3kOx1xUkOmpFPx7gCWWM5MPkL/fD8zb+Ph0QzjGFs4+hHWg==}
+  lodash-es@4.18.1:
+    resolution: {integrity: sha512-J8xewKD/Gk22OZbhpOVSwcs60zhd95ESDwezOFuA3/099925PdHJ7OFHNTGtajL3AlZkykD32HykiMo+BIBI8A==}
 
   lower-case@1.1.4:
     resolution: {integrity: sha512-2Fgx1Ycm599x+WGpIYwJOvsjmXFzTSc34IwDWALRA/8AopUKAVPwfJ+h5+f85BCp0PWmmJcWzEpxOpoXycMpdA==}
@@ -1023,7 +1023,7 @@ snapshots:
     dependencies:
       uc.micro: 2.1.0
 
-  lodash-es@4.17.23: {}
+  lodash-es@4.18.1: {}
 
   lower-case@1.1.4: {}
 
