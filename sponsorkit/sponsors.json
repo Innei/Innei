@@ -96124,11 +96124,11 @@
         ]
       }
     },
-    "monthlyDollars": -1,
+    "monthlyDollars": 12.307692307692308,
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2024-04-29T16:45:15.000Z",
-    "expireAt": "2025-06-06T11:39:24.000Z",
+    "expireAt": "2026-05-05T13:21:47.000Z",
     "isOneTime": true,
     "provider": "afdian",
     "raw": {
@@ -96139,11 +96139,11 @@
           "rank": 1,
           "user_id": "e97ad8460df611eab74952540025c377",
           "status": 3,
-          "name": "Shiroi Paid",
+          "name": "Shiroi / Yohaku",
           "pic": "",
           "desc": "",
           "price": "80.00",
-          "update_time": 1746617964,
+          "update_time": 1775395307,
           "timing": {
             "timing_on": 0,
             "timing_off": 0,
@@ -96158,7 +96158,7 @@
           "favorable_price": -1,
           "independent": 0,
           "permanent": 0,
-          "can_buy_hide": 0,
+          "can_buy_hide": 1,
           "need_address": 0,
           "product_type": 1,
           "sale_limit_count": -1,
@@ -96203,11 +96203,11 @@
         "rank": 1,
         "user_id": "e97ad8460df611eab74952540025c377",
         "status": 3,
-        "name": "Shiroi Paid",
+        "name": "Shiroi / Yohaku",
         "pic": "",
         "desc": "",
         "price": "80.00",
-        "update_time": 1746617964,
+        "update_time": 1775395307,
         "timing": {
           "timing_on": 0,
           "timing_off": 0,
@@ -96222,7 +96222,7 @@
         "favorable_price": -1,
         "independent": 0,
         "permanent": 0,
-        "can_buy_hide": 0,
+        "can_buy_hide": 1,
         "need_address": 0,
         "product_type": 1,
         "sale_limit_count": -1,
@@ -96245,7 +96245,7 @@
           "create_time": 0,
           "update_time": 0
         },
-        "expire_time": 1749209964,
+        "expire_time": 1777987307,
         "sku_processed": [
           {
             "sku_id": "f50bbf50f95011ee84b552540025c377",
@@ -133988,11 +133988,11 @@
         ]
       }
     },
-    "monthlyDollars": -1,
+    "monthlyDollars": 12.307692307692308,
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2024-09-16T18:18:29.000Z",
-    "expireAt": "2025-06-06T11:39:24.000Z",
+    "expireAt": "2026-05-05T13:21:47.000Z",
     "isOneTime": true,
     "provider": "afdian",
     "raw": {
@@ -134003,11 +134003,11 @@
           "rank": 1,
           "user_id": "e97ad8460df611eab74952540025c377",
           "status": 3,
-          "name": "Shiroi Paid",
+          "name": "Shiroi / Yohaku",
           "pic": "",
           "desc": "",
           "price": "80.00",
-          "update_time": 1746617964,
+          "update_time": 1775395307,
           "timing": {
             "timing_on": 0,
             "timing_off": 0,
@@ -134022,7 +134022,7 @@
           "favorable_price": -1,
           "independent": 0,
           "permanent": 0,
-          "can_buy_hide": 0,
+          "can_buy_hide": 1,
           "need_address": 0,
           "product_type": 1,
           "sale_limit_count": -1,
@@ -134067,11 +134067,11 @@
         "rank": 1,
         "user_id": "e97ad8460df611eab74952540025c377",
         "status": 3,
-        "name": "Shiroi Paid",
+        "name": "Shiroi / Yohaku",
         "pic": "",
         "desc": "",
         "price": "80.00",
-        "update_time": 1746617964,
+        "update_time": 1775395307,
         "timing": {
           "timing_on": 0,
           "timing_off": 0,
@@ -134086,7 +134086,7 @@
         "favorable_price": -1,
         "independent": 0,
         "permanent": 0,
-        "can_buy_hide": 0,
+        "can_buy_hide": 1,
         "need_address": 0,
         "product_type": 1,
         "sale_limit_count": -1,
@@ -134109,7 +134109,7 @@
           "create_time": 0,
           "update_time": 0
         },
-        "expire_time": 1749209964,
+        "expire_time": 1777987307,
         "sku_processed": [
           {
             "sku_id": "f50bbf50f95011ee84b552540025c377",
@@ -153050,11 +153050,11 @@
         ]
       }
     },
-    "monthlyDollars": -1,
+    "monthlyDollars": 12.307692307692308,
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2024-10-14T05:35:54.000Z",
-    "expireAt": "2025-06-06T11:39:24.000Z",
+    "expireAt": "2026-05-05T13:21:47.000Z",
     "isOneTime": true,
     "provider": "afdian",
     "raw": {
@@ -153065,11 +153065,11 @@
           "rank": 1,
           "user_id": "e97ad8460df611eab74952540025c377",
           "status": 3,
-          "name": "Shiroi Paid",
+          "name": "Shiroi / Yohaku",
           "pic": "",
           "desc": "",
           "price": "80.00",
-          "update_time": 1746617964,
+          "update_time": 1775395307,
           "timing": {
             "timing_on": 0,
             "timing_off": 0,
@@ -153084,7 +153084,7 @@
           "favorable_price": -1,
           "independent": 0,
           "permanent": 0,
-          "can_buy_hide": 0,
+          "can_buy_hide": 1,
           "need_address": 0,
           "product_type": 1,
           "sale_limit_count": -1,
@@ -153129,11 +153129,11 @@
         "rank": 1,
         "user_id": "e97ad8460df611eab74952540025c377",
         "status": 3,
-        "name": "Shiroi Paid",
+        "name": "Shiroi / Yohaku",
         "pic": "",
         "desc": "",
         "price": "80.00",
-        "update_time": 1746617964,
+        "update_time": 1775395307,
         "timing": {
           "timing_on": 0,
           "timing_off": 0,
@@ -153148,7 +153148,7 @@
         "favorable_price": -1,
         "independent": 0,
         "permanent": 0,
-        "can_buy_hide": 0,
+        "can_buy_hide": 1,
         "need_address": 0,
         "product_type": 1,
         "sale_limit_count": -1,
@@ -153171,7 +153171,7 @@
           "create_time": 0,
           "update_time": 0
         },
-        "expire_time": 1749209964,
+        "expire_time": 1777987307,
         "sku_processed": [
           {
             "sku_id": "f50bbf50f95011ee84b552540025c377",
@@ -168377,11 +168377,11 @@
         ]
       }
     },
-    "monthlyDollars": -1,
+    "monthlyDollars": 12.307692307692308,
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2024-11-02T06:26:45.000Z",
-    "expireAt": "2025-06-06T11:39:24.000Z",
+    "expireAt": "2026-05-05T13:21:47.000Z",
     "isOneTime": true,
     "provider": "afdian",
     "raw": {
@@ -168392,11 +168392,11 @@
           "rank": 1,
           "user_id": "e97ad8460df611eab74952540025c377",
           "status": 3,
-          "name": "Shiroi Paid",
+          "name": "Shiroi / Yohaku",
           "pic": "",
           "desc": "",
           "price": "80.00",
-          "update_time": 1746617964,
+          "update_time": 1775395307,
           "timing": {
             "timing_on": 0,
             "timing_off": 0,
@@ -168411,7 +168411,7 @@
           "favorable_price": -1,
           "independent": 0,
           "permanent": 0,
-          "can_buy_hide": 0,
+          "can_buy_hide": 1,
           "need_address": 0,
           "product_type": 1,
           "sale_limit_count": -1,
@@ -168456,11 +168456,11 @@
         "rank": 1,
         "user_id": "e97ad8460df611eab74952540025c377",
         "status": 3,
-        "name": "Shiroi Paid",
+        "name": "Shiroi / Yohaku",
         "pic": "",
         "desc": "",
         "price": "80.00",
-        "update_time": 1746617964,
+        "update_time": 1775395307,
         "timing": {
           "timing_on": 0,
           "timing_off": 0,
@@ -168475,7 +168475,7 @@
         "favorable_price": -1,
         "independent": 0,
         "permanent": 0,
-        "can_buy_hide": 0,
+        "can_buy_hide": 1,
         "need_address": 0,
         "product_type": 1,
         "sale_limit_count": -1,
@@ -168498,7 +168498,7 @@
           "create_time": 0,
           "update_time": 0
         },
-        "expire_time": 1749209964,
+        "expire_time": 1777987307,
         "sku_processed": [
           {
             "sku_id": "f50bbf50f95011ee84b552540025c377",
@@ -190283,11 +190283,11 @@
         ]
       }
     },
-    "monthlyDollars": -1,
+    "monthlyDollars": 12.307692307692308,
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2024-12-09T01:44:22.000Z",
-    "expireAt": "2025-06-06T11:39:24.000Z",
+    "expireAt": "2026-05-05T13:21:47.000Z",
     "isOneTime": true,
     "provider": "afdian",
     "raw": {
@@ -190298,11 +190298,11 @@
           "rank": 1,
           "user_id": "e97ad8460df611eab74952540025c377",
           "status": 3,
-          "name": "Shiroi Paid",
+          "name": "Shiroi / Yohaku",
           "pic": "",
           "desc": "",
           "price": "80.00",
-          "update_time": 1746617964,
+          "update_time": 1775395307,
           "timing": {
             "timing_on": 0,
             "timing_off": 0,
@@ -190317,7 +190317,7 @@
           "favorable_price": -1,
           "independent": 0,
           "permanent": 0,
-          "can_buy_hide": 0,
+          "can_buy_hide": 1,
           "need_address": 0,
           "product_type": 1,
           "sale_limit_count": -1,
@@ -190362,11 +190362,11 @@
         "rank": 1,
         "user_id": "e97ad8460df611eab74952540025c377",
         "status": 3,
-        "name": "Shiroi Paid",
+        "name": "Shiroi / Yohaku",
         "pic": "",
         "desc": "",
         "price": "80.00",
-        "update_time": 1746617964,
+        "update_time": 1775395307,
         "timing": {
           "timing_on": 0,
           "timing_off": 0,
@@ -190381,7 +190381,7 @@
         "favorable_price": -1,
         "independent": 0,
         "permanent": 0,
-        "can_buy_hide": 0,
+        "can_buy_hide": 1,
         "need_address": 0,
         "product_type": 1,
         "sale_limit_count": -1,
@@ -190404,7 +190404,7 @@
           "create_time": 0,
           "update_time": 0
         },
-        "expire_time": 1749209964,
+        "expire_time": 1777987307,
         "sku_processed": [
           {
             "sku_id": "f50bbf50f95011ee84b552540025c377",
@@ -231224,11 +231224,11 @@
         ]
       }
     },
-    "monthlyDollars": -1,
+    "monthlyDollars": 12.307692307692308,
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2025-01-28T18:26:35.000Z",
-    "expireAt": "2025-06-06T11:39:24.000Z",
+    "expireAt": "2026-05-05T13:21:47.000Z",
     "isOneTime": true,
     "provider": "afdian",
     "raw": {
@@ -231239,11 +231239,11 @@
           "rank": 1,
           "user_id": "e97ad8460df611eab74952540025c377",
           "status": 3,
-          "name": "Shiroi Paid",
+          "name": "Shiroi / Yohaku",
           "pic": "",
           "desc": "",
           "price": "80.00",
-          "update_time": 1746617964,
+          "update_time": 1775395307,
           "timing": {
             "timing_on": 0,
             "timing_off": 0,
@@ -231258,7 +231258,7 @@
           "favorable_price": -1,
           "independent": 0,
           "permanent": 0,
-          "can_buy_hide": 0,
+          "can_buy_hide": 1,
           "need_address": 0,
           "product_type": 1,
           "sale_limit_count": -1,
@@ -231303,11 +231303,11 @@
         "rank": 1,
         "user_id": "e97ad8460df611eab74952540025c377",
         "status": 3,
-        "name": "Shiroi Paid",
+        "name": "Shiroi / Yohaku",
         "pic": "",
         "desc": "",
         "price": "80.00",
-        "update_time": 1746617964,
+        "update_time": 1775395307,
         "timing": {
           "timing_on": 0,
           "timing_off": 0,
@@ -231322,7 +231322,7 @@
         "favorable_price": -1,
         "independent": 0,
         "permanent": 0,
-        "can_buy_hide": 0,
+        "can_buy_hide": 1,
         "need_address": 0,
         "product_type": 1,
         "sale_limit_count": -1,
@@ -231345,7 +231345,7 @@
           "create_time": 0,
           "update_time": 0
         },
-        "expire_time": 1749209964,
+        "expire_time": 1777987307,
         "sku_processed": [
           {
             "sku_id": "f50bbf50f95011ee84b552540025c377",
@@ -248766,11 +248766,11 @@
         ]
       }
     },
-    "monthlyDollars": -1,
+    "monthlyDollars": 12.307692307692308,
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2025-03-06T12:59:34.000Z",
-    "expireAt": "2025-06-06T11:39:24.000Z",
+    "expireAt": "2026-05-05T13:21:47.000Z",
     "isOneTime": true,
     "provider": "afdian",
     "raw": {
@@ -248781,11 +248781,11 @@
           "rank": 1,
           "user_id": "e97ad8460df611eab74952540025c377",
           "status": 3,
-          "name": "Shiroi Paid",
+          "name": "Shiroi / Yohaku",
           "pic": "",
           "desc": "",
           "price": "80.00",
-          "update_time": 1746617964,
+          "update_time": 1775395307,
           "timing": {
             "timing_on": 0,
             "timing_off": 0,
@@ -248800,7 +248800,7 @@
           "favorable_price": -1,
           "independent": 0,
           "permanent": 0,
-          "can_buy_hide": 0,
+          "can_buy_hide": 1,
           "need_address": 0,
           "product_type": 1,
           "sale_limit_count": -1,
@@ -248845,11 +248845,11 @@
         "rank": 1,
         "user_id": "e97ad8460df611eab74952540025c377",
         "status": 3,
-        "name": "Shiroi Paid",
+        "name": "Shiroi / Yohaku",
         "pic": "",
         "desc": "",
         "price": "80.00",
-        "update_time": 1746617964,
+        "update_time": 1775395307,
         "timing": {
           "timing_on": 0,
           "timing_off": 0,
@@ -248864,7 +248864,7 @@
         "favorable_price": -1,
         "independent": 0,
         "permanent": 0,
-        "can_buy_hide": 0,
+        "can_buy_hide": 1,
         "need_address": 0,
         "product_type": 1,
         "sale_limit_count": -1,
@@ -248887,7 +248887,7 @@
           "create_time": 0,
           "update_time": 0
         },
-        "expire_time": 1749209964,
+        "expire_time": 1777987307,
         "sku_processed": [
           {
             "sku_id": "f50bbf50f95011ee84b552540025c377",
@@ -271878,11 +271878,11 @@
         ]
       }
     },
-    "monthlyDollars": -1,
+    "monthlyDollars": 12.307692307692308,
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2025-04-02T05:56:17.000Z",
-    "expireAt": "2025-06-06T11:39:24.000Z",
+    "expireAt": "2026-05-05T13:21:47.000Z",
     "isOneTime": true,
     "provider": "afdian",
     "raw": {
@@ -271893,11 +271893,11 @@
           "rank": 1,
           "user_id": "e97ad8460df611eab74952540025c377",
           "status": 3,
-          "name": "Shiroi Paid",
+          "name": "Shiroi / Yohaku",
           "pic": "",
           "desc": "",
           "price": "80.00",
-          "update_time": 1746617964,
+          "update_time": 1775395307,
           "timing": {
             "timing_on": 0,
             "timing_off": 0,
@@ -271912,7 +271912,7 @@
           "favorable_price": -1,
           "independent": 0,
           "permanent": 0,
-          "can_buy_hide": 0,
+          "can_buy_hide": 1,
           "need_address": 0,
           "product_type": 1,
           "sale_limit_count": -1,
@@ -271957,11 +271957,11 @@
         "rank": 1,
         "user_id": "e97ad8460df611eab74952540025c377",
         "status": 3,
-        "name": "Shiroi Paid",
+        "name": "Shiroi / Yohaku",
         "pic": "",
         "desc": "",
         "price": "80.00",
-        "update_time": 1746617964,
+        "update_time": 1775395307,
         "timing": {
           "timing_on": 0,
           "timing_off": 0,
@@ -271976,7 +271976,7 @@
         "favorable_price": -1,
         "independent": 0,
         "permanent": 0,
-        "can_buy_hide": 0,
+        "can_buy_hide": 1,
         "need_address": 0,
         "product_type": 1,
         "sale_limit_count": -1,
@@ -271999,7 +271999,7 @@
           "create_time": 0,
           "update_time": 0
         },
-        "expire_time": 1749209964,
+        "expire_time": 1777987307,
         "sku_processed": [
           {
             "sku_id": "f50bbf50f95011ee84b552540025c377",
