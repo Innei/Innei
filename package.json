@@ -2,7 +2,7 @@
   "name": "innei",
   "private": true,
   "description": "Innei's profile",
-  "packageManager": "pnpm@10.18.0",
+  "packageManager": "pnpm@11.0.0",
   "type": "module",
   "scripts": {
     "dev": "tsx watch index.ts",
