@@ -18,19 +18,19 @@ $ rank
 
 ### Featured Work
 
-- **[Innei/Shiro](https://github.com/Innei/Shiro)** — 📜 A minimalist personal website embodying the purity of paper and freshness of snow. ★4174
+- **[Innei/Shiro](https://github.com/Innei/Shiro)** — 📜 A minimalist personal website embodying the purity of paper and freshness of snow. ★4175
 - **[Innei/Yohaku](https://github.com/Innei/Yohaku)** — 余白 / Yohaku — A typographic design system for written content. One accent, three neutral tiers, the rest is whitespace. ★71
 - **[Afilmory/afilmory](https://github.com/Afilmory/afilmory)** — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. ★2490
 - **[Torrent-Vibe/Torrent-Vibe](https://github.com/Torrent-Vibe/Torrent-Vibe)** — Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility. ★150
-- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. ★75797
+- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. ★75808
 
 ### Recent Writing
 
+- [AI Is Devouring Our Patience](https://innei.in/posts/experience/ai-is-eating-our-patience) — 4/29/26
 - [A Child Who Never Grew Up](https://innei.in/notes/212) — 4/20/26
 - [Tech Blogging, Document-Driven Development, and Brainstorming in the Age of AI](https://innei.in/posts/experience/ai-era-tech-blogging-document-driven-development-and-brainstorming) — 4/18/26
 - [26y: Health, Changes in the AI Industry, and Personal Reflection](https://innei.in/notes/211) — 4/6/26
 - [Wrinkles in Monotony](https://innei.in/notes/210) — 3/22/26
-- [Refactoring in the AI Era: From RFC to Five Plans](https://innei.in/posts/programming/ai-era-refactoring-from-rfc-to-five-plans) — 3/10/26
 
 <br />
 
