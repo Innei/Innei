@@ -18,11 +18,11 @@ $ rank
 
 ### Featured Work
 
-- **[Innei/Shiro](https://github.com/Innei/Shiro)** — 📜 A minimalist personal website embodying the purity of paper and freshness of snow. ★4177
-- **[Innei/Yohaku](https://github.com/Innei/Yohaku)** — 余白 / Yohaku — A typographic design system for written content. One accent, three neutral tiers, the rest is whitespace. ★74
-- **[Afilmory/afilmory](https://github.com/Afilmory/afilmory)** — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. ★2492
+- **[Innei/Shiro](https://github.com/Innei/Shiro)** — 📜 A minimalist personal website embodying the purity of paper and freshness of snow. ★4178
+- **[Innei/Yohaku](https://github.com/Innei/Yohaku)** — 余白 / Yohaku — A typographic design system for written content. One accent, three neutral tiers, the rest is whitespace. ★75
+- **[Afilmory/afilmory](https://github.com/Afilmory/afilmory)** — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. ★2495
 - **[Torrent-Vibe/Torrent-Vibe](https://github.com/Torrent-Vibe/Torrent-Vibe)** — Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility. ★150
-- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. ★75853
+- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. ★75897
 
 ### Recent Writing
 
