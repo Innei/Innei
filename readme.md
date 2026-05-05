@@ -18,19 +18,19 @@ $ rank
 
 ### Featured Work
 
-- **[Innei/Shiro](https://github.com/Innei/Shiro)** — 📜 A minimalist personal website embodying the purity of paper and freshness of snow. ★4182
+- **[Innei/Shiro](https://github.com/Innei/Shiro)** — 📜 A minimalist personal website embodying the purity of paper and freshness of snow. ★4185
 - **[Innei/Yohaku](https://github.com/Innei/Yohaku)** — 余白 / Yohaku — A typographic design system for written content. One accent, three neutral tiers, the rest is whitespace. ★76
 - **[Afilmory/afilmory](https://github.com/Afilmory/afilmory)** — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. ★2499
 - **[Torrent-Vibe/Torrent-Vibe](https://github.com/Torrent-Vibe/Torrent-Vibe)** — Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility. ★150
-- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. ★75986
+- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. ★76027
 
 ### Recent Writing
 
-- [AI Is Devouring Our Patience](https://innei.in/posts/experience/ai-is-eating-our-patience) — 4/29/26
-- [A Child Who Never Grew Up](https://innei.in/notes/212) — 4/20/26
-- [Tech Blogging, Document-Driven Development, and Brainstorming in the Age of AI](https://innei.in/posts/experience/ai-era-tech-blogging-document-driven-development-and-brainstorming) — 4/18/26
-- [26y: Health, Changes in the AI Industry, and Personal Reflection](https://innei.in/notes/211) — 4/6/26
-- [Wrinkles in Monotony](https://innei.in/notes/210) — 3/22/26
+- [How to Configure zsh](https://innei.in/posts/archieve/zshrc) — Invalid Date
+- [An Experience of Using HTTPS with SSL Certificate but Still Not Getting the Green Lock](https://innei.in/posts/archieve/sslcerinto) — Invalid Date
+- [Add Hitokoto to Your Blog](https://innei.in/posts/archieve/mikko) — Invalid Date
+- [Using Image Hosting Services to Save Space for GP](https://innei.in/posts/archieve/使用sm-ms图床-为GP节省空间) — Invalid Date
+- [What is WindowServer and Why Is It Using So Much System Resource?](https://innei.in/posts/archieve/why-winserver) — Invalid Date
 
 <br />
 
