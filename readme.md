@@ -18,19 +18,19 @@ $ rank
 
 ### Featured Work
 
-- **[Innei/Shiro](https://github.com/Innei/Shiro)** — 📜 A minimalist personal website embodying the purity of paper and freshness of snow. ★4192
-- **[Innei/Yohaku](https://github.com/Innei/Yohaku)** — 余白 / Yohaku — A typographic design system for written content. One accent, three neutral tiers, the rest is whitespace. ★93
+- **[Innei/Shiro](https://github.com/Innei/Shiro)** — 📜 A minimalist personal website embodying the purity of paper and freshness of snow. ★4191
+- **[Innei/Yohaku](https://github.com/Innei/Yohaku)** — 余白 / Yohaku — A typographic design system for written content. One accent, three neutral tiers, the rest is whitespace. ★95
 - **[Afilmory/afilmory](https://github.com/Afilmory/afilmory)** — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. ★2509
 - **[Torrent-Vibe/Torrent-Vibe](https://github.com/Torrent-Vibe/Torrent-Vibe)** — Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility. ★152
-- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. ★77276
+- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. ★77340
 
 ### Recent Writing
 
-- [How to Configure zsh](https://innei.in/posts/archieve/zshrc) — Invalid Date
-- [An Experience of Using HTTPS with SSL Certificate but Still Not Getting the Green Lock](https://innei.in/posts/archieve/sslcerinto) — Invalid Date
-- [Add Hitokoto to Your Blog](https://innei.in/posts/archieve/mikko) — Invalid Date
-- [Using Image Hosting Services to Save Space for GP](https://innei.in/posts/archieve/使用sm-ms图床-为GP节省空间) — Invalid Date
-- [What is WindowServer and Why Is It Using So Much System Resource?](https://innei.in/posts/archieve/why-winserver) — Invalid Date
+- [Several Design Choices of @mx-space/cli — Services, View Contracts, Lexical TUI, and Symmetric I/O](https://innei.in/posts/tech/mxs-cli-architecture-design-choices) — 5/19/26
+- [An Agent's Log: End-to-End AWS VLESS + Surge Deployment](https://innei.in/posts/experience/aws-vless-surge-full-chain-deployment-agent-log) — 5/16/26
+- [Canary Traffic Splitting for Dual Frontends on Dokploy: An AI Agent's Postmortem](https://innei.in/posts/experience/dokploy-dual-frontend-grayscale-traffic-splitting-ai-agent-troubleshooting) — 5/16/26
+- [Why We Decided to Observe Remix First — A Gray Release Proposal from the Executor](https://innei.in/posts/tinkering/why-observe-remix-first-grayscale-proposal-from-executive-body) — 5/14/26
+- [Migrating from Next.js to React Router Framework Mode: A Complete Record from an AI Agent's Perspective](https://innei.in/posts/tinkering/migrating-nextjs-to-react-router-framework-mode-ai-agent-perspective) — 5/12/26
 
 <br />
 
