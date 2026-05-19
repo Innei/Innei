@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@mx-space/api-client':
-        specifier: 2.0.0
-        version: 2.0.0
+        specifier: 5.0.1
+        version: 5.0.1
       '@types/html-minifier':
         specifier: 4.0.5
         version: 4.0.5
@@ -353,8 +353,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@mx-space/api-client@2.0.0':
-    resolution: {integrity: sha512-TfqM3UIAdxts8oGQXYcNNF9l4KpRUeEUARCidheYRCOU1FfJcJUwCuco9X1Ii1Dha3F3oJXMSKx0J/bZ5Aicag==}
+  '@mx-space/api-client@5.0.1':
+    resolution: {integrity: sha512-hqldrQ/GMgiAgp3k3J8enR7/q+RyfblZSIZ2zE0u11itxpRl4xaCb7TINSuCohfAE5AkjUMVlG1TkF6Z53bQ/w==}
     engines: {node: '>=22'}
 
   '@quansync/fs@0.1.5':
@@ -577,6 +577,9 @@ packages:
   ofetch@1.4.1:
     resolution: {integrity: sha512-QZj2DfGplQAr2oj9KzceK9Hwz6Whxazmn85yYeVuS3u9XTMOGMRx0kO95MQ+vLsj/S/NwBDMMLU5hpxvI6Tklw==}
 
+  optimist@0.3.7:
+    resolution: {integrity: sha512-TCx0dXQzVtSCg2OgY/bO9hjM9cV4XYx09TVK+s3+FhkjT6LovsLe+pPMzpWf+6yXK/hUizs2gUoTw3jHM0VaTQ==}
+
   param-case@2.1.1:
     resolution: {integrity: sha512-eQE845L6ot89sk2N8liD8HAuH4ca6Vvr7VWAWwt7+kvvG5aBcPmmphQ68JsEG2qa9n1TykS2DLeMt363AAH8/w==}
 
@@ -590,6 +593,11 @@ packages:
 
   quansync@0.2.11:
     resolution: {integrity: sha512-AifT7QEbW9Nri4tAwR5M/uzpBuqfZf+zwaEM/QkzEjj7NBuFD2rBuy0K3dE+8wltbezDV7JMA0WfnCPYRSYbXA==}
+
+  rebuild@0.1.2:
+    resolution: {integrity: sha512-EtDZ5IapND57htCrOOcfH7MzXCQKivzSZUIZIuc8H0xDHfmi9HDBZIyjT7Neh5GcUoxQ6hfsXluC+UrYLgGbZg==}
+    engines: {node: '>=0.8.8'}
+    hasBin: true
 
   relateurl@0.2.7:
     resolution: {integrity: sha512-G08Dxvm4iDN3MLM0EsP62EDV9IuhXPR6blNz6Utcp7zyV3tr4HVNINt6MpaRWbxoOHT3Q7YN2P+jaHX8vUbgog==}
@@ -653,6 +661,10 @@ packages:
 
   upper-case@1.1.3:
     resolution: {integrity: sha512-WRbjgmYzgXkCV7zNVpy5YgrHgbBv126rMALQQMrmzOVC4GM2waQ9x7xtm8VU+1yF2kWyPzI9zbZ48n4vSxwfSA==}
+
+  wordwrap@0.0.3:
+    resolution: {integrity: sha512-1tMA907+V4QmxV7dbRvb4/8MaRALK6q9Abid3ndMYnbyo8piisCmeONVqVSXqQA3KaP4SLt5b7ud6E2sqP8TFw==}
+    engines: {node: '>=0.4.0'}
 
 snapshots:
 
@@ -827,7 +839,9 @@ snapshots:
   '@img/sharp-win32-x64@0.34.4':
     optional: true
 
-  '@mx-space/api-client@2.0.0': {}
+  '@mx-space/api-client@5.0.1':
+    dependencies:
+      rebuild: 0.1.2
 
   '@quansync/fs@0.1.5':
     dependencies:
@@ -1073,6 +1087,10 @@ snapshots:
       node-fetch-native: 1.6.7
       ufo: 1.6.1
 
+  optimist@0.3.7:
+    dependencies:
+      wordwrap: 0.0.3
+
   param-case@2.1.1:
     dependencies:
       no-case: 2.3.2
@@ -1082,6 +1100,10 @@ snapshots:
   punycode.js@2.3.1: {}
 
   quansync@0.2.11: {}
+
+  rebuild@0.1.2:
+    dependencies:
+      optimist: 0.3.7
 
   relateurl@0.2.7: {}
 
@@ -1162,3 +1184,5 @@ snapshots:
   undici-types@7.14.0: {}
 
   upper-case@1.1.3: {}
+
+  wordwrap@0.0.3: {}
