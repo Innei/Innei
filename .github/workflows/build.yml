@@ -38,6 +38,8 @@ jobs:
       - name: Build project
         run: |
           npm run build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Update Sponsor
         run: |
           npx sponsorkit
