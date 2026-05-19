@@ -81,7 +81,7 @@ function generateOpenSourceMarkdown<T extends GHItem>(list: T[]) {
 }
 
 function generatePostItemMarkdown<T extends Partial<PostModel>>(item: T) {
-  const date = new Date(item.created).toLocaleDateString(undefined, {
+  const date = new Date(item.createdAt).toLocaleDateString(undefined, {
     dateStyle: 'short',
     timeZone,
   })
@@ -89,7 +89,7 @@ function generatePostItemMarkdown<T extends Partial<PostModel>>(item: T) {
 }
 
 function generateNoteItemMarkdown<T extends Partial<NoteModel>>(item: T) {
-  const date = new Date(item.created).toLocaleDateString(undefined, {
+  const date = new Date(item.createdAt).toLocaleDateString(undefined, {
     dateStyle: 'short',
     timeZone,
   })
@@ -330,12 +330,11 @@ async function main() {
 
   const posts = await mxClient.aggregate
     .getTimeline()
-    .then((data) => data.data)
     .then((data) => {
       const sorted = [
-        ...data.posts.map((i) => ({ ...i, type: 'Post' as const })),
-        ...data.notes.map((i) => ({ ...i, type: 'Note' as const })),
-      ].sort((b, a) => +new Date(a.created) - +new Date(b.created))
+        ...(data.posts ?? []).map((i) => ({ ...i, type: 'Post' as const })),
+        ...(data.notes ?? []).map((i) => ({ ...i, type: 'Note' as const })),
+      ].sort((b, a) => +new Date(a.createdAt) - +new Date(b.createdAt))
       return sorted
         .slice(0, 5)
         .map((cur) =>
