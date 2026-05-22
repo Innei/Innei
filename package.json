@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Innei/Innei#readme",
   "dependencies": {
-    "@mx-space/api-client": "5.0.1",
+    "@mx-space/api-client": "5.0.2-next.10",
     "@types/html-minifier": "4.0.5",
     "@types/lodash-es": "4.17.12",
     "@types/node": "24.7.0",
