@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@mx-space/api-client':
-        specifier: 5.0.1
-        version: 5.0.1
+        specifier: 5.0.2-next.10
+        version: 5.0.2-next.10
       '@types/html-minifier':
         specifier: 4.0.5
         version: 4.0.5
@@ -353,8 +353,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@mx-space/api-client@5.0.1':
-    resolution: {integrity: sha512-hqldrQ/GMgiAgp3k3J8enR7/q+RyfblZSIZ2zE0u11itxpRl4xaCb7TINSuCohfAE5AkjUMVlG1TkF6Z53bQ/w==}
+  '@mx-space/api-client@5.0.2-next.10':
+    resolution: {integrity: sha512-KcOaDuwCaWBh9Qbvs/nIciMzF2TrbEW7BP+LaOiRTsLII+fWUgvmfvIZn+0mgHCiCBR4OEPOeWYDlybxIoocqw==}
     engines: {node: '>=22'}
 
   '@quansync/fs@0.1.5':
@@ -839,7 +839,7 @@ snapshots:
   '@img/sharp-win32-x64@0.34.4':
     optional: true
 
-  '@mx-space/api-client@5.0.1':
+  '@mx-space/api-client@5.0.2-next.10':
     dependencies:
       rebuild: 0.1.2
 
