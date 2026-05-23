@@ -2,7 +2,7 @@
   "name": "innei",
   "private": true,
   "description": "Innei's profile",
-  "packageManager": "pnpm@11.0.0",
+  "packageManager": "pnpm@11.2.1",
   "type": "module",
   "scripts": {
     "dev": "tsx watch index.ts",
@@ -23,18 +23,18 @@
     "@mx-space/api-client": "5.0.2-next.10",
     "@types/html-minifier": "4.0.5",
     "@types/lodash-es": "4.17.12",
-    "@types/node": "24.7.0",
-    "axios": "1.15.2",
+    "@types/node": "24.12.4",
+    "axios": "1.16.1",
     "dayjs": "1.11.18",
     "html-minifier": "4.0.0",
     "lodash-es": "4.18.1",
     "retry-axios": "3.2.1",
-    "sponsorkit": "17.0.0",
+    "sponsorkit": "17.1.1",
     "typescript": "5.9.3"
   },
   "devDependencies": {
     "@types/markdown-it": "14.1.2",
     "markdown-it": "14.1.0",
-    "tsx": "4.20.6"
+    "tsx": "4.22.3"
   }
 }
