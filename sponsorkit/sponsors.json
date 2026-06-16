@@ -583930,7 +583930,7 @@
       }
     },
     "isOneTime": true,
-    "monthlyDollars": 15,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "$15 one time",
     "createdAt": "2026-05-15T16:41:40Z",
