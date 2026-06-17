@@ -19,18 +19,18 @@ $ rank
 ### Featured Work
 
 - **[Innei/Shiro](https://github.com/Innei/Shiro)** — 📜 A minimalist personal website embodying the purity of paper and freshness of snow. ★4207
-- **[Innei/Yohaku](https://github.com/Innei/Yohaku)** — 余白 / Yohaku — A typographic design system for written content. One accent, three neutral tiers, the rest is whitespace. ★117
+- **[Innei/Yohaku](https://github.com/Innei/Yohaku)** — 余白 / Yohaku — A typographic design system for written content. One accent, three neutral tiers, the rest is whitespace. ★118
 - **[Afilmory/afilmory](https://github.com/Afilmory/afilmory)** — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. ★2523
 - **[Torrent-Vibe/Torrent-Vibe](https://github.com/Torrent-Vibe/Torrent-Vibe)** — Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility. ★154
-- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. ★78705
+- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. ★78743
 
 ### Recent Writing
 
+- [Decoupling Hydration from the React UI: A Boundary Correction During SPA Startup](https://innei.in/posts/tech/decouple-hydration-from-react-ui) — 6/17/26
 - [第一次东京：迟到 26 年的旅行](https://innei.in/notes/215) — 6/13/26
 - [Hollowing Out Next.js: A Field Report on Migrating LobeHub's Backend to Hono](https://innei.in/posts/tech/nextjs-shell-hono-backend-migration) — 6/10/26
 - [When Life Is Consumed by AI, I Start Reflecting on Loneliness and Love](https://innei.in/notes/214) — 5/26/26
 - [Turning AI Sessions into Two Assets](https://innei.in/posts/tech/skill-first-blog-second-my-session-to-asset-pipeline) — 5/25/26
-- [LobeHub's Vite Route Module Warmup Practice](https://innei.in/posts/tech/lobehub-vite-route-module-prewarm) — 5/23/26
 
 <br />
 
