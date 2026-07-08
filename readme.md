@@ -20,17 +20,17 @@ $ rank
 
 - **[Innei/Shiro](https://github.com/Innei/Shiro)** — 📜 A minimalist personal website embodying the purity of paper and freshness of snow. ★4223
 - **[Innei/Yohaku](https://github.com/Innei/Yohaku)** — 余白 / Yohaku — A typographic design system for written content. One accent, three neutral tiers, the rest is whitespace. ★141
-- **[Afilmory/afilmory](https://github.com/Afilmory/afilmory)** — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. ★2543
+- **[Afilmory/afilmory](https://github.com/Afilmory/afilmory)** — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. ★2546
 - **[Torrent-Vibe/Torrent-Vibe](https://github.com/Torrent-Vibe/Torrent-Vibe)** — Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility. ★157
-- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. ★79546
+- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. ★79584
 
 ### Recent Writing
 
+- [Canary Releases at the CDN Edge: Split Traffic Before the Cache, Keep Assets Out of the Canary](https://innei.in/posts/tech/canary-at-the-cdn-edge) — 7/8/26
 - [别让 404 唤醒你的 Vercel 函数](https://innei.in/posts/tech/dont-let-404-wake-your-vercel-function) — 7/7/26
 - [Hand SSR to Cloudflare: Migrating Landing from Next.js to React Router in Two Days](https://innei.in/posts/tech/landing-nextjs-rsc-to-react-router-v8-edge-cache) — 7/4/26
 - [How to Stay in the Game in the Age of AI](https://innei.in/notes/216) — 6/28/26
 - [Decoupling Hydration from the React UI: A Boundary Correction During SPA Startup](https://innei.in/posts/tech/decouple-hydration-from-react-ui) — 6/17/26
-- [First Time in Tokyo: A Trip 26 Years in the Making](https://innei.in/notes/215) — 6/13/26
 
 <br />
 
