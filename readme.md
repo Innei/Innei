@@ -20,17 +20,17 @@ $ rank
 
 - **[Innei/Shiro](https://github.com/Innei/Shiro)** — 📜 A minimalist personal website embodying the purity of paper and freshness of snow. ★4245
 - **[Innei/Yohaku](https://github.com/Innei/Yohaku)** — 余白 / Yohaku — A typographic design system for written content. One accent, three neutral tiers, the rest is whitespace. ★169
-- **[Afilmory/afilmory](https://github.com/Afilmory/afilmory)** — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. ★2604
+- **[Afilmory/afilmory](https://github.com/Afilmory/afilmory)** — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. ★2605
 - **[Torrent-Vibe/Torrent-Vibe](https://github.com/Torrent-Vibe/Torrent-Vibe)** — Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility. ★157
-- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. ★81949
+- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. ★81971
 
 ### Recent Writing
 
+- [Midnight Notes: On Love, Freedom, and the Future](https://innei.in/notes/219) — 8/25/26
 - [UIKitCore Reverse Engineering Report](https://innei.in/posts/tinkering/uikitcore-reverse-engineering-report) — 8/23/26
 - [My Development Workflow in the Age of AI: From Debugging Post-Mortems to Parallel Verification](https://innei.in/posts/tinkering/ai-era-dev-workflow-review-and-verify) — 8/17/26
 - [Circulating Through Life](https://innei.in/notes/218) — 8/5/26
 - [Recreating the macOS Traffic Light Hover Menu](https://innei.in/posts/tinkering/macos-zoom-button-hover-menu) — 8/4/26
-- [Career Anxiety, Product Experiments, and Life Choices in the Age of AI](https://innei.in/notes/217) — 7/24/26
 
 <br />
 
