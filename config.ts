@@ -1,9 +1,10 @@
 export const opensource = {
   active: [
-    'Innei/Shiro',
+    //'Innei/Shiro',
     'Innei/Yohaku',
     'Afilmory/Afilmory',
     'Torrent-Vibe/Torrent-Vibe',
+    "kansoku-trade/kansoku",
     'lobehub/lobe-chat',
   ],
 }
