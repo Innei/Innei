@@ -18,16 +18,16 @@ $ rank
 
 ### Featured Work
 
-- **[Innei/Yohaku](https://github.com/Innei/Yohaku)** — 余白 / Yohaku — A typographic design system for written content. One accent, three neutral tiers, the rest is whitespace. ★182
-- **[Innei/lody-ios](https://github.com/Innei/lody-ios)** — Independent iOS client for Lody — native chat, sessions, and coding-agent collaboration on iPhone ★94
-- **[Afilmory/afilmory](https://github.com/Afilmory/afilmory)** — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. ★2615
+- **[Innei/Yohaku](https://github.com/Innei/Yohaku)** — 余白 / Yohaku — A typographic design system for written content. One accent, three neutral tiers, the rest is whitespace. ★183
+- **[Innei/lody-ios](https://github.com/Innei/lody-ios)** — Independent iOS client for Lody — native chat, sessions, and coding-agent collaboration on iPhone ★109
+- **[Afilmory/afilmory](https://github.com/Afilmory/afilmory)** — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. ★2616
 - **[Torrent-Vibe/Torrent-Vibe](https://github.com/Torrent-Vibe/Torrent-Vibe)** — Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility. ★158
-- **[kansoku-trade/kansoku](https://github.com/kansoku-trade/kansoku)** — AI Stock Partner on Your Mac – Local Market Information, Multi-timeframe K-line, AI Intraday Comments and Follow-up Analysis ★314
-- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. ★82437
+- **[kansoku-trade/kansoku](https://github.com/kansoku-trade/kansoku)** — AI Stock Partner on Your Mac – Local Market Information, Multi-timeframe K-line, AI Intraday Comments and Follow-up Analysis ★315
+- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. ★82454
 
 ### Recent Writing
 
-- [Prototype in a Day, Shipped in a Week: Building Lody iOS in Real Time](https://innei.in/posts/tech/lody-ios-prototype-to-product) — 9/13/26
+- [Prototype in a Day, Shipped in a Week: Building Lody iOS in Live](https://innei.in/posts/tech/lody-ios-prototype-to-product) — 9/13/26
 - [From Pure CSS to StyleX: Migrating 10,000 Lines of CSS with AI](https://innei.in/posts/tech/css-to-stylex-migration) — 8/30/26
 - [Midnight Notes: On Love, Freedom, and the Future](https://innei.in/notes/219) — 8/25/26
 - [UIKitCore Reverse Engineering Report](https://innei.in/posts/tinkering/uikitcore-reverse-engineering-report) — 8/23/26
