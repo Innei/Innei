@@ -54722,10 +54722,10 @@
         ]
       }
     },
-    "isOneTime": false,
-    "monthlyDollars": -1,
+    "isOneTime": true,
+    "monthlyDollars": 10,
     "privacyLevel": "PUBLIC",
-    "tierName": "$1 a month",
+    "tierName": "$10 one time",
     "createdAt": "2023-10-21T07:20:59Z",
     "provider": "github"
   },
