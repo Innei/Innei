@@ -720512,7 +720512,7 @@
         ]
       }
     },
-    "monthlyDollars": 3.076923076923077,
+    "monthlyDollars": 15.23076923076923,
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2026-10-16T16:26:37.000Z",
@@ -720522,16 +720522,16 @@
     "raw": {
       "sponsor_plans": [
         {
-          "can_ali_agreement": 0,
-          "plan_id": "b5343f72c3e611eab7d252540025c377",
+          "can_ali_agreement": 1,
+          "plan_id": "26868870665111f1beab52540025c377",
           "rank": 0,
           "user_id": "e97ad8460df611eab74952540025c377",
           "status": 1,
-          "name": "请作者吃顿饭",
+          "name": "Access Yohaku Repo",
           "pic": "",
-          "desc": "",
-          "price": "20.00",
-          "update_time": 1715224956,
+          "desc": "备注 GitHub Username",
+          "price": "99.00",
+          "update_time": 1781263471,
           "timing": {
             "timing_on": 0,
             "timing_off": 0,
@@ -720539,7 +720539,7 @@
             "timing_sell_off": 0
           },
           "pay_month": 1,
-          "show_price": "20.00",
+          "show_price": "99.00",
           "show_price_after_adjust": "",
           "has_coupon": 0,
           "coupon": [],
@@ -720562,16 +720562,16 @@
         }
       ],
       "current_plan": {
-        "can_ali_agreement": 0,
-        "plan_id": "b5343f72c3e611eab7d252540025c377",
+        "can_ali_agreement": 1,
+        "plan_id": "26868870665111f1beab52540025c377",
         "rank": 0,
         "user_id": "e97ad8460df611eab74952540025c377",
         "status": 1,
-        "name": "请作者吃顿饭",
+        "name": "Access Yohaku Repo",
         "pic": "",
-        "desc": "",
-        "price": "20.00",
-        "update_time": 1715224956,
+        "desc": "备注 GitHub Username",
+        "price": "99.00",
+        "update_time": 1781263471,
         "timing": {
           "timing_on": 0,
           "timing_off": 0,
@@ -720579,7 +720579,7 @@
           "timing_sell_off": 0
         },
         "pay_month": 1,
-        "show_price": "20.00",
+        "show_price": "99.00",
         "show_price_after_adjust": "",
         "has_coupon": 0,
         "coupon": [],
@@ -720600,9 +720600,9 @@
         "sku_processed": [],
         "rankType": 1
       },
-      "all_sum_amount": "20.00",
+      "all_sum_amount": "99.00",
       "first_pay_time": 1792167997,
-      "last_pay_time": 1792167997,
+      "last_pay_time": 1792333605,
       "user": {
         "user_id": "c56249ca84d211ed8af852540025c377",
         "name": "bld",
