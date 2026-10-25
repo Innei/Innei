@@ -3,7 +3,8 @@ export const opensource = {
     //'Innei/Shiro',
     'Innei/Yohaku',"innei/lody-ios",
     'Afilmory/Afilmory',
-    'Torrent-Vibe/Torrent-Vibe',
+    //'Torrent-Vibe/Torrent-Vibe',
+    "Innei/ryugi",
     "kansoku-trade/kansoku",
         
     'lobehub/lobe-chat',
