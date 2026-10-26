@@ -25,6 +25,12 @@ $ rank
 - **[kansoku-trade/kansoku](https://github.com/kansoku-trade/kansoku)** — AI Stock Partner on Your Mac – Local Market Information, Multi-timeframe K-line, AI Intraday Comments and Follow-up Analysis ★330
 - **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. ★83490
 
+### Agent Code Navigation
+
+- [Agent Code Navigation](./AGENTS.md)
+- Curated index of personal + maintained org repositories
+- Separates copy-friendly permissive licenses from study-first custom / copyleft projects
+
 ### Recent Writing
 
 - [October Lingers](https://innei.in/notes/221) — 10/25/26
@@ -48,5 +54,9 @@ $ rank
 </p>
 
 <p align="right">
-  <img src="./innei-signature.svg" alt="innei" width="160" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./innei-signature-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./innei-signature-light.svg" />
+    <img src="./innei-signature.svg" alt="innei" width="160" />
+  </picture>
 </p>

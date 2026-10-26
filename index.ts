@@ -2,6 +2,7 @@ import axios from 'axios'
 import { readFile, rm, writeFile } from 'fs/promises'
 import MarkdownIt from 'markdown-it'
 import * as rax from 'retry-axios'
+import { writeAgentsMarkdown } from './agents.js'
 import { github, motto, mxSpace, opensource, timeZone } from './config.js'
 import { COMMNETS } from './constants.js'
 import {
@@ -353,6 +354,8 @@ async function main() {
 
   const result = md.render(newContent)
   await writeFile('./index.html', result, { encoding: 'utf-8' })
+
+  await writeAgentsMarkdown(gh)
 }
 
 function gc(token: keyof typeof COMMNETS) {
