@@ -20,6 +20,12 @@ $ rank
 
 <!-- opensource_dashboard:active -->
 
+### Agent Code Navigation
+
+- [Agent Code Navigation](./AGENTS.md)
+- Curated index of personal + maintained org repositories
+- Separates copy-friendly permissive licenses from study-first custom / copyleft projects
+
 ### Recent Writing
 
 <!-- recent_posts_inject -->
@@ -39,5 +45,9 @@ $ rank
 </p>
 
 <p align="right">
-  <img src="./innei-signature.svg" alt="innei" width="160" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./innei-signature-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./innei-signature-light.svg" />
+    <img src="./innei-signature.svg" alt="innei" width="160" />
+  </picture>
 </p>
