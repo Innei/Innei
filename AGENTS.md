@@ -4,8 +4,8 @@ This page curates Innei's public repositories from the perspective of **what an 
 
 It covers both personal repositories and projects maintained under other GitHub scopes.
 
-- Included: **58** repositories (**32** copy-friendly, **26** study-first)
-- Scopes: personal `Innei`, org `Afilmory`, org `Torrent-Vibe`, org `mx-space`, org `jwcjs`, org `reactify-component`, extra `lobehub/lobehub`
+- Included: **59** repositories (**32** copy-friendly, **27** study-first)
+- Scopes: personal `Innei`, org `Afilmory`, org `Torrent-Vibe`, org `mx-space`, org `jwcjs`, org `reactify-component`, org `kansoku-trade`, extra `lobehub/lobehub`
 - Copy-friendly licenses: `MIT`, `Apache-2.0`, `BSD`, `Unlicense`, `WTFPL`, `CC0`, `ISC`, and similar permissive licenses
 - Usage: start with **Copy-Friendly** when you need reusable code; use **Study-First** for high-signal maintained projects with custom, missing, or copyleft licenses
 - Reminder: keep the original `LICENSE` / `NOTICE`, and double-check third-party dependencies, assets, trademarks, and service terms before reusing code
@@ -21,14 +21,14 @@ It covers both personal repositories and projects maintained under other GitHub 
 
 ### By type
 
-- **App** × 25
+- **App** × 26
 - **Library** × 19
 - **Tooling** × 14
 
 ### By license label
 
 - **MIT** × 30
-- **unlicensed** × 19
+- **unlicensed** × 20
 - **Apache-2.0** × 2
 - **custom** × 2
 - **AGPL-3.0 + additional terms** × 1
@@ -90,7 +90,8 @@ These are actively maintained or high-signal projects under personal or org scop
 | [mx-space/core](https://github.com/mx-space/core) | `App` | `Custom dual (MIT packages / AGPL apps)` | `TypeScript` | AI-powered CMS core, Nest-style backend modules, and blog platform boundaries. `apps/` is AGPL; non-app packages are MIT. | AI-powered CMS core for personal blogs and creator websites, with AI summaries, translation, moderation, and writing workflows. |
 | [Innei/lody-ios](https://github.com/Innei/lody-ios) | `App` | `custom` | `Swift` | Full product structure, module boundaries, and interaction flow. | Independent iOS client for Lody — native chat, sessions, and coding-agent collaboration on iPhone |
 | [mx-space/kami](https://github.com/mx-space/kami) | `App` | `GPL-3.0` | `TypeScript` | Colorful flat blog theme architecture and Mix Space frontend patterns. Copyleft — study structure carefully. | 🍰 Kami is mx-space's web frontend theme. Colorful, flat, cute and comfortable. |
-| [Innei/ryugi](https://github.com/Innei/ryugi) | `App` | `custom` | `TypeScript` | Full product structure, module boundaries, and interaction flow. | 流儀 — a development workflow for coding agents: brainstorm with mockups, approve a spec, build it under TDD |
+| [kansoku-trade/kansoku](https://github.com/kansoku-trade/kansoku) | `App` | `unlicensed` | `TypeScript` | macOS market observatory, multi-timeframe K-line charts, local market data, and AI intraday analysis. Study only until a license is published. | AI Stock Partner on Your Mac – Local Market Information, Multi-timeframe K-line, AI Intraday Comments and Follow-up Analysis |
+| [Innei/ryugi](https://github.com/Innei/ryugi) | `App` | `custom` | `Shell` | Full product structure, module boundaries, and interaction flow. | 流儀 — a skills collection for coding agents and the artifacts workbench they design in: live artboards, commentable documents, HTML test benches, TDD builds |
 | [Innei/shuffle-article](https://github.com/Innei/shuffle-article) | `Library` | `unlicensed` | `TypeScript` | DOM text shuffling while preserving visual layout for lightweight copy protection. Study only until a license is published. | Shuffle text in the DOM while preserving visual rendering for lightweight copy protection. |
 | [Innei/Yohaku](https://github.com/Innei/Yohaku) | `Library` | `unlicensed` | `TypeScript` | Typographic design tokens, accent/neutral tiers, and whitespace-first layout system. Study only until a license is published. | 余白 / Yohaku — A typographic design system for written content. One accent, three neutral tiers, the rest is whitespace. |
 | [Torrent-Vibe/Torrent-Vibe](https://github.com/Torrent-Vibe/Torrent-Vibe) | `App` | `unlicensed` | `TypeScript` | qBittorrent web UI architecture, performance-oriented torrent management, and cross-platform desktop shell. Study only until a license is published. | Torrent Vibe, a modern, elegant web interface for qBittorrent that transforms your torrent management experience with enhanced performance, intuitive design, and cross-platform compatibility. |

@@ -41,6 +41,7 @@ export const agents = {
     'mx-space',
     'jwcjs',
     'reactify-component',
+    'kansoku-trade',
   ] as string[],
   extraRepos: ['lobehub/lobehub'] as string[],
   excludeFullNames: [
@@ -198,10 +199,10 @@ export const agents = {
       license: 'unlicensed',
       copy: 'Lexical editor schema, SSR path, and AI agent LiteXML protocol. Study only until a license is published.',
     },
-    'Innei/kansoku': {
+    'kansoku-trade/kansoku': {
       type: 'App',
       license: 'unlicensed',
-      copy: 'Personal market observatory, trading records, agent skills, and realtime charts. Study only until a license is published.',
+      copy: 'macOS market observatory, multi-timeframe K-line charts, local market data, and AI intraday analysis. Study only until a license is published.',
     },
     'Innei/FWTI': {
       type: 'App',
