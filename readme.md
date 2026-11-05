@@ -19,11 +19,11 @@ $ rank
 ### Featured Work
 
 - **[Innei/Yohaku](https://github.com/Innei/Yohaku)** — 余白 / Yohaku — A typographic design system for written content. One accent, three neutral tiers, the rest is whitespace. ★205
-- **[Innei/lody-ios](https://github.com/Innei/lody-ios)** — Independent iOS client for Lody — native chat, sessions, and coding-agent collaboration on iPhone ★529
+- **[Innei/lody-ios](https://github.com/Innei/lody-ios)** — Independent iOS client for Lody — native chat, sessions, and coding-agent collaboration on iPhone ★528
 - **[Afilmory/afilmory](https://github.com/Afilmory/afilmory)** — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. ★2669
-- **[Innei/ryugi](https://github.com/Innei/ryugi)** — 流儀 — a skills collection for coding agents and the artifacts workbench they design in: live artboards, commentable documents, HTML test benches, TDD builds ★330
+- **[Innei/ryugi](https://github.com/Innei/ryugi)** — 流儀 — a skills collection for coding agents and the artifacts workbench they design in: live artboards, commentable documents, HTML test benches, TDD builds ★345
 - **[kansoku-trade/kansoku](https://github.com/kansoku-trade/kansoku)** — AI Stock Partner on Your Mac – Local Market Information, Multi-timeframe K-line, AI Intraday Comments and Follow-up Analysis ★333
-- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. ★83784
+- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. ★83880
 
 ### Agent Code Navigation
 
@@ -33,11 +33,11 @@ $ rank
 
 ### Recent Writing
 
+- [Replacing Ant Design with Base UI and StyleX: A 10-Month Incremental Migration at LobeHub](https://innei.in/posts/tech/lobehub-antd-to-base-ui-stylex-migration) — 11/4/26
 - [October Lingers](https://innei.in/notes/221) — 10/25/26
 - [How I Verify AI-Native iOS Development](https://innei.in/posts/tech/ai-native-ios-e2e-verification) — 10/10/26
 - [Rain, Then Sun](https://innei.in/notes/220) — 10/6/26
 - [Making a Steins;Gate Music Video with Claude Code, Codex, and Remotion](https://innei.in/posts/tinkering/steins-gate-mv-with-claude-code) — 9/30/26
-- [Making Electron Updates Fast: The Times I Tore Down and Rebuilt My OTA Update System](https://innei.in/posts/tech/electron-ota-updater) — 9/29/26
 
 <br />
 
