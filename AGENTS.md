@@ -4,7 +4,7 @@ This page curates Innei's public repositories from the perspective of **what an 
 
 It covers both personal repositories and projects maintained under other GitHub scopes.
 
-- Included: **59** repositories (**32** copy-friendly, **27** study-first)
+- Included: **58** repositories (**32** copy-friendly, **26** study-first)
 - Scopes: personal `Innei`, org `Afilmory`, org `Torrent-Vibe`, org `mx-space`, org `jwcjs`, org `reactify-component`, org `kansoku-trade`, extra `lobehub/lobehub`
 - Copy-friendly licenses: `MIT`, `Apache-2.0`, `BSD`, `Unlicense`, `WTFPL`, `CC0`, `ISC`, and similar permissive licenses
 - Usage: start with **Copy-Friendly** when you need reusable code; use **Study-First** for high-signal maintained projects with custom, missing, or copyleft licenses
@@ -21,7 +21,7 @@ It covers both personal repositories and projects maintained under other GitHub 
 
 ### By type
 
-- **App** × 26
+- **App** × 25
 - **Library** × 19
 - **Tooling** × 14
 
@@ -30,9 +30,9 @@ It covers both personal repositories and projects maintained under other GitHub 
 - **MIT** × 30
 - **unlicensed** × 20
 - **Apache-2.0** × 2
-- **custom** × 2
 - **AGPL-3.0 + additional terms** × 1
 - **ANL dual (MIT lib / AGPL app)** × 1
+- **custom** × 1
 - **custom / NOASSERTION** × 1
 - **Custom dual (MIT packages / AGPL apps)** × 1
 - **GPL-3.0** × 1
@@ -88,7 +88,6 @@ These are actively maintained or high-signal projects under personal or org scop
 | [Innei/Shiro](https://github.com/Innei/Shiro) | `App` | `AGPL-3.0 + additional terms` | `TypeScript` | Personal site architecture, CMS integration, theme system, and content rendering. Study only — AGPL with extra terms. | 📜 A minimalist personal website embodying the purity of paper and freshness of snow. |
 | [Afilmory/afilmory](https://github.com/Afilmory/afilmory) | `App` | `ANL dual (MIT lib / AGPL app)` | `TypeScript` | Photo gallery product structure, S3/GitHub sync, EXIF pipeline, maps, and WebGL viewer. Library packages may be MIT; app is AGPL + attribution. | Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. |
 | [mx-space/core](https://github.com/mx-space/core) | `App` | `Custom dual (MIT packages / AGPL apps)` | `TypeScript` | AI-powered CMS core, Nest-style backend modules, and blog platform boundaries. `apps/` is AGPL; non-app packages are MIT. | AI-powered CMS core for personal blogs and creator websites, with AI summaries, translation, moderation, and writing workflows. |
-| [Innei/lody-ios](https://github.com/Innei/lody-ios) | `App` | `custom` | `Swift` | Full product structure, module boundaries, and interaction flow. | Independent iOS client for Lody — native chat, sessions, and coding-agent collaboration on iPhone |
 | [Innei/ryugi](https://github.com/Innei/ryugi) | `App` | `custom` | `JavaScript` | Full product structure, module boundaries, and interaction flow. | 流儀 — a skills collection for coding agents and the artifacts workbench they design in: live artboards, commentable documents, HTML test benches, TDD builds |
 | [mx-space/kami](https://github.com/mx-space/kami) | `App` | `GPL-3.0` | `TypeScript` | Colorful flat blog theme architecture and Mix Space frontend patterns. Copyleft — study structure carefully. | 🍰 Kami is mx-space's web frontend theme. Colorful, flat, cute and comfortable. |
 | [kansoku-trade/kansoku](https://github.com/kansoku-trade/kansoku) | `App` | `unlicensed` | `TypeScript` | macOS market observatory, multi-timeframe K-line charts, local market data, and AI intraday analysis. Study only until a license is published. | AI Stock Partner on Your Mac – Local Market Information, Multi-timeframe K-line, AI Intraday Comments and Follow-up Analysis |
