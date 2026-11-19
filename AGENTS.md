@@ -4,7 +4,7 @@ This page curates Innei's public repositories from the perspective of **what an 
 
 It covers both personal repositories and projects maintained under other GitHub scopes.
 
-- Included: **58** repositories (**32** copy-friendly, **26** study-first)
+- Included: **57** repositories (**31** copy-friendly, **26** study-first)
 - Scopes: personal `Innei`, org `Afilmory`, org `Torrent-Vibe`, org `mx-space`, org `jwcjs`, org `reactify-component`, org `kansoku-trade`, extra `lobehub/lobehub`
 - Copy-friendly licenses: `MIT`, `Apache-2.0`, `BSD`, `Unlicense`, `WTFPL`, `CC0`, `ISC`, and similar permissive licenses
 - Usage: start with **Copy-Friendly** when you need reusable code; use **Study-First** for high-signal maintained projects with custom, missing, or copyleft licenses
@@ -21,13 +21,13 @@ It covers both personal repositories and projects maintained under other GitHub 
 
 ### By type
 
-- **App** × 25
+- **App** × 24
 - **Library** × 19
 - **Tooling** × 14
 
 ### By license label
 
-- **MIT** × 30
+- **MIT** × 29
 - **unlicensed** × 20
 - **Apache-2.0** × 2
 - **AGPL-3.0 + additional terms** × 1
@@ -62,7 +62,6 @@ These repositories declare a clear permissive SPDX license on GitHub. Prefer the
 | [Innei/lumeo](https://github.com/Innei/lumeo) | `Library` | `MIT` | `TypeScript` | Image zoom/lightbox interactions, album navigation, and gesture/keyboard control. | Image zoom and multi-image lightbox — TypeScript fork of medium-zoom with album navigation, gestures, keyboard control, and a thumbnail strip. |
 | [mx-space/byline](https://github.com/mx-space/byline) | `App` | `MIT` | `TypeScript` | Full product structure, module boundaries, and interaction flow. | Slim, multi-author, AI-native headless CMS derived from Mix Space |
 | [Innei/book-supabase-lemonsqueezy](https://github.com/Innei/book-supabase-lemonsqueezy) | `App` | `MIT` | `TypeScript` | Full product structure, module boundaries, and interaction flow. | — |
-| [Innei/ChatKit](https://github.com/Innei/ChatKit) | `App` | `MIT` | `Swift` | Full product structure, module boundaries, and interaction flow. | UIKit chat primitives: streaming text reveal, attachment strip, glass surface. iOS 26, Swift 6. |
 | [Innei/rayon-terminal](https://github.com/Innei/rayon-terminal) | `App` | `MIT` | `TypeScript` | Full product structure, module boundaries, and interaction flow. | A terminal implementation for Rayon. |
 | [Innei/spare-disk](https://github.com/Innei/spare-disk) | `App` | `MIT` | `Shell` | Full product structure, module boundaries, and interaction flow. | macOS emergency 100GiB disk placeholder. Preallocate without zero-fill, exclude from Time Machine, delete when the disk is full. |
 | [Innei/vscode-nvim-config](https://github.com/Innei/vscode-nvim-config) | `Tooling` | `Apache-2.0` | `Lua` | CLI/service interfaces, automation flows, and integration patterns. | — |
