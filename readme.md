@@ -20,10 +20,10 @@ $ rank
 
 - **[Innei/Yohaku](https://github.com/Innei/Yohaku)** — 余白 / Yohaku — A typographic design system for written content. One accent, three neutral tiers, the rest is whitespace. ★210
 - **[LodyAI/lody-ios](https://github.com/LodyAI/lody-ios)** — Independent iOS client for Lody — native chat, sessions, and coding-agent collaboration on iPhone ★536
-- **[Afilmory/afilmory](https://github.com/Afilmory/afilmory)** — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. ★2678
-- **[Innei/ryugi](https://github.com/Innei/ryugi)** — Ryugi (ryoo-ghee) — artifacts for coding agents: artboards of mockups, design docs, whiteboards, HTML benches and verify reports you comment on, with every comment sent back to the agent. Install artifacts only, or the full brainstorm → spec → TDD workflow. Claude Code, Codex and more. ★535
+- **[Afilmory/afilmory](https://github.com/Afilmory/afilmory)** — Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. ★2679
+- **[Innei/ryugi](https://github.com/Innei/ryugi)** — Ryugi (ryoo-ghee) — artifacts for coding agents: artboards of mockups, design docs, whiteboards, HTML benches and verify reports you comment on, with every comment sent back to the agent. Install artifacts only, or the full brainstorm → spec → TDD workflow. Claude Code, Codex and more. ★540
 - **[kansoku-trade/kansoku](https://github.com/kansoku-trade/kansoku)** — AI Stock Partner on Your Mac – Local Market Information, Multi-timeframe K-line, AI Intraday Comments and Follow-up Analysis ★337
-- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week. ★85798
+- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week. ★85863
 
 ### Agent Code Navigation
 
@@ -33,7 +33,7 @@ $ rank
 
 ### Recent Writing
 
-- [The Aesthetic Deficit of the AI Era: When Anyone Can Build an App](https://innei.in/posts/tinkering/AI-App) — 11/19/26
+- [The Aesthetic Deficit of the AI Era: When Anyone Can Build an App](https://innei.in/posts/thinking/ai-aesthetic-deficit-anyone-can-build-an-app) — 11/19/26
 - [Ask First, Draw It Out, Then Prove It: My Ryugi Workflow for Coding Agents](https://innei.in/posts/tech/ryugi-workflow) — 11/15/26
 - [Migrating from React Native to UIKit in 87 Hours: Hollow Out the Data Layer, Then Invert the Host](https://innei.in/posts/tech/react-native-to-uikit-migration) — 11/8/26
 - [Replacing Ant Design with Base UI and StyleX: A 10-Month Incremental Migration at LobeHub](https://innei.in/posts/tech/lobehub-antd-to-base-ui-stylex-migration) — 11/4/26
